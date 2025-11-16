@@ -95,7 +95,7 @@
     "side": "sell",
     "stop_trigger_method": null,
     "product_id": 103978,
-    "limit_price": "1725.79",
+    "limit_price": 1723.99,
     "commission": "0",
     "updated_at": "2025-11-16T22:55:13.018880Z",
     "size": 300,
