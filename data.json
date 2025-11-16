@@ -3,7 +3,7 @@
   "allowedOrderforFunc2":{"1035429567":true},
   "minUpdateOrderLimitForFunc2":{"1035429567":1},
   "dropThresholdForFunc2":{"1024279207":1.5,"961159581":20,"1035429567":2},
-  "tickSizeForFunc2":{,"1035429567":1.81},
+  "tickSizeForFunc2":{"1035429567":1.81},
   "filterSizeForFunc2":{"1035429567":500},
   "dropThreshold":45,
   "minPriceForFunc1":5.0,
