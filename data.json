@@ -8,7 +8,7 @@
   "dropThreshold":45,
   "minPriceForFunc1":5.0,
   "PriceChangeDiffForFunc3":2.11,
-  "marketPriceCorrectionForFunc3":{"1040041117":-0.3},
+  "marketPriceCorrectionForFunc3":{"1040041117":-0.2},
   "minTargetPriceToSellForFunc3":{"1040041117":400},
   "updateSellOrderIdList":[1040041117],
   "symbols":["P-ETH-4800-261225","P-ETH-4500-261225","P-ETH-4000-261225"]
