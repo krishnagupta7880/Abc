@@ -64,7 +64,7 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": "1499.69",
+    "limit_price": 1499.59,
     "average_fill_price": "1442.54"
   },
   {
@@ -130,7 +130,7 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": "1794.79",
+    "limit_price": 1794.69,
     "average_fill_price": null
   }
 ]
