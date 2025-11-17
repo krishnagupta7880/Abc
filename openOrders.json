@@ -78,7 +78,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-17T02:30:18.432239Z",
+    "updated_at": "2025-11-17T02:30:44.464342Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 37780748,
     "paid_commission": "0",
@@ -95,7 +95,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-17T02:30:18.431Z"
+      "user_updated_at": "2025-11-17T02:30:44.463Z"
     },
     "size": 300,
     "product": {
@@ -127,7 +127,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": 1669.39,
+    "limit_price": 1669.49,
     "bracket_order": null
   }
 ]
