@@ -15,7 +15,7 @@
     "paid_commission": "0.04684447",
     "side": "sell",
     "cancellation_reason": null,
-    "updated_at": "2025-11-20T07:28:43.796614Z",
+    "updated_at": "2025-11-20T07:29:08.814636Z",
     "bracket_order": null,
     "product_id": 103961,
     "bracket_take_profit_price": null,
@@ -25,7 +25,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-20T07:28:43.796Z"
+      "user_updated_at": "2025-11-20T07:29:08.814Z"
     },
     "mmp": "disabled",
     "trail_amount": null,
@@ -64,7 +64,7 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": 1493.69,
+    "limit_price": 1493.99,
     "average_fill_price": "1575.336"
   },
   {
@@ -83,7 +83,7 @@
     "paid_commission": "0",
     "side": "sell",
     "cancellation_reason": null,
-    "updated_at": "2025-11-20T07:28:49.020411Z",
+    "updated_at": "2025-11-20T07:29:14.048289Z",
     "bracket_order": null,
     "product_id": 103978,
     "bracket_take_profit_price": null,
@@ -91,7 +91,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-20T07:28:49.019Z"
+      "user_updated_at": "2025-11-20T07:29:14.047Z"
     },
     "mmp": "disabled",
     "trail_amount": null,
@@ -130,7 +130,7 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": 1789.79,
+    "limit_price": 1790.79,
     "average_fill_price": null
   }
 ]
