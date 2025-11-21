@@ -7,7 +7,7 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-21T00:42:00.609242Z",
+    "updated_at": "2025-11-21T00:42:28.385255Z",
     "state": "open",
     "reduce_only": false,
     "id": 1047344847,
@@ -16,14 +16,14 @@
       "ip": "2404:7c00:4a:d0ca:d2e5:e889:d821:f5db",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-21T00:42:00.608Z"
+      "user_updated_at": "2025-11-21T00:42:28.384Z"
     },
     "commission": "0",
     "bracket_trail_amount": null,
     "side": "sell",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": 2445.38,
+    "limit_price": "2450.39",
     "bracket_order": null,
     "trail_amount": null,
     "product": {
@@ -73,7 +73,7 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0.04684447",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-21T00:42:04.599443Z",
+    "updated_at": "2025-11-21T00:42:29.611040Z",
     "state": "open",
     "reduce_only": false,
     "id": 1040069051,
@@ -84,14 +84,14 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-21T00:42:04.598Z"
+      "user_updated_at": "2025-11-21T00:42:29.610Z"
     },
     "commission": "0",
     "bracket_trail_amount": null,
     "side": "sell",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": "1650.39",
+    "limit_price": "1652.69",
     "bracket_order": null,
     "trail_amount": null,
     "product": {
@@ -141,7 +141,7 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-21T00:42:01.288942Z",
+    "updated_at": "2025-11-21T00:42:35.318287Z",
     "state": "open",
     "reduce_only": false,
     "id": 1040041117,
@@ -150,7 +150,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-21T00:42:01.288Z"
+      "user_updated_at": "2025-11-21T00:42:35.317Z"
     },
     "commission": "0",
     "bracket_trail_amount": null,
