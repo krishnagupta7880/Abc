@@ -90,7 +90,7 @@
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "product_id": 103961,
-    "limit_price": "1783.19",
+    "limit_price": 1783.89,
     "time_in_force": "gtc",
     "updated_at": "2025-11-22T05:25:34.014995Z",
     "size": 300,
