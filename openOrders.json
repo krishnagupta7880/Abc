@@ -4,7 +4,7 @@
     "average_fill_price": null,
     "user_id": 37780748,
     "quote_size": null,
-    "limit_price": "2573.09",
+    "limit_price": 2572.29,
     "state": "open",
     "cancellation_reason": null,
     "id": 1047344847,
@@ -70,7 +70,7 @@
     "average_fill_price": "1691.509166666666666667",
     "user_id": 37780748,
     "quote_size": null,
-    "limit_price": "1771.59",
+    "limit_price": 1768.98,
     "state": "open",
     "cancellation_reason": null,
     "id": 1040069051,
@@ -138,7 +138,7 @@
     "average_fill_price": null,
     "user_id": 37780748,
     "quote_size": null,
-    "limit_price": "2071.29",
+    "limit_price": "2070.79",
     "state": "open",
     "cancellation_reason": null,
     "id": 1040041117,
@@ -155,7 +155,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-22T21:40:07.914Z"
+      "user_updated_at": "2025-11-22T21:40:32.934Z"
     },
     "paid_commission": "0",
     "trail_amount": null,
@@ -197,6 +197,6 @@
     "reduce_only": false,
     "product_id": 103978,
     "order_type": "limit_order",
-    "updated_at": "2025-11-22T21:40:07.915010Z"
+    "updated_at": "2025-11-22T21:40:32.934775Z"
   }
 ]
