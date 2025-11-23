@@ -7,7 +7,7 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-23T18:42:33.138013Z",
+    "updated_at": "2025-11-23T18:42:58.849819Z",
     "state": "open",
     "reduce_only": false,
     "id": 1047344847,
@@ -16,14 +16,14 @@
       "ip": "2404:7c00:4a:d0ca:d2e5:e889:d821:f5db",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-23T18:42:33.137Z"
+      "user_updated_at": "2025-11-23T18:42:58.849Z"
     },
     "commission": "0",
     "bracket_trail_amount": null,
     "side": "sell",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": 2504.29,
+    "limit_price": "2504.29",
     "bracket_order": null,
     "trail_amount": null,
     "product": {
@@ -73,7 +73,7 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0.10770507",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-23T18:42:22.655396Z",
+    "updated_at": "2025-11-23T18:42:47.889151Z",
     "state": "open",
     "reduce_only": false,
     "id": 1040069051,
@@ -84,14 +84,14 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-23T18:42:22.654Z"
+      "user_updated_at": "2025-11-23T18:42:47.888Z"
     },
     "commission": "0",
     "bracket_trail_amount": null,
     "side": "sell",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": 1704.49,
+    "limit_price": "1704.49",
     "bracket_order": null,
     "trail_amount": null,
     "product": {
