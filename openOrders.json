@@ -24,16 +24,16 @@
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "product_id": 103987,
-    "limit_price": 2525.39,
+    "limit_price": "2527.89",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-23T07:40:13.975845Z",
+    "updated_at": "2025-11-23T07:40:53.374841Z",
     "size": 200,
     "created_at": "2025-11-20T17:20:42.125032Z",
     "meta_data": {
       "ip": "2404:7c00:4a:d0ca:d2e5:e889:d821:f5db",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-23T07:40:13.975Z"
+      "user_updated_at": "2025-11-23T07:40:53.374Z"
     },
     "order_type": "limit_order",
     "product": {
@@ -90,9 +90,9 @@
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "product_id": 103961,
-    "limit_price": 1724.79,
+    "limit_price": "1727.19",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-23T07:40:13.581032Z",
+    "updated_at": "2025-11-23T07:40:52.579185Z",
     "size": 300,
     "created_at": "2025-11-16T19:19:45.343998Z",
     "meta_data": {
@@ -101,7 +101,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-23T07:40:13.580Z"
+      "user_updated_at": "2025-11-23T07:40:52.578Z"
     },
     "order_type": "limit_order",
     "product": {
@@ -158,16 +158,16 @@
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "product_id": 103978,
-    "limit_price": 2023.89,
+    "limit_price": "2026.49",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-23T07:40:13.724364Z",
+    "updated_at": "2025-11-23T07:40:52.710376Z",
     "size": 100,
     "created_at": "2025-11-16T18:53:56.306545Z",
     "meta_data": {
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-23T07:40:13.723Z"
+      "user_updated_at": "2025-11-23T07:40:52.709Z"
     },
     "order_type": "limit_order",
     "product": {
