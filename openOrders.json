@@ -21,7 +21,7 @@
       "ip": "2404:7c00:4a:d0ca:d2e5:e889:d821:f5db",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-23T23:04:18.135Z"
+      "user_updated_at": "2025-11-23T23:04:40.337Z"
     },
     "paid_commission": "0",
     "trail_amount": null,
@@ -63,7 +63,7 @@
     "reduce_only": false,
     "product_id": 103987,
     "order_type": "limit_order",
-    "updated_at": "2025-11-23T23:04:18.135942Z"
+    "updated_at": "2025-11-23T23:04:40.337739Z"
   },
   {
     "bracket_stop_loss_price": null,
@@ -89,7 +89,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-23T23:04:23.165Z"
+      "user_updated_at": "2025-11-23T23:04:40.057Z"
     },
     "paid_commission": "0.10770507",
     "trail_amount": null,
@@ -131,7 +131,7 @@
     "reduce_only": false,
     "product_id": 103961,
     "order_type": "limit_order",
-    "updated_at": "2025-11-23T23:04:23.165799Z"
+    "updated_at": "2025-11-23T23:04:40.058252Z"
   },
   {
     "bracket_stop_loss_price": null,
