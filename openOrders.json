@@ -26,14 +26,14 @@
     "product_id": 103987,
     "limit_price": 2510.09,
     "time_in_force": "gtc",
-    "updated_at": "2025-11-23T18:53:45.055822Z",
+    "updated_at": "2025-11-23T18:53:41.249713Z",
     "size": 200,
     "created_at": "2025-11-20T17:20:42.125032Z",
     "meta_data": {
       "ip": "2404:7c00:4a:d0ca:d2e5:e889:d821:f5db",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-23T18:53:45.055Z"
+      "user_updated_at": "2025-11-23T18:53:41.249Z"
     },
     "order_type": "limit_order",
     "product": {
