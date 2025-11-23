@@ -91,7 +91,7 @@
     "side": "sell",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": "1698.89",
+    "limit_price": 1699.49,
     "bracket_order": null,
     "trail_amount": null,
     "product": {
@@ -157,7 +157,7 @@
     "side": "sell",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": "1997.49",
+    "limit_price": 1998.29,
     "bracket_order": null,
     "trail_amount": null,
     "product": {
