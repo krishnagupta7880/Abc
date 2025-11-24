@@ -10,7 +10,7 @@
       "ip": "2404:7c00:4a:d0ca:d2e5:e889:d821:f5db",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T22:30:06.746Z"
+      "user_updated_at": "2025-11-24T22:30:26.373Z"
     },
     "paid_commission": "0",
     "bracket_order": null,
@@ -30,9 +30,9 @@
     "side": "sell",
     "stop_trigger_method": null,
     "product_id": 103987,
-    "limit_price": 2352.88,
+    "limit_price": 2355.59,
     "commission": "0",
-    "updated_at": "2025-11-24T22:30:06.747481Z",
+    "updated_at": "2025-11-24T22:30:26.374339Z",
     "size": 200,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
@@ -78,7 +78,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T22:30:07.192Z"
+      "user_updated_at": "2025-11-24T22:30:09.231Z"
     },
     "paid_commission": "0.25899807",
     "bracket_order": null,
@@ -98,9 +98,9 @@
     "side": "sell",
     "stop_trigger_method": null,
     "product_id": 103961,
-    "limit_price": "1552.77",
+    "limit_price": "1556.99",
     "commission": "0",
-    "updated_at": "2025-11-24T22:30:07.192722Z",
+    "updated_at": "2025-11-24T22:30:09.232166Z",
     "size": 300,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
@@ -144,7 +144,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T22:29:56.637Z"
+      "user_updated_at": "2025-11-24T22:30:21.597Z"
     },
     "paid_commission": "0",
     "bracket_order": null,
@@ -164,9 +164,9 @@
     "side": "sell",
     "stop_trigger_method": null,
     "product_id": 103978,
-    "limit_price": "1854.79",
+    "limit_price": "1854.89",
     "commission": "0",
-    "updated_at": "2025-11-24T22:29:56.638495Z",
+    "updated_at": "2025-11-24T22:30:21.598419Z",
     "size": 100,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
