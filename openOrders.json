@@ -7,7 +7,7 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-24T15:32:10.876820Z",
+    "updated_at": "2025-11-24T15:32:02.857987Z",
     "state": "open",
     "reduce_only": false,
     "id": 1047344847,
@@ -16,7 +16,7 @@
       "ip": "2404:7c00:4a:d0ca:d2e5:e889:d821:f5db",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T15:32:10.876Z"
+      "user_updated_at": "2025-11-24T15:32:02.857Z"
     },
     "commission": "0",
     "bracket_trail_amount": null,
@@ -73,7 +73,7 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0.19428413",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-24T15:32:10.805201Z",
+    "updated_at": "2025-11-24T15:32:03.543802Z",
     "state": "open",
     "reduce_only": false,
     "id": 1040069051,
@@ -84,7 +84,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T15:32:10.804Z"
+      "user_updated_at": "2025-11-24T15:32:03.543Z"
     },
     "commission": "0",
     "bracket_trail_amount": null,
