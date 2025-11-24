@@ -141,7 +141,7 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-24T23:12:06.396393Z",
+    "updated_at": "2025-11-24T23:12:06.528227Z",
     "state": "open",
     "reduce_only": false,
     "id": 1040041117,
@@ -150,7 +150,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T23:12:06.395Z"
+      "user_updated_at": "2025-11-24T23:12:06.527Z"
     },
     "commission": "0",
     "bracket_trail_amount": null,
