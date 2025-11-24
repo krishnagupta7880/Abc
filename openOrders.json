@@ -144,7 +144,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T16:18:38.250Z"
+      "user_updated_at": "2025-11-24T16:18:31.690Z"
     },
     "paid_commission": "0",
     "bracket_order": null,
@@ -164,9 +164,9 @@
     "side": "sell",
     "stop_trigger_method": null,
     "product_id": 103978,
-    "limit_price": 1965.18,
+    "limit_price": 1963.07,
     "commission": "0",
-    "updated_at": "2025-11-24T16:18:38.250704Z",
+    "updated_at": "2025-11-24T16:18:31.691309Z",
     "size": 100,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
