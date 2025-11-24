@@ -24,7 +24,7 @@
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "product_id": 103987,
-    "limit_price": "2502.29",
+    "limit_price": 2502.59,
     "time_in_force": "gtc",
     "updated_at": "2025-11-24T09:13:58.726778Z",
     "size": 200,
