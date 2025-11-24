@@ -4,7 +4,7 @@
     "average_fill_price": null,
     "user_id": 37780748,
     "quote_size": null,
-    "limit_price": "2341.39",
+    "limit_price": 2341.39,
     "state": "open",
     "cancellation_reason": null,
     "id": 1047344847,
@@ -21,7 +21,7 @@
       "ip": "2404:7c00:4a:d0ca:d2e5:e889:d821:f5db",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T20:15:56.721Z"
+      "user_updated_at": "2025-11-24T20:15:46.515Z"
     },
     "paid_commission": "0",
     "trail_amount": null,
@@ -63,7 +63,7 @@
     "reduce_only": false,
     "product_id": 103987,
     "order_type": "limit_order",
-    "updated_at": "2025-11-24T20:15:56.722444Z"
+    "updated_at": "2025-11-24T20:15:46.516521Z"
   },
   {
     "bracket_stop_loss_price": null,
@@ -89,7 +89,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T20:15:47.551Z"
+      "user_updated_at": "2025-11-24T20:15:47.181Z"
     },
     "paid_commission": "0.25899807",
     "trail_amount": null,
@@ -131,14 +131,14 @@
     "reduce_only": false,
     "product_id": 103961,
     "order_type": "limit_order",
-    "updated_at": "2025-11-24T20:15:47.552246Z"
+    "updated_at": "2025-11-24T20:15:47.182372Z"
   },
   {
     "bracket_stop_loss_price": null,
     "average_fill_price": null,
     "user_id": 37780748,
     "quote_size": null,
-    "limit_price": 1842.09,
+    "limit_price": 1835.76,
     "state": "open",
     "cancellation_reason": null,
     "id": 1040041117,
@@ -155,7 +155,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T20:15:58.265Z"
+      "user_updated_at": "2025-11-24T20:15:47.098Z"
     },
     "paid_commission": "0",
     "trail_amount": null,
@@ -197,6 +197,6 @@
     "reduce_only": false,
     "product_id": 103978,
     "order_type": "limit_order",
-    "updated_at": "2025-11-24T20:15:58.266109Z"
+    "updated_at": "2025-11-24T20:15:47.099045Z"
   }
 ]
