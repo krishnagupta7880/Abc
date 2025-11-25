@@ -4,7 +4,7 @@
     "average_fill_price": "2355.19",
     "user_id": 37780748,
     "quote_size": null,
-    "limit_price": 2397.89,
+    "limit_price": "2397.89",
     "state": "open",
     "cancellation_reason": null,
     "id": 1047344847,
@@ -23,7 +23,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T14:37:08.796Z"
+      "user_updated_at": "2025-11-25T14:37:33.859Z"
     },
     "paid_commission": "0.0047179",
     "trail_amount": null,
@@ -65,14 +65,14 @@
     "reduce_only": false,
     "product_id": 103987,
     "order_type": "limit_order",
-    "updated_at": "2025-11-25T14:37:08.796913Z"
+    "updated_at": "2025-11-25T14:37:33.860462Z"
   },
   {
     "bracket_stop_loss_price": null,
     "average_fill_price": "1661.432456140350877193",
     "user_id": 37780748,
     "quote_size": null,
-    "limit_price": "1609.69",
+    "limit_price": 1606.49,
     "state": "open",
     "cancellation_reason": null,
     "id": 1040069051,
@@ -91,7 +91,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T14:37:25.042Z"
+      "user_updated_at": "2025-11-25T14:37:50.033Z"
     },
     "paid_commission": "0.25899807",
     "trail_amount": null,
@@ -133,14 +133,14 @@
     "reduce_only": false,
     "product_id": 103961,
     "order_type": "limit_order",
-    "updated_at": "2025-11-25T14:37:25.043402Z"
+    "updated_at": "2025-11-25T14:37:50.033938Z"
   },
   {
     "bracket_stop_loss_price": null,
     "average_fill_price": null,
     "user_id": 37780748,
     "quote_size": null,
-    "limit_price": "1909.39",
+    "limit_price": 1903.39,
     "state": "open",
     "cancellation_reason": null,
     "id": 1040041117,
@@ -157,7 +157,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T14:37:22.939Z"
+      "user_updated_at": "2025-11-25T14:37:45.016Z"
     },
     "paid_commission": "0",
     "trail_amount": null,
@@ -199,6 +199,6 @@
     "reduce_only": false,
     "product_id": 103978,
     "order_type": "limit_order",
-    "updated_at": "2025-11-25T14:37:22.940279Z"
+    "updated_at": "2025-11-25T14:37:45.016984Z"
   }
 ]
