@@ -81,7 +81,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-25T09:49:03.654054Z",
+    "updated_at": "2025-11-25T09:48:37.335228Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 37780748,
     "paid_commission": "0.25899807",
@@ -100,7 +100,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T09:49:03.653Z"
+      "user_updated_at": "2025-11-25T09:48:37.334Z"
     },
     "size": 300,
     "product": {
@@ -132,7 +132,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": "1620.36",
+    "limit_price": 1627.19,
     "bracket_order": null
   },
   {
@@ -149,7 +149,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-25T09:49:03.558449Z",
+    "updated_at": "2025-11-25T09:48:47.448047Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 37780748,
     "paid_commission": "0",
@@ -166,7 +166,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T09:49:03.557Z"
+      "user_updated_at": "2025-11-25T09:48:47.447Z"
     },
     "size": 100,
     "product": {
@@ -198,7 +198,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": "1921.37",
+    "limit_price": 1917.15,
     "bracket_order": null
   }
 ]
