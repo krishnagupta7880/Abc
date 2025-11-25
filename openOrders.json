@@ -146,7 +146,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T04:15:23.424Z"
+      "user_updated_at": "2025-11-25T04:15:23.150Z"
     },
     "paid_commission": "0",
     "bracket_order": null,
@@ -168,7 +168,7 @@
     "product_id": 103978,
     "limit_price": "1892.19",
     "commission": "0",
-    "updated_at": "2025-11-25T04:15:23.425321Z",
+    "updated_at": "2025-11-25T04:15:23.151418Z",
     "size": 100,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
