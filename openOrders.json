@@ -7,7 +7,7 @@
     "stop_trigger_method": null,
     "updated_at": "2025-11-25T02:23:37.668303Z",
     "created_at": "2025-11-20T17:20:42.125032Z",
-    "limit_price": 2399.19,
+    "limit_price": 2397.08,
     "bracket_take_profit_limit_price": null,
     "product": {
       "contract_type": "put_options",
@@ -75,7 +75,7 @@
     "stop_trigger_method": null,
     "updated_at": "2025-11-25T02:23:37.856945Z",
     "created_at": "2025-11-16T19:19:45.343998Z",
-    "limit_price": "1597.29",
+    "limit_price": 1599.49,
     "bracket_take_profit_limit_price": null,
     "product": {
       "contract_type": "put_options",
