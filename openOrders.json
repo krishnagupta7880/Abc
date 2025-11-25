@@ -13,7 +13,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-25T13:16:28.422843Z",
+    "updated_at": "2025-11-25T13:16:24.087370Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 37780748,
     "paid_commission": "0.0047179",
@@ -24,7 +24,7 @@
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "product_id": 103987,
-    "unfilled_size": 9,
+    "unfilled_size": 199,
     "stop_order_type": null,
     "meta_data": {
       "cashflow": "23.5519",
@@ -32,9 +32,9 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T13:16:28.422Z"
+      "user_updated_at": "2025-11-25T13:16:24.086Z"
     },
-    "size": 10,
+    "size": 200,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -64,7 +64,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": 2375.23,
+    "limit_price": 2380.18,
     "bracket_order": null
   },
   {
@@ -81,7 +81,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-25T13:16:27.385067Z",
+    "updated_at": "2025-11-25T13:16:24.307326Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 37780748,
     "paid_commission": "0.25899807",
@@ -100,7 +100,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T13:16:27.384Z"
+      "user_updated_at": "2025-11-25T13:16:24.306Z"
     },
     "size": 300,
     "product": {
@@ -132,7 +132,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": 1580.78,
+    "limit_price": 1578.85,
     "bracket_order": null
   },
   {
@@ -149,7 +149,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-25T13:16:27.983251Z",
+    "updated_at": "2025-11-25T13:16:23.251605Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 37780748,
     "paid_commission": "0",
@@ -166,7 +166,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T13:16:27.982Z"
+      "user_updated_at": "2025-11-25T13:16:23.240Z"
     },
     "size": 100,
     "product": {
@@ -198,7 +198,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": "1876.04",
+    "limit_price": 1871.82,
     "bracket_order": null
   }
 ]
