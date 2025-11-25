@@ -13,7 +13,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-25T11:53:38.263038Z",
+    "updated_at": "2025-11-25T11:53:46.628858Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 37780748,
     "paid_commission": "0.0047179",
@@ -24,7 +24,7 @@
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "product_id": 103987,
-    "unfilled_size": 199,
+    "unfilled_size": 9,
     "stop_order_type": null,
     "meta_data": {
       "cashflow": "23.5519",
@@ -32,9 +32,9 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T11:53:38.262Z"
+      "user_updated_at": "2025-11-25T11:53:46.628Z"
     },
-    "size": 200,
+    "size": 10,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -81,7 +81,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-25T11:53:42.563225Z",
+    "updated_at": "2025-11-25T11:53:48.291216Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 37780748,
     "paid_commission": "0.25899807",
@@ -100,7 +100,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T11:53:42.562Z"
+      "user_updated_at": "2025-11-25T11:53:48.290Z"
     },
     "size": 60,
     "product": {
@@ -132,7 +132,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": 1617.77,
+    "limit_price": 1621.79,
     "bracket_order": null
   },
   {
@@ -149,7 +149,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-25T11:53:43.713389Z",
+    "updated_at": "2025-11-25T11:53:45.639311Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 37780748,
     "paid_commission": "0",
@@ -166,7 +166,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T11:53:43.712Z"
+      "user_updated_at": "2025-11-25T11:53:45.638Z"
     },
     "size": 100,
     "product": {
