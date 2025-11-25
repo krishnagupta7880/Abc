@@ -15,7 +15,7 @@
     "paid_commission": "0.0047179",
     "side": "sell",
     "cancellation_reason": null,
-    "updated_at": "2025-11-25T00:27:14.538292Z",
+    "updated_at": "2025-11-25T00:27:27.299420Z",
     "bracket_order": null,
     "product_id": 103987,
     "bracket_take_profit_price": null,
@@ -25,7 +25,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T00:27:14.537Z"
+      "user_updated_at": "2025-11-25T00:27:27.298Z"
     },
     "mmp": "disabled",
     "trail_amount": null,
@@ -64,7 +64,7 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": 2378.49,
+    "limit_price": 2376.38,
     "average_fill_price": "2355.19"
   },
   {
