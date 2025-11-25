@@ -15,7 +15,7 @@
     "paid_commission": "0.0047179",
     "side": "sell",
     "cancellation_reason": null,
-    "updated_at": "2025-11-25T12:05:48.960781Z",
+    "updated_at": "2025-11-25T12:05:59.237761Z",
     "bracket_order": null,
     "product_id": 103987,
     "bracket_take_profit_price": null,
@@ -25,7 +25,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T12:05:48.960Z"
+      "user_updated_at": "2025-11-25T12:05:59.237Z"
     },
     "mmp": "disabled",
     "trail_amount": null,
@@ -64,7 +64,7 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": 2408.84,
+    "limit_price": "2408.74",
     "average_fill_price": "2355.19"
   },
   {
@@ -76,14 +76,14 @@
     "id": 1040069051,
     "created_at": "2025-11-16T19:19:45.343998Z",
     "reduce_only": false,
-    "unfilled_size": 3,
+    "unfilled_size": 243,
     "bracket_stop_loss_price": null,
     "quote_size": null,
     "bracket_stop_loss_limit_price": null,
     "paid_commission": "0.25899807",
     "side": "sell",
     "cancellation_reason": null,
-    "updated_at": "2025-11-25T12:05:49.453363Z",
+    "updated_at": "2025-11-25T12:05:59.845443Z",
     "bracket_order": null,
     "product_id": 103961,
     "bracket_take_profit_price": null,
@@ -93,7 +93,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T12:05:49.452Z"
+      "user_updated_at": "2025-11-25T12:05:59.844Z"
     },
     "mmp": "disabled",
     "trail_amount": null,
@@ -102,7 +102,7 @@
     "stop_order_type": null,
     "time_in_force": "gtc",
     "bracket_trail_amount": null,
-    "size": 60,
+    "size": 300,
     "client_order_id": null,
     "stop_trigger_method": null,
     "product": {
@@ -132,7 +132,7 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": 1618.49,
+    "limit_price": 1616.48,
     "average_fill_price": "1661.432456140350877193"
   },
   {
@@ -151,7 +151,7 @@
     "paid_commission": "0",
     "side": "sell",
     "cancellation_reason": null,
-    "updated_at": "2025-11-25T12:05:49.081707Z",
+    "updated_at": "2025-11-25T12:05:59.717830Z",
     "bracket_order": null,
     "product_id": 103978,
     "bracket_take_profit_price": null,
@@ -159,7 +159,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T12:05:49.081Z"
+      "user_updated_at": "2025-11-25T12:05:59.717Z"
     },
     "mmp": "disabled",
     "trail_amount": null,
