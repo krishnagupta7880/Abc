@@ -12,7 +12,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T12:15:29.358Z"
+      "user_updated_at": "2025-11-25T12:15:19.520Z"
     },
     "paid_commission": "0.0047179",
     "bracket_order": null,
@@ -34,7 +34,7 @@
     "product_id": 103987,
     "limit_price": 2395.27,
     "commission": "0",
-    "updated_at": "2025-11-25T12:15:29.359550Z",
+    "updated_at": "2025-11-25T12:15:19.520990Z",
     "size": 10,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
@@ -80,7 +80,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T12:15:27.363Z"
+      "user_updated_at": "2025-11-25T12:15:19.688Z"
     },
     "paid_commission": "0.25899807",
     "bracket_order": null,
@@ -100,9 +100,9 @@
     "side": "sell",
     "stop_trigger_method": null,
     "product_id": 103961,
-    "limit_price": 1597.38,
+    "limit_price": 1604.19,
     "commission": "0",
-    "updated_at": "2025-11-25T12:15:27.364498Z",
+    "updated_at": "2025-11-25T12:15:19.689530Z",
     "size": 60,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
@@ -140,13 +140,13 @@
     "trail_amount": null,
     "user_id": 37780748,
     "cancellation_reason": null,
-    "unfilled_size": 100,
+    "unfilled_size": 10,
     "time_in_force": "gtc",
     "meta_data": {
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T12:15:29.166Z"
+      "user_updated_at": "2025-11-25T12:15:18.593Z"
     },
     "paid_commission": "0",
     "bracket_order": null,
@@ -166,10 +166,10 @@
     "side": "sell",
     "stop_trigger_method": null,
     "product_id": 103978,
-    "limit_price": 1897.38,
+    "limit_price": 1902.49,
     "commission": "0",
-    "updated_at": "2025-11-25T12:15:29.166890Z",
-    "size": 100,
+    "updated_at": "2025-11-25T12:15:18.594443Z",
+    "size": 10,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
     "order_type": "limit_order",
