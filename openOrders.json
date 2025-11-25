@@ -12,7 +12,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T21:56:44.003Z"
+      "user_updated_at": "2025-11-25T21:56:56.927Z"
     },
     "paid_commission": "0.0047179",
     "bracket_order": null,
@@ -32,9 +32,9 @@
     "side": "sell",
     "stop_trigger_method": null,
     "product_id": 103987,
-    "limit_price": 2381.69,
+    "limit_price": 2384.29,
     "commission": "0",
-    "updated_at": "2025-11-25T21:56:44.003588Z",
+    "updated_at": "2025-11-25T21:56:56.928057Z",
     "size": 201,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
