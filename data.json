@@ -9,6 +9,7 @@
   "minPriceForFunc1":5.0,
   "PriceChangeDiffForFunc3":{"1040041117":2.11,"1040069051":2.11,"1047344847":2.11},
   "marketPriceCorrectionForFunc3":{"1040041117":-0.3,"1040069051":-0.4,"1047344847":-0.1},
+  "filterSizeForFunc3":{"1040041117":400,"1040069051":400,"1047344847":400},
   "minTargetPriceToSellForFunc3":{"1040041117":400,"1040069051":400,"1047344847":400},
   "updateSellOrderIdList":[1040041117,1040069051,1047344847],
   "symbols":["P-ETH-4800-261225","P-ETH-4500-261225","P-ETH-5300-261225"]
