@@ -64,7 +64,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": "2360.59",
+    "limit_price": 2360.89,
     "bracket_order": null
   },
   {
@@ -132,7 +132,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": "1561.29",
+    "limit_price": 1560.29,
     "bracket_order": null
   },
   {
