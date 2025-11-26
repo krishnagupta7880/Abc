@@ -4,7 +4,7 @@
     "average_fill_price": "2355.19",
     "user_id": 37780748,
     "quote_size": null,
-    "limit_price": 2384.3,
+    "limit_price": 2383.6,
     "state": "open",
     "cancellation_reason": null,
     "id": 1047344847,
@@ -23,7 +23,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T04:47:08.159Z"
+      "user_updated_at": "2025-11-26T04:47:28.327Z"
     },
     "paid_commission": "0.0047179",
     "trail_amount": null,
@@ -65,14 +65,14 @@
     "reduce_only": false,
     "product_id": 103987,
     "order_type": "limit_order",
-    "updated_at": "2025-11-26T04:47:08.160073Z"
+    "updated_at": "2025-11-26T04:47:28.328444Z"
   },
   {
     "bracket_stop_loss_price": null,
     "average_fill_price": "1661.432456140350877193",
     "user_id": 37780748,
     "quote_size": null,
-    "limit_price": 1583.8,
+    "limit_price": 1583.2,
     "state": "open",
     "cancellation_reason": null,
     "id": 1040069051,
@@ -91,7 +91,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T04:47:08.981Z"
+      "user_updated_at": "2025-11-26T04:47:26.703Z"
     },
     "paid_commission": "0.25899807",
     "trail_amount": null,
@@ -133,7 +133,7 @@
     "reduce_only": false,
     "product_id": 103961,
     "order_type": "limit_order",
-    "updated_at": "2025-11-26T04:47:08.982101Z"
+    "updated_at": "2025-11-26T04:47:26.703966Z"
   },
   {
     "bracket_stop_loss_price": null,
@@ -157,7 +157,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T04:47:09.379Z"
+      "user_updated_at": "2025-11-26T04:47:28.188Z"
     },
     "paid_commission": "0",
     "trail_amount": null,
@@ -199,6 +199,6 @@
     "reduce_only": false,
     "product_id": 103978,
     "order_type": "limit_order",
-    "updated_at": "2025-11-26T04:47:09.379760Z"
+    "updated_at": "2025-11-26T04:47:28.189220Z"
   }
 ]
