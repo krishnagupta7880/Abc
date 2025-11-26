@@ -1,7 +1,7 @@
 [
   {
     "product_symbol": "P-ETH-5300-261225",
-    "updated_at": "2025-11-26T09:59:52.841558Z",
+    "updated_at": "2025-11-26T10:00:17.620658Z",
     "bracket_take_profit_limit_price": null,
     "average_fill_price": "2355.19",
     "bracket_stop_loss_limit_price": null,
@@ -46,7 +46,7 @@
     "stop_price": null,
     "user_id": 37780748,
     "stop_order_type": null,
-    "limit_price": 2407.29,
+    "limit_price": 2406.49,
     "client_order_id": null,
     "reduce_only": false,
     "cancellation_reason": null,
@@ -61,7 +61,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T09:59:52.841Z"
+      "user_updated_at": "2025-11-26T10:00:17.619Z"
     },
     "quote_size": null,
     "bracket_trail_amount": null,
@@ -69,7 +69,7 @@
   },
   {
     "product_symbol": "P-ETH-4500-261225",
-    "updated_at": "2025-11-26T09:59:52.907807Z",
+    "updated_at": "2025-11-26T10:00:17.687897Z",
     "bracket_take_profit_limit_price": null,
     "average_fill_price": "1661.432456140350877193",
     "bracket_stop_loss_limit_price": null,
@@ -114,7 +114,7 @@
     "stop_price": null,
     "user_id": 37780748,
     "stop_order_type": null,
-    "limit_price": 1605.89,
+    "limit_price": 1605.19,
     "client_order_id": null,
     "reduce_only": false,
     "cancellation_reason": null,
@@ -129,7 +129,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T09:59:52.907Z"
+      "user_updated_at": "2025-11-26T10:00:17.686Z"
     },
     "quote_size": null,
     "bracket_trail_amount": null,
@@ -137,7 +137,7 @@
   },
   {
     "product_symbol": "P-ETH-4800-261225",
-    "updated_at": "2025-11-26T09:59:52.621055Z",
+    "updated_at": "2025-11-26T10:00:17.411266Z",
     "bracket_take_profit_limit_price": null,
     "average_fill_price": null,
     "bracket_stop_loss_limit_price": null,
@@ -182,7 +182,7 @@
     "stop_price": null,
     "user_id": 37780748,
     "stop_order_type": null,
-    "limit_price": 1905.29,
+    "limit_price": 1904.59,
     "client_order_id": null,
     "reduce_only": false,
     "cancellation_reason": null,
@@ -195,7 +195,7 @@
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T09:59:52.620Z"
+      "user_updated_at": "2025-11-26T10:00:17.410Z"
     },
     "quote_size": null,
     "bracket_trail_amount": null,
