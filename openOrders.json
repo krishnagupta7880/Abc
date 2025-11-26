@@ -23,7 +23,7 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": "2404.39",
+    "limit_price": 2405.19,
     "updated_at": "2025-11-26T10:48:07.598950Z",
     "size": 201,
     "meta_data": {
@@ -91,7 +91,7 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": "1603.09",
+    "limit_price": 1603.69,
     "updated_at": "2025-11-26T10:48:09.812166Z",
     "size": 300,
     "meta_data": {
@@ -159,14 +159,14 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": "1902.69",
-    "updated_at": "2025-11-26T10:47:44.924829Z",
+    "limit_price": 1902.49,
+    "updated_at": "2025-11-26T10:48:10.140604Z",
     "size": 200,
     "meta_data": {
       "ip": "2404:7c00:4a:b740:c2f9:b82:adf1:94a",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T10:47:44.924Z"
+      "user_updated_at": "2025-11-26T10:48:10.140Z"
     },
     "bracket_trail_amount": null,
     "product_symbol": "P-ETH-4800-261225",
