@@ -5,9 +5,9 @@
     "time_in_force": "gtc",
     "order_type": "limit_order",
     "stop_trigger_method": null,
-    "updated_at": "2025-11-26T04:01:41.251724Z",
+    "updated_at": "2025-11-26T04:02:06.218949Z",
     "created_at": "2025-11-20T17:20:42.125032Z",
-    "limit_price": 2385.19,
+    "limit_price": "2385.19",
     "bracket_take_profit_limit_price": null,
     "product": {
       "contract_type": "put_options",
@@ -53,7 +53,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T04:01:41.251Z"
+      "user_updated_at": "2025-11-26T04:02:06.218Z"
     },
     "bracket_stop_loss_price": null,
     "product_id": 103987,
@@ -73,9 +73,9 @@
     "time_in_force": "gtc",
     "order_type": "limit_order",
     "stop_trigger_method": null,
-    "updated_at": "2025-11-26T04:01:35.396991Z",
+    "updated_at": "2025-11-26T04:02:00.552722Z",
     "created_at": "2025-11-16T19:19:45.343998Z",
-    "limit_price": 1585.59,
+    "limit_price": "1585.59",
     "bracket_take_profit_limit_price": null,
     "product": {
       "contract_type": "put_options",
@@ -121,7 +121,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T04:01:35.396Z"
+      "user_updated_at": "2025-11-26T04:02:00.552Z"
     },
     "bracket_stop_loss_price": null,
     "product_id": 103961,
@@ -143,7 +143,7 @@
     "stop_trigger_method": null,
     "updated_at": "2025-11-26T04:01:54.208534Z",
     "created_at": "2025-11-16T18:53:56.306545Z",
-    "limit_price": "1884.79",
+    "limit_price": 1883.89,
     "bracket_take_profit_limit_price": null,
     "product": {
       "contract_type": "put_options",
