@@ -23,7 +23,7 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": "696.31",
+    "limit_price": 698.11,
     "updated_at": "2025-11-29T18:27:11.007873Z",
     "size": 50,
     "meta_data": {
@@ -89,7 +89,7 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": "773.81",
+    "limit_price": 775.11,
     "updated_at": "2025-11-29T18:28:43.427436Z",
     "size": 50,
     "meta_data": {
