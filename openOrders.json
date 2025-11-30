@@ -2,7 +2,7 @@
   {
     "product_symbol": "C-ETH-2400-300126",
     "bracket_stop_loss_price": null,
-    "updated_at": "2025-11-30T08:31:40.991867Z",
+    "updated_at": "2025-11-30T08:31:53.777023Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -44,7 +44,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-30T08:31:40.991Z"
+      "user_updated_at": "2025-11-30T08:31:53.776Z"
     },
     "cancellation_reason": null,
     "commission": "0",
@@ -64,13 +64,13 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "buy",
-    "limit_price": 725.71,
+    "limit_price": "725.71",
     "trail_amount": null
   },
   {
     "product_symbol": "C-ETH-2300-300126",
     "bracket_stop_loss_price": null,
-    "updated_at": "2025-11-30T08:31:30.614077Z",
+    "updated_at": "2025-11-30T08:31:54.290883Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -110,7 +110,7 @@
       "ip": "2404:7c00:4a:e3e4:f9e6:9a62:4787:cfe4",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-30T08:31:30.613Z"
+      "user_updated_at": "2025-11-30T08:31:54.290Z"
     },
     "cancellation_reason": null,
     "commission": "0",
@@ -130,7 +130,7 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "buy",
-    "limit_price": 803.71,
+    "limit_price": "803.71",
     "trail_amount": null
   }
 ]
