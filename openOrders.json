@@ -11,7 +11,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-30T13:20:27.793Z"
+      "user_updated_at": "2025-11-30T13:20:38.255Z"
     },
     "state": "open",
     "quote_size": null,
@@ -57,12 +57,12 @@
     "trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 107737,
-    "limit_price": 750.91,
+    "limit_price": 754.61,
     "bracket_take_profit_price": null,
     "commission": "0",
     "size": 76,
     "created_at": "2025-11-29T18:01:06.563991Z",
-    "updated_at": "2025-11-30T13:20:27.793931Z",
+    "updated_at": "2025-11-30T13:20:38.256480Z",
     "bracket_stop_loss_price": null,
     "time_in_force": "gtc",
     "order_type": "limit_order"
@@ -77,7 +77,7 @@
       "ip": "2404:7c00:4a:e3e4:f9e6:9a62:4787:cfe4",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-30T13:20:19.725Z"
+      "user_updated_at": "2025-11-30T13:20:39.021Z"
     },
     "state": "open",
     "quote_size": null,
@@ -123,12 +123,12 @@
     "trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 107746,
-    "limit_price": 829.81,
+    "limit_price": 832.91,
     "bracket_take_profit_price": null,
     "commission": "0",
     "size": 70,
     "created_at": "2025-11-29T16:52:03.912844Z",
-    "updated_at": "2025-11-30T13:20:19.726066Z",
+    "updated_at": "2025-11-30T13:20:39.021952Z",
     "bracket_stop_loss_price": null,
     "time_in_force": "gtc",
     "order_type": "limit_order"
