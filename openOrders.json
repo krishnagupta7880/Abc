@@ -10,7 +10,7 @@
     "id": 1061730564,
     "mmp": "disabled",
     "bracket_take_profit_price": null,
-    "limit_price": 755.61,
+    "limit_price": 754.41,
     "commission": "0",
     "product": {
       "contract_type": "call_options",
@@ -48,7 +48,7 @@
     "stop_price": null,
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2025-11-30T14:15:49.939372Z",
+    "updated_at": "2025-11-30T14:16:16.389079Z",
     "trail_amount": null,
     "time_in_force": "gtc",
     "unfilled_size": 52,
@@ -59,7 +59,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-30T14:15:49.938Z"
+      "user_updated_at": "2025-11-30T14:16:16.388Z"
     },
     "size": 76,
     "paid_commission": "0.11441271",
@@ -78,7 +78,7 @@
     "id": 1061640149,
     "mmp": "disabled",
     "bracket_take_profit_price": null,
-    "limit_price": 834.61,
+    "limit_price": 833.41,
     "commission": "0",
     "product": {
       "contract_type": "call_options",
@@ -116,7 +116,7 @@
     "stop_price": null,
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2025-11-30T14:15:49.900782Z",
+    "updated_at": "2025-11-30T14:16:16.713907Z",
     "trail_amount": null,
     "time_in_force": "gtc",
     "unfilled_size": 70,
@@ -125,7 +125,7 @@
       "ip": "2404:7c00:4a:e3e4:f9e6:9a62:4787:cfe4",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-30T14:15:49.900Z"
+      "user_updated_at": "2025-11-30T14:16:16.713Z"
     },
     "size": 70,
     "paid_commission": "0",
