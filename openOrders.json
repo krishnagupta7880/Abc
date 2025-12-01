@@ -79,7 +79,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-01T03:43:28.135Z"
+      "user_updated_at": "2025-12-01T03:43:53.643Z"
     },
     "state": "open",
     "quote_size": null,
@@ -125,12 +125,12 @@
     "trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 107746,
-    "limit_price": 656.81,
+    "limit_price": "656.81",
     "bracket_take_profit_price": null,
     "commission": "0",
     "size": 70,
     "created_at": "2025-11-29T16:52:03.912844Z",
-    "updated_at": "2025-12-01T03:43:28.135638Z",
+    "updated_at": "2025-12-01T03:43:53.644720Z",
     "bracket_stop_loss_price": null,
     "time_in_force": "gtc",
     "order_type": "limit_order"
