@@ -11,11 +11,11 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-01T10:35:48.635Z"
+      "user_updated_at": "2025-12-01T10:36:30.906Z"
     },
     "time_in_force": "gtc",
     "unfilled_size": 26,
-    "updated_at": "2025-12-01T10:35:48.636429Z",
+    "updated_at": "2025-12-01T10:36:30.908641Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
