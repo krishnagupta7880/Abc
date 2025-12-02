@@ -1,8 +1,8 @@
 {
   "ProgramStartStop" : true,
   "strategy":{
-    "C-ETH-2400-300126":{
-      "SELL1":["P-ETH-2400-300126",12345],
+    "C-ETH-2200-300126":{
+      "SELL1":["P-ETH-2200-300126",12345],
       "SELL2":["ETHUSD",12345]
     },
     "C-ETH-2300-300126":{
