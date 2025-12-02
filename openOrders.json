@@ -23,8 +23,8 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": 790.71,
-    "updated_at": "2025-12-02T16:50:30.013176Z",
+    "limit_price": 794.31,
+    "updated_at": "2025-12-02T16:50:55.905970Z",
     "size": 70,
     "meta_data": {
       "cashflow": "-131.6062",
@@ -32,7 +32,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-02T16:50:30.009Z"
+      "user_updated_at": "2025-12-02T16:50:55.905Z"
     },
     "bracket_trail_amount": null,
     "product_symbol": "C-ETH-2300-300126",
