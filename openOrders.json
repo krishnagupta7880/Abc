@@ -132,7 +132,7 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "buy",
-    "limit_price": "620.51",
+    "limit_price": 621.71,
     "trail_amount": null
   }
 ]
