@@ -76,7 +76,7 @@
     "id": 1061640149,
     "mmp": "disabled",
     "bracket_take_profit_price": null,
-    "limit_price": 827.81,
+    "limit_price": "827.81",
     "commission": "0",
     "product": {
       "contract_type": "call_options",
@@ -114,7 +114,7 @@
     "stop_price": null,
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2025-12-03T04:16:51.753942Z",
+    "updated_at": "2025-12-03T04:17:37.497149Z",
     "trail_amount": null,
     "time_in_force": "gtc",
     "unfilled_size": 52,
@@ -125,7 +125,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-03T04:16:51.753Z"
+      "user_updated_at": "2025-12-03T04:17:37.496Z"
     },
     "size": 71,
     "paid_commission": "0.09026003",
