@@ -102,7 +102,7 @@
     "size": 70,
     "client_order_id": null,
     "created_at": "2025-11-29T16:52:03.912844Z",
-    "limit_price": "872.11",
+    "limit_price": 873.51,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
