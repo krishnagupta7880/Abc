@@ -20,7 +20,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-03T16:19:04.192Z"
+      "user_updated_at": "2025-12-03T16:19:34.778Z"
     },
     "bracket_take_profit_limit_price": null,
     "stop_price": null,
@@ -32,11 +32,11 @@
     "side": "buy",
     "paid_commission": "0.10007636",
     "average_fill_price": "787.458095238095238095",
-    "updated_at": "2025-12-03T16:19:04.195150Z",
+    "updated_at": "2025-12-03T16:19:34.779088Z",
     "size": 121,
     "client_order_id": null,
     "created_at": "2025-11-29T16:52:03.912844Z",
-    "limit_price": 862.61,
+    "limit_price": "861.31",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
