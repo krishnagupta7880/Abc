@@ -70,7 +70,7 @@
     "side": "buy",
     "bracket_stop_loss_price": null,
     "commission": "0",
-    "unfilled_size": 51,
+    "unfilled_size": 42,
     "product_id": 107746,
     "state": "open",
     "paid_commission": "0.09026003",
@@ -90,15 +90,15 @@
     "stop_trigger_method": null,
     "trail_amount": null,
     "limit_price": "822.81",
-    "updated_at": "2025-12-03T03:25:51.368829Z",
-    "size": 70,
+    "updated_at": "2025-12-03T03:26:04.984762Z",
+    "size": 61,
     "meta_data": {
       "cashflow": "-148.1262",
       "ip": "2404:7c00:4a:e3e4:f9e6:9a62:4787:cfe4",
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-03T03:25:51.368Z"
+      "user_updated_at": "2025-12-03T03:26:04.984Z"
     },
     "bracket_trail_amount": null,
     "product_symbol": "C-ETH-2300-300126",
