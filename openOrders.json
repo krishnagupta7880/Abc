@@ -114,7 +114,7 @@
     "stop_price": null,
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2025-12-04T18:26:48.925520Z",
+    "updated_at": "2025-12-04T18:27:04.003930Z",
     "trail_amount": null,
     "time_in_force": "gtc",
     "unfilled_size": 59,
@@ -125,7 +125,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-04T18:26:48.925Z"
+      "user_updated_at": "2025-12-04T18:27:04.003Z"
     },
     "size": 60,
     "paid_commission": "0.00564215",
