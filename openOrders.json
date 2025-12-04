@@ -9,11 +9,11 @@
       "ip": "2404:7c00:4b:40a9:bb12:680c:e906:36b9",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-04T07:34:30.882Z"
+      "user_updated_at": "2025-12-04T07:35:15.690Z"
     },
     "time_in_force": "gtc",
     "unfilled_size": 50,
-    "updated_at": "2025-12-04T07:34:30.882960Z",
+    "updated_at": "2025-12-04T07:35:15.691185Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -58,7 +58,7 @@
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 107746,
-    "limit_price": 965.31,
+    "limit_price": "965.31",
     "client_order_id": null,
     "created_at": "2025-12-04T06:00:07.406247Z",
     "size": 50,
@@ -77,11 +77,11 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-04T07:34:30.479Z"
+      "user_updated_at": "2025-12-04T07:35:29.662Z"
     },
     "time_in_force": "gtc",
     "unfilled_size": 79,
-    "updated_at": "2025-12-04T07:34:30.480034Z",
+    "updated_at": "2025-12-04T07:35:29.662942Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -126,7 +126,7 @@
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 110248,
-    "limit_price": "1051.91",
+    "limit_price": "1053.51",
     "client_order_id": null,
     "created_at": "2025-12-04T05:12:29.529773Z",
     "size": 80,
