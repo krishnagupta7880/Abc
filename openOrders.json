@@ -76,11 +76,11 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-05T22:37:50.238Z"
+      "user_updated_at": "2025-12-05T22:39:33.764Z"
     },
     "stop_price": null,
     "side": "buy",
-    "limit_price": "903.91",
+    "limit_price": "905.41",
     "state": "open",
     "bracket_order": null,
     "user_id": 37780748,
@@ -130,7 +130,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-12-05T22:37:50.239096Z",
+    "updated_at": "2025-12-05T22:39:33.764919Z",
     "bracket_stop_loss_limit_price": null
   }
 ]
