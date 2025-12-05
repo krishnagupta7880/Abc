@@ -76,7 +76,7 @@
     "id": 1068526376,
     "mmp": "disabled",
     "bracket_take_profit_price": null,
-    "limit_price": "1025.41",
+    "limit_price": 1024.21,
     "commission": "0",
     "product": {
       "contract_type": "call_options",
