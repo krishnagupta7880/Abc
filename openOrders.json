@@ -1,7 +1,7 @@
 [
   {
     "product_symbol": "C-ETH-2300-300126",
-    "updated_at": "2025-12-07T03:15:49.737143Z",
+    "updated_at": "2025-12-07T03:19:28.618891Z",
     "bracket_take_profit_limit_price": null,
     "average_fill_price": "841",
     "bracket_stop_loss_limit_price": null,
@@ -46,7 +46,7 @@
     "stop_price": null,
     "user_id": 37780748,
     "stop_order_type": null,
-    "limit_price": 841.11,
+    "limit_price": "841.11",
     "client_order_id": null,
     "reduce_only": false,
     "cancellation_reason": null,
@@ -61,7 +61,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-07T03:15:49.736Z"
+      "user_updated_at": "2025-12-07T03:19:28.618Z"
     },
     "quote_size": null,
     "bracket_trail_amount": null,
