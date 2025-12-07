@@ -23,8 +23,8 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": 822.01,
-    "updated_at": "2025-12-07T13:29:31.774376Z",
+    "limit_price": "822.01",
+    "updated_at": "2025-12-07T13:30:08.880164Z",
     "size": 71,
     "meta_data": {
       "cashflow": "-8.41",
@@ -32,7 +32,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-07T13:29:31.773Z"
+      "user_updated_at": "2025-12-07T13:30:08.877Z"
     },
     "bracket_trail_amount": null,
     "product_symbol": "C-ETH-2300-300126",
@@ -91,8 +91,8 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": 905.91,
-    "updated_at": "2025-12-07T13:29:31.581070Z",
+    "limit_price": "905.91",
+    "updated_at": "2025-12-07T13:30:08.645611Z",
     "size": 71,
     "meta_data": {
       "cashflow": "-10.4291",
@@ -100,7 +100,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-07T13:29:31.580Z"
+      "user_updated_at": "2025-12-07T13:30:08.644Z"
     },
     "bracket_trail_amount": null,
     "product_symbol": "C-ETH-2200-300126",
