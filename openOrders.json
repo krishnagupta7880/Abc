@@ -20,7 +20,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-07T14:19:28.623Z"
+      "user_updated_at": "2025-12-07T14:19:48.940Z"
     },
     "bracket_take_profit_limit_price": null,
     "stop_price": null,
@@ -32,11 +32,11 @@
     "side": "buy",
     "paid_commission": "0.005405",
     "average_fill_price": "841",
-    "updated_at": "2025-12-07T14:19:28.624330Z",
+    "updated_at": "2025-12-07T14:19:48.941464Z",
     "size": 71,
     "client_order_id": null,
     "created_at": "2025-12-04T06:00:07.406247Z",
-    "limit_price": "812.21",
+    "limit_price": 809.11,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -88,7 +88,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-07T14:19:21.874Z"
+      "user_updated_at": "2025-12-07T14:19:54.227Z"
     },
     "bracket_take_profit_limit_price": null,
     "stop_price": null,
@@ -100,11 +100,11 @@
     "side": "buy",
     "paid_commission": "0.00564215",
     "average_fill_price": "1042.91",
-    "updated_at": "2025-12-07T14:19:21.874988Z",
+    "updated_at": "2025-12-07T14:19:54.228613Z",
     "size": 71,
     "client_order_id": null,
     "created_at": "2025-12-04T05:12:29.529773Z",
-    "limit_price": "895.61",
+    "limit_price": 892.71,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
