@@ -46,7 +46,7 @@
     "stop_price": null,
     "user_id": 37780748,
     "stop_order_type": null,
-    "limit_price": "1001.21",
+    "limit_price": 999.81,
     "client_order_id": null,
     "reduce_only": false,
     "cancellation_reason": null,
