@@ -8,7 +8,7 @@
       "ip": "2404:7c00:4b:2e43:3597:bfd6:c203:a6b1",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-08T18:51:26.400Z"
+      "user_updated_at": "2025-12-08T18:52:23.533Z"
     },
     "stop_price": null,
     "side": "buy",
@@ -62,7 +62,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-12-08T18:51:26.400659Z",
+    "updated_at": "2025-12-08T18:52:23.533755Z",
     "bracket_stop_loss_limit_price": null
   }
 ]
