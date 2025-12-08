@@ -1,17 +1,38 @@
 [
   {
+    "bracket_stop_loss_price": null,
     "product_symbol": "C-ETH-2200-300126",
-    "order_type": "limit_order",
-    "bracket_trail_amount": null,
-    "bracket_take_profit_limit_price": null,
-    "cancellation_reason": null,
+    "meta_data": {
+      "ip": "2404:7c00:4b:2e43:3597:bfd6:c203:a6b1",
+      "otc": false,
+      "source": "mobile_app_android",
+      "user_updated_at": "2025-12-08T10:07:03.285Z"
+    },
+    "trail_amount": null,
+    "client_order_id": null,
+    "unfilled_size": 53,
     "state": "open",
-    "user_id": 37780748,
-    "id": 1073432030,
-    "mmp": "disabled",
     "bracket_take_profit_price": null,
+    "paid_commission": "0",
+    "quote_size": null,
+    "id": 1073432030,
+    "stop_price": null,
+    "cancellation_reason": null,
+    "stop_order_type": null,
+    "side": "buy",
+    "bracket_take_profit_limit_price": null,
+    "bracket_trail_amount": null,
+    "reduce_only": false,
+    "stop_trigger_method": null,
+    "time_in_force": "gtc",
+    "product_id": 110248,
     "limit_price": "1020.51",
+    "bracket_stop_loss_limit_price": null,
+    "mmp": "disabled",
+    "size": 53,
     "commission": "0",
+    "user_id": 37780748,
+    "bracket_order": null,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -39,30 +60,9 @@
         "symbol": "ETH"
       }
     },
-    "side": "buy",
-    "stop_order_type": null,
-    "average_fill_price": null,
-    "client_order_id": null,
+    "order_type": "limit_order",
     "created_at": "2025-12-07T16:12:28.945640Z",
-    "product_id": 110248,
-    "stop_price": null,
-    "reduce_only": false,
-    "bracket_stop_loss_limit_price": null,
     "updated_at": "2025-12-08T10:07:03.285896Z",
-    "trail_amount": null,
-    "time_in_force": "gtc",
-    "unfilled_size": 53,
-    "quote_size": null,
-    "meta_data": {
-      "ip": "2404:7c00:4b:2e43:3597:bfd6:c203:a6b1",
-      "otc": false,
-      "source": "mobile_app_android",
-      "user_updated_at": "2025-12-08T10:07:03.285Z"
-    },
-    "size": 53,
-    "paid_commission": "0",
-    "bracket_order": null,
-    "stop_trigger_method": null,
-    "bracket_stop_loss_price": null
+    "average_fill_price": null
   }
 ]
