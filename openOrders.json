@@ -9,11 +9,11 @@
       "ip": "2404:7c00:4b:2e43:3597:bfd6:c203:a6b1",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-08T01:10:13.101Z"
+      "user_updated_at": "2025-12-08T01:10:45.208Z"
     },
     "time_in_force": "gtc",
     "unfilled_size": 53,
-    "updated_at": "2025-12-08T01:10:13.102237Z",
+    "updated_at": "2025-12-08T01:10:45.209541Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
