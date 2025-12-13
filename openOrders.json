@@ -26,11 +26,11 @@
       "pnl": "2.5850985",
       "roe": "-10.46929255496917178445328040",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-13T07:21:25.477Z"
+      "user_updated_at": "2025-12-13T07:21:33.765Z"
     },
     "time_in_force": "gtc",
     "unfilled_size": 193,
-    "updated_at": "2025-12-13T07:21:25.478872Z",
+    "updated_at": "2025-12-13T07:21:33.765894Z",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -75,7 +75,7 @@
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 103987,
-    "limit_price": "2186.91",
+    "limit_price": "2189.11",
     "client_order_id": null,
     "created_at": "2025-12-12T14:38:51.779314Z",
     "size": 194,
@@ -92,11 +92,11 @@
       "ip": "2404:7c00:4b:2e43:3597:bfd6:c203:a6b1",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-13T07:21:21.033Z"
+      "user_updated_at": "2025-12-13T07:21:44.431Z"
     },
     "time_in_force": "gtc",
     "unfilled_size": 53,
-    "updated_at": "2025-12-13T07:21:21.034184Z",
+    "updated_at": "2025-12-13T07:21:44.431940Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -141,7 +141,7 @@
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 110248,
-    "limit_price": "947.11",
+    "limit_price": "945.81",
     "client_order_id": null,
     "created_at": "2025-12-07T16:12:28.945640Z",
     "size": 53,
