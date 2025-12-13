@@ -48,10 +48,10 @@
     "stop_price": null,
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2025-12-13T12:00:40.964417Z",
+    "updated_at": "2025-12-13T12:01:04.060290Z",
     "trail_amount": null,
     "time_in_force": "gtc",
-    "unfilled_size": 1,
+    "unfilled_size": 191,
     "quote_size": null,
     "meta_data": {
       "avg_exit_price": "2180.776666666666666666666667",
@@ -82,9 +82,9 @@
       "pnl": "8.65329551",
       "roe": "-11.68155130372416658924579458",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-13T12:00:40.963Z"
+      "user_updated_at": "2025-12-13T12:01:04.059Z"
     },
-    "size": 4,
+    "size": 194,
     "paid_commission": "0.01097762",
     "bracket_order": null,
     "stop_trigger_method": null,
@@ -139,18 +139,18 @@
     "stop_price": null,
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2025-12-13T12:00:40.738641Z",
+    "updated_at": "2025-12-13T12:01:11.126891Z",
     "trail_amount": null,
     "time_in_force": "gtc",
-    "unfilled_size": 1,
+    "unfilled_size": 53,
     "quote_size": null,
     "meta_data": {
       "ip": "2404:7c00:4b:2e43:3597:bfd6:c203:a6b1",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-13T12:00:40.737Z"
+      "user_updated_at": "2025-12-13T12:01:11.126Z"
     },
-    "size": 1,
+    "size": 53,
     "paid_commission": "0",
     "bracket_order": null,
     "stop_trigger_method": null,
