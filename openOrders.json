@@ -23,8 +23,8 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": 2168.01,
-    "updated_at": "2025-12-13T23:21:30.345451Z",
+    "limit_price": "2168.01",
+    "updated_at": "2025-12-13T23:23:03.436790Z",
     "size": 194,
     "meta_data": {
       "avg_exit_price": "2176.89",
@@ -71,7 +71,7 @@
       "pnl": "14.61649251",
       "roe": "-11.83895594034081584654238184",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-13T23:21:30.344Z"
+      "user_updated_at": "2025-12-13T23:23:03.436Z"
     },
     "bracket_trail_amount": null,
     "product_symbol": "P-ETH-5300-261225",
