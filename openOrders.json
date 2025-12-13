@@ -43,7 +43,7 @@
     "stop_trigger_method": null,
     "time_in_force": "gtc",
     "product_id": 103987,
-    "limit_price": "2189.81",
+    "limit_price": 2191.31,
     "bracket_stop_loss_limit_price": null,
     "mmp": "disabled",
     "size": 194,
