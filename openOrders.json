@@ -61,7 +61,7 @@
     },
     "stop_price": null,
     "side": "buy",
-    "limit_price": 2199.41,
+    "limit_price": "2204.31",
     "state": "open",
     "bracket_order": null,
     "user_id": 37780748,
