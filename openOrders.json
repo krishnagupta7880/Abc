@@ -1,17 +1,97 @@
 [
   {
     "product_symbol": "P-ETH-5300-261225",
-    "order_type": "limit_order",
-    "bracket_trail_amount": null,
-    "bracket_take_profit_limit_price": null,
-    "cancellation_reason": null,
-    "state": "open",
-    "user_id": 37780748,
-    "id": 1081039147,
-    "mmp": "disabled",
+    "stop_trigger_method": null,
+    "trail_amount": null,
     "bracket_take_profit_price": null,
-    "limit_price": "2132.11",
+    "state": "open",
+    "id": 1081039147,
+    "stop_order_type": null,
+    "reduce_only": false,
+    "cancellation_reason": null,
+    "order_type": "limit_order",
+    "user_id": 37780748,
+    "bracket_trail_amount": null,
     "commission": "0",
+    "bracket_stop_loss_limit_price": null,
+    "meta_data": {
+      "avg_exit_price": "2169.3225",
+      "cashflow": "-173.5458",
+      "entry_price": "2469.219850746268656716417910",
+      "exit_price_with_size": [
+        {
+          "price": "2132.11000000",
+          "size": "-1"
+        },
+        {
+          "price": "2169.01000000",
+          "size": "-2"
+        },
+        {
+          "price": "2167.11000000",
+          "size": "-1"
+        },
+        {
+          "price": "2175.01000000",
+          "size": "-1"
+        },
+        {
+          "price": "2165.81000000",
+          "size": "-2"
+        },
+        {
+          "price": "2210.71000000",
+          "size": "-1"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "-24.69219850746268656716417910",
+          "pnl": "3.37109850"
+        },
+        {
+          "margin": "-49.38439701492537313432835820",
+          "pnl": "6.00419701"
+        },
+        {
+          "margin": "-24.69219850746268656716417910",
+          "pnl": "3.02109850"
+        },
+        {
+          "margin": "-24.69219850746268656716417910",
+          "pnl": "2.94209850"
+        },
+        {
+          "margin": "-49.38439701492537313432835820",
+          "pnl": "6.06819701"
+        },
+        {
+          "margin": "-24.69219850746268656716417910",
+          "pnl": "2.58509850"
+        }
+      ],
+      "ip": "2401:4900:88d6:644b:b68e:7dd8:6556:fc53",
+      "otc": false,
+      "pnl": "23.99178802",
+      "roe": "-12.14542926015123635944472884",
+      "source": "mobile_app_android",
+      "user_updated_at": "2025-12-15T12:28:18.472Z"
+    },
+    "bracket_take_profit_limit_price": null,
+    "stop_price": null,
+    "bracket_stop_loss_price": null,
+    "product_id": 103987,
+    "bracket_order": null,
+    "quote_size": null,
+    "mmp": "disabled",
+    "side": "buy",
+    "paid_commission": "0.02937952",
+    "average_fill_price": "2169.3225",
+    "updated_at": "2025-12-15T12:28:37.431904Z",
+    "size": 194,
+    "client_order_id": null,
+    "created_at": "2025-12-12T14:38:51.779314Z",
+    "limit_price": 2133.51,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -39,79 +119,7 @@
         "symbol": "ETH"
       }
     },
-    "side": "buy",
-    "stop_order_type": null,
-    "average_fill_price": "2174.638571428571428571",
-    "client_order_id": null,
-    "created_at": "2025-12-12T14:38:51.779314Z",
-    "product_id": 103987,
-    "stop_price": null,
-    "reduce_only": false,
-    "bracket_stop_loss_limit_price": null,
-    "updated_at": "2025-12-15T12:28:18.472893Z",
-    "trail_amount": null,
     "time_in_force": "gtc",
-    "unfilled_size": 187,
-    "quote_size": null,
-    "meta_data": {
-      "avg_exit_price": "2174.638571428571428571428571",
-      "cashflow": "-152.2247",
-      "entry_price": "2469.219850746268656716417910",
-      "exit_price_with_size": [
-        {
-          "price": "2169.01000000",
-          "size": "-2"
-        },
-        {
-          "price": "2167.11000000",
-          "size": "-1"
-        },
-        {
-          "price": "2175.01000000",
-          "size": "-1"
-        },
-        {
-          "price": "2165.81000000",
-          "size": "-2"
-        },
-        {
-          "price": "2210.71000000",
-          "size": "-1"
-        }
-      ],
-      "fills_pnl_with_margin": [
-        {
-          "margin": "-49.38439701492537313432835820",
-          "pnl": "6.00419701"
-        },
-        {
-          "margin": "-24.69219850746268656716417910",
-          "pnl": "3.02109850"
-        },
-        {
-          "margin": "-24.69219850746268656716417910",
-          "pnl": "2.94209850"
-        },
-        {
-          "margin": "-49.38439701492537313432835820",
-          "pnl": "6.06819701"
-        },
-        {
-          "margin": "-24.69219850746268656716417910",
-          "pnl": "2.58509850"
-        }
-      ],
-      "ip": "2401:4900:88d6:644b:b68e:7dd8:6556:fc53",
-      "otc": false,
-      "pnl": "20.62068952",
-      "roe": "-11.93013569723700357141712992",
-      "source": "mobile_app_android",
-      "user_updated_at": "2025-12-15T12:28:18.472Z"
-    },
-    "size": 194,
-    "paid_commission": "0.02566169",
-    "bracket_order": null,
-    "stop_trigger_method": null,
-    "bracket_stop_loss_price": null
+    "unfilled_size": 186
   }
 ]
