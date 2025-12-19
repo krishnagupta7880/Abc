@@ -82,11 +82,11 @@
       "pnl": "52.6635701",
       "roe": "-2.451496539569271183174784706",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-19T18:29:29.616Z"
+      "user_updated_at": "2025-12-19T18:30:16.355Z"
     },
     "time_in_force": "gtc",
     "unfilled_size": 107,
-    "updated_at": "2025-12-19T18:29:29.617319Z",
+    "updated_at": "2025-12-19T18:30:16.356355Z",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
