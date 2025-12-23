@@ -31,7 +31,7 @@
     "product_symbol": "P-ETH-5300-261225",
     "bracket_trail_amount": null,
     "state": "open",
-    "updated_at": "2025-12-23T17:47:54.505871Z",
+    "updated_at": "2025-12-23T17:48:35.552293Z",
     "id": 1081039147,
     "mmp": "disabled",
     "stop_order_type": null,
@@ -124,7 +124,7 @@
       "pnl": "62.35996412",
       "roe": "-2.775266571674051394668934575",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-23T17:47:54.505Z"
+      "user_updated_at": "2025-12-23T17:48:35.551Z"
     },
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
@@ -142,7 +142,7 @@
     "stop_trigger_method": null,
     "bracket_take_profit_price": null,
     "client_order_id": null,
-    "limit_price": 2353.51,
+    "limit_price": "2353.51",
     "time_in_force": "gtc",
     "product_id": 103987
   }
