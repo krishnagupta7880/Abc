@@ -6,7 +6,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1081039147,
-    "limit_price": "2354.61",
+    "limit_price": 2354.21,
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
@@ -115,7 +115,7 @@
       "pnl": "64.66816112",
       "roe": "-2.816098254566676647942229312",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-24T13:31:09.335Z"
+      "user_updated_at": "2025-12-24T13:31:30.852Z"
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": "2399.684193548387096775",
@@ -131,7 +131,7 @@
     "size": 194,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2025-12-24T13:31:09.335564Z",
+    "updated_at": "2025-12-24T13:31:30.853203Z",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
