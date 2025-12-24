@@ -1,13 +1,19 @@
 [
   {
+    "paid_commission": "0.312826",
+    "order_type": "limit_order",
+    "bracket_trail_amount": null,
+    "state": "open",
+    "bracket_stop_loss_limit_price": null,
+    "id": 1081039147,
+    "limit_price": 2313.61,
+    "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
-    "trail_amount": null,
-    "product_symbol": "P-ETH-5300-261225",
+    "bracket_order": null,
     "commission": "0",
-    "updated_at": "2025-12-24T01:09:06.923946Z",
+    "product_id": 103987,
     "side": "buy",
-    "order_type": "limit_order",
     "meta_data": {
       "avg_exit_price": "2400.178478260869565217391304",
       "cashflow": "-2208.1642",
@@ -103,26 +109,20 @@
       "source": "mobile_app_android",
       "user_updated_at": "2025-12-24T01:09:06.923Z"
     },
-    "state": "open",
-    "created_at": "2025-12-12T14:38:51.779314Z",
-    "bracket_stop_loss_limit_price": null,
-    "id": 1081039147,
-    "client_order_id": null,
-    "unfilled_size": 102,
     "bracket_take_profit_limit_price": null,
-    "time_in_force": "gtc",
-    "bracket_order": null,
-    "stop_trigger_method": null,
-    "stop_price": null,
-    "limit_price": "2314.81",
     "average_fill_price": "2400.178478260869565218",
-    "bracket_stop_loss_price": null,
-    "reduce_only": false,
-    "paid_commission": "0.312826",
-    "mmp": "disabled",
-    "size": 194,
     "bracket_take_profit_price": null,
-    "bracket_trail_amount": null,
+    "user_id": 37780748,
+    "stop_price": null,
+    "trail_amount": null,
+    "created_at": "2025-12-12T14:38:51.779314Z",
+    "bracket_stop_loss_price": null,
+    "time_in_force": "gtc",
+    "reduce_only": false,
+    "size": 194,
+    "client_order_id": null,
+    "stop_trigger_method": null,
+    "updated_at": "2025-12-24T01:09:06.923946Z",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -150,8 +150,8 @@
         "symbol": "ETH"
       }
     },
-    "user_id": 37780748,
+    "unfilled_size": 102,
     "cancellation_reason": null,
-    "product_id": 103987
+    "product_symbol": "P-ETH-5300-261225"
   }
 ]
