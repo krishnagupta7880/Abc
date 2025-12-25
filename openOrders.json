@@ -5,7 +5,7 @@
     "trail_amount": null,
     "product_symbol": "P-ETH-5300-261225",
     "commission": "0",
-    "updated_at": "2025-12-25T15:57:04.147186Z",
+    "updated_at": "2025-12-25T15:57:28.173845Z",
     "side": "buy",
     "order_type": "limit_order",
     "meta_data": {
@@ -117,7 +117,7 @@
       "pnl": "65.72325962",
       "roe": "-2.831597246261446411595869699",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-25T15:57:04.146Z"
+      "user_updated_at": "2025-12-25T15:57:28.173Z"
     },
     "state": "open",
     "created_at": "2025-12-12T14:38:51.779314Z",
@@ -131,7 +131,7 @@
     "bracket_order": null,
     "stop_trigger_method": null,
     "stop_price": null,
-    "limit_price": "2325.61",
+    "limit_price": 2328.11,
     "average_fill_price": "2399.30148936170212766",
     "bracket_stop_loss_price": null,
     "reduce_only": false,
