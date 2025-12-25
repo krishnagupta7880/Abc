@@ -159,7 +159,7 @@
     "stop_trigger_method": null,
     "bracket_take_profit_price": null,
     "client_order_id": null,
-    "limit_price": "2361.51",
+    "limit_price": 2360.21,
     "time_in_force": "gtc",
     "product_id": 103987
   }
