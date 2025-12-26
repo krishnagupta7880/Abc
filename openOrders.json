@@ -1,69 +1,22 @@
 [
   {
-    "product_symbol": "P-ETH-5300-261225",
-    "margin_mode": "portfolio",
-    "side": "buy",
-    "state": "open",
-    "mmp": "disabled",
-    "unfilled_size": 100,
-    "bracket_stop_loss_limit_price": null,
-    "id": 1081039147,
-    "bracket_order": null,
-    "stop_trigger_method": null,
-    "average_fill_price": "2399.30148936170212766",
     "quote_size": null,
     "stop_order_type": null,
-    "commission": "0",
-    "bracket_take_profit_limit_price": null,
-    "time_in_force": "gtc",
-    "bracket_stop_loss_price": null,
-    "client_order_id": null,
     "trail_amount": null,
-    "stop_price": null,
-    "paid_commission": "0.31973977",
-    "created_at": "2025-12-12T14:38:51.779314Z",
-    "updated_at": "2025-12-26T06:52:50.055061Z",
-    "bracket_trail_amount": null,
+    "product_symbol": "P-ETH-5300-261225",
+    "commission": "0",
+    "updated_at": "2025-12-26T06:56:21.370027Z",
+    "side": "buy",
     "order_type": "limit_order",
-    "size": 194,
-    "reduce_only": false,
-    "cancellation_reason": null,
-    "product": {
-      "contract_type": "put_options",
-      "contract_unit_currency": "ETH",
-      "contract_value": "0.01",
-      "id": 103987,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "symbol": "P-ETH-5300-261225",
-      "tick_size": "0.01",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 18,
-        "symbol": "ETH"
-      }
-    },
-    "bracket_take_profit_price": null,
-    "limit_price": "2311.81",
-    "user_id": 37780748,
-    "product_id": 103987,
     "meta_data": {
-      "avg_exit_price": "2399.301489361702127659574468",
-      "cashflow": "-2255.3434",
+      "avg_exit_price": "2397.47875",
+      "cashflow": "-2301.5796",
       "entry_price": "2469.219850746268656716",
       "exit_price_with_size": [
+        {
+          "price": "2311.81000000",
+          "size": "-2"
+        },
         {
           "price": "2363.71000000",
           "size": "-1"
@@ -115,6 +68,10 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "-49.38439701492537313432000000",
+          "pnl": "3.14819701"
+        },
+        {
           "margin": "-24.69219850746268656716000000",
           "pnl": "1.05509850"
         },
@@ -165,10 +122,61 @@
       ],
       "ip": "2401:4900:88d6:644b:b68e:7dd8:6556:fc53",
       "otc": false,
-      "pnl": "65.72325962",
-      "roe": "-2.831597246261446411595869699",
+      "pnl": "68.87145663",
+      "roe": "-2.905415677529394292341923680",
       "source": "mobile_app_android",
       "user_updated_at": "2025-12-26T06:52:50.054Z"
-    }
+    },
+    "state": "open",
+    "created_at": "2025-12-12T14:38:51.779314Z",
+    "bracket_stop_loss_limit_price": null,
+    "id": 1081039147,
+    "margin_mode": "portfolio",
+    "client_order_id": null,
+    "unfilled_size": 98,
+    "bracket_take_profit_limit_price": null,
+    "time_in_force": "gtc",
+    "bracket_order": null,
+    "stop_trigger_method": null,
+    "stop_price": null,
+    "limit_price": "2311.81",
+    "average_fill_price": "2397.47875",
+    "bracket_stop_loss_price": null,
+    "reduce_only": false,
+    "paid_commission": "0.32676422",
+    "mmp": "disabled",
+    "size": 194,
+    "bracket_take_profit_price": null,
+    "bracket_trail_amount": null,
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
+      "id": 103987,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "P-ETH-5300-261225",
+      "tick_size": "0.01",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "user_id": 37780748,
+    "cancellation_reason": null,
+    "product_id": 103987
   }
 ]
