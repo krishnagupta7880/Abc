@@ -20,8 +20,8 @@
     "bracket_take_profit_limit_price": null,
     "paid_commission": "0.00354331",
     "bracket_trail_amount": null,
-    "updated_at": "2025-12-29T12:03:25.112953Z",
-    "unfilled_size": 1,
+    "updated_at": "2025-12-29T12:04:09.613922Z",
+    "unfilled_size": 99,
     "margin_mode": "portfolio",
     "order_type": "limit_order",
     "stop_price": null,
@@ -33,7 +33,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-29T12:03:25.112Z"
+      "user_updated_at": "2025-12-29T12:04:09.611Z"
     },
     "client_order_id": null,
     "bracket_take_profit_price": null,
@@ -64,7 +64,7 @@
         "symbol": "ETH"
       }
     },
-    "size": 2,
+    "size": 100,
     "quote_size": null,
     "product_id": 114371
   }
