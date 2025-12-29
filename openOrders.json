@@ -83,11 +83,11 @@
     "side": "buy",
     "stop_order_type": null,
     "stop_trigger_method": null,
-    "limit_price": "717.61",
+    "limit_price": "718.81",
     "bracket_take_profit_limit_price": null,
     "paid_commission": "0.00354331",
     "bracket_trail_amount": null,
-    "updated_at": "2025-12-29T16:33:42.623372Z",
+    "updated_at": "2025-12-29T16:34:11.969660Z",
     "unfilled_size": 99,
     "margin_mode": "portfolio",
     "order_type": "limit_order",
@@ -100,7 +100,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-29T16:33:42.622Z"
+      "user_updated_at": "2025-12-29T16:34:11.969Z"
     },
     "client_order_id": null,
     "bracket_take_profit_price": null,
