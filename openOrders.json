@@ -95,7 +95,7 @@
     "bracket_order": null,
     "stop_trigger_method": null,
     "stop_price": null,
-    "limit_price": "854.31",
+    "limit_price": 853.11,
     "average_fill_price": "837.41",
     "bracket_stop_loss_price": null,
     "reduce_only": false,
