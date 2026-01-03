@@ -5,14 +5,14 @@
     "trail_amount": null,
     "product_symbol": "C-ETH-2400-270326",
     "commission": "0",
-    "updated_at": "2026-01-03T23:24:37.367278Z",
+    "updated_at": "2026-01-03T23:30:33.120663Z",
     "side": "buy",
     "order_type": "limit_order",
     "meta_data": {
       "ip": "2404:7c00:4a:294c:3c2e:5651:728a:4e82",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-03T23:24:37.366Z"
+      "user_updated_at": "2026-01-03T23:30:33.120Z"
     },
     "state": "open",
     "created_at": "2026-01-02T14:57:03.965735Z",
@@ -26,7 +26,7 @@
     "bracket_order": null,
     "stop_trigger_method": null,
     "stop_price": null,
-    "limit_price": 839.21,
+    "limit_price": "841.01",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "reduce_only": false,
@@ -72,14 +72,14 @@
     "trail_amount": null,
     "product_symbol": "C-ETH-2300-270226",
     "commission": "0",
-    "updated_at": "2026-01-03T23:24:33.086361Z",
+    "updated_at": "2026-01-03T23:30:33.289039Z",
     "side": "buy",
     "order_type": "limit_order",
     "meta_data": {
       "ip": "110.44.115.170",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-03T23:24:33.085Z"
+      "user_updated_at": "2026-01-03T23:30:33.288Z"
     },
     "state": "open",
     "created_at": "2025-12-30T08:23:30.131470Z",
@@ -93,7 +93,7 @@
     "bracket_order": null,
     "stop_trigger_method": null,
     "stop_price": null,
-    "limit_price": 880.21,
+    "limit_price": "882.01",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "reduce_only": false,
@@ -139,7 +139,7 @@
     "trail_amount": null,
     "product_symbol": "C-ETH-2200-270226",
     "commission": "0",
-    "updated_at": "2026-01-03T23:28:57.048792Z",
+    "updated_at": "2026-01-03T23:30:33.476695Z",
     "side": "buy",
     "order_type": "limit_order",
     "meta_data": {
@@ -148,7 +148,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-03T23:28:57.048Z"
+      "user_updated_at": "2026-01-03T23:30:33.476Z"
     },
     "state": "open",
     "created_at": "2025-12-29T15:20:06.029472Z",
@@ -162,7 +162,7 @@
     "bracket_order": null,
     "stop_trigger_method": null,
     "stop_price": null,
-    "limit_price": 969.71,
+    "limit_price": "971.61",
     "average_fill_price": "837.41",
     "bracket_stop_loss_price": null,
     "reduce_only": false,
