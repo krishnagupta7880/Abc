@@ -6,7 +6,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1107232654,
-    "limit_price": 863.11,
+    "limit_price": 862.91,
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
@@ -18,7 +18,7 @@
       "ip": "2404:7c00:4a:294c:3c2e:5651:728a:4e82",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-05T06:44:09.207Z"
+      "user_updated_at": "2026-01-05T06:44:28.633Z"
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": null,
@@ -34,7 +34,7 @@
     "size": 50,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2026-01-05T06:44:09.208535Z",
+    "updated_at": "2026-01-05T06:44:28.634605Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -73,7 +73,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1103442700,
-    "limit_price": "905.01",
+    "limit_price": 906.21,
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
@@ -142,7 +142,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1102815253,
-    "limit_price": "995.61",
+    "limit_price": 995.61,
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
@@ -156,7 +156,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-05T06:44:15.723Z"
+      "user_updated_at": "2026-01-05T06:44:43.151Z"
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": "837.41",
@@ -172,7 +172,7 @@
     "size": 50,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2026-01-05T06:44:15.723595Z",
+    "updated_at": "2026-01-05T06:44:43.152499Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
