@@ -156,7 +156,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-05T05:56:11.270Z"
+      "user_updated_at": "2026-01-05T05:57:07.078Z"
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": "837.41",
@@ -169,10 +169,10 @@
     "bracket_stop_loss_price": null,
     "time_in_force": "gtc",
     "reduce_only": false,
-    "size": 80,
+    "size": 50,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2026-01-05T05:56:11.272150Z",
+    "updated_at": "2026-01-05T05:57:07.079276Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -200,7 +200,7 @@
         "symbol": "ETH"
       }
     },
-    "unfilled_size": 78,
+    "unfilled_size": 48,
     "cancellation_reason": null,
     "product_symbol": "C-ETH-2200-270226"
   }
