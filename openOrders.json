@@ -5,12 +5,12 @@
     "product_symbol": "C-ETH-2400-270326",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-01-05T01:28:16.248978Z",
+    "updated_at": "2026-01-05T01:28:51.395332Z",
     "meta_data": {
       "ip": "2404:7c00:4a:294c:3c2e:5651:728a:4e82",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-05T01:28:16.248Z"
+      "user_updated_at": "2026-01-05T01:28:51.394Z"
     },
     "trail_amount": null,
     "state": "open",
@@ -62,7 +62,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": "886.61",
+    "limit_price": "887.91",
     "created_at": "2026-01-02T14:57:03.965735Z",
     "product_id": 114843
   },
