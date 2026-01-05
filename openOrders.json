@@ -56,7 +56,7 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": "869.01",
+    "limit_price": 870.21,
     "user_id": 37780748,
     "product_id": 114843,
     "meta_data": {
@@ -89,7 +89,7 @@
     "stop_price": null,
     "paid_commission": "0.03706593",
     "created_at": "2025-12-30T08:23:30.131470Z",
-    "updated_at": "2026-01-05T08:19:03.789295Z",
+    "updated_at": "2026-01-05T08:19:26.534474Z",
     "bracket_trail_amount": null,
     "order_type": "limit_order",
     "size": 65,
@@ -123,7 +123,7 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": 911.71,
+    "limit_price": 912.91,
     "user_id": 37780748,
     "product_id": 114371,
     "meta_data": {
@@ -132,7 +132,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-05T08:19:03.788Z"
+      "user_updated_at": "2026-01-05T08:19:26.533Z"
     }
   },
   {
@@ -192,7 +192,7 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": "1002.41",
+    "limit_price": 1003.71,
     "user_id": 37780748,
     "product_id": 114372,
     "meta_data": {
