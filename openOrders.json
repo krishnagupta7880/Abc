@@ -22,7 +22,7 @@
     "stop_price": null,
     "paid_commission": "0",
     "created_at": "2026-01-06T10:01:17.597762Z",
-    "updated_at": "2026-01-06T15:01:52.261853Z",
+    "updated_at": "2026-01-06T15:02:25.151840Z",
     "bracket_trail_amount": null,
     "order_type": "limit_order",
     "size": 5,
@@ -56,14 +56,14 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": 967.11,
+    "limit_price": "964.31",
     "user_id": 37780748,
     "product_id": 114843,
     "meta_data": {
       "ip": "2404:7c00:4a:5e2e:fb81:f74d:c4f:f3d7",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-06T15:01:52.260Z"
+      "user_updated_at": "2026-01-06T15:02:25.150Z"
     }
   },
   {
@@ -89,7 +89,7 @@
     "stop_price": null,
     "paid_commission": "0",
     "created_at": "2026-01-06T09:04:53.753997Z",
-    "updated_at": "2026-01-06T15:01:53.073345Z",
+    "updated_at": "2026-01-06T15:02:23.313471Z",
     "bracket_trail_amount": null,
     "order_type": "limit_order",
     "size": 20,
@@ -123,14 +123,14 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": "1015.21",
+    "limit_price": "1014.01",
     "user_id": 37780748,
     "product_id": 114371,
     "meta_data": {
       "ip": "2404:7c00:4a:5e2e:fb81:f74d:c4f:f3d7",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-06T15:01:53.072Z"
+      "user_updated_at": "2026-01-06T15:02:23.312Z"
     }
   },
   {
@@ -156,7 +156,7 @@
     "stop_price": null,
     "paid_commission": "0",
     "created_at": "2026-01-06T08:57:03.515648Z",
-    "updated_at": "2026-01-06T15:01:52.665405Z",
+    "updated_at": "2026-01-06T15:02:25.382058Z",
     "bracket_trail_amount": null,
     "order_type": "limit_order",
     "size": 60,
@@ -190,14 +190,14 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": 1107.91,
+    "limit_price": "1105.41",
     "user_id": 37780748,
     "product_id": 114372,
     "meta_data": {
       "ip": "2404:7c00:4a:5e2e:fb81:f74d:c4f:f3d7",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-06T15:01:52.664Z"
+      "user_updated_at": "2026-01-06T15:02:25.381Z"
     }
   },
   {
@@ -223,7 +223,7 @@
     "stop_price": null,
     "paid_commission": "0.00389508",
     "created_at": "2026-01-06T08:46:05.648311Z",
-    "updated_at": "2026-01-06T15:01:53.469750Z",
+    "updated_at": "2026-01-06T15:02:24.338452Z",
     "bracket_trail_amount": null,
     "order_type": "limit_order",
     "size": 55,
@@ -257,7 +257,7 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": "1050.91",
+    "limit_price": "1049.61",
     "user_id": 37780748,
     "product_id": 114850,
     "meta_data": {
@@ -266,7 +266,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-06T15:01:53.469Z"
+      "user_updated_at": "2026-01-06T15:02:24.337Z"
     }
   }
 ]
