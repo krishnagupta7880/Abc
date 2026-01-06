@@ -5,12 +5,12 @@
     "product_symbol": "C-ETH-2400-270326",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-01-06T13:23:21.393330Z",
+    "updated_at": "2026-01-06T13:24:02.911461Z",
     "meta_data": {
       "ip": "2404:7c00:4a:5e2e:fb81:f74d:c4f:f3d7",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-06T13:23:21.392Z"
+      "user_updated_at": "2026-01-06T13:24:02.910Z"
     },
     "trail_amount": null,
     "state": "open",
@@ -62,7 +62,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": 931.41,
+    "limit_price": "931.41",
     "created_at": "2026-01-06T10:01:17.597762Z",
     "product_id": 114843
   },
@@ -72,12 +72,12 @@
     "product_symbol": "C-ETH-2300-270226",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-01-06T13:23:53.488492Z",
+    "updated_at": "2026-01-06T13:24:05.020662Z",
     "meta_data": {
       "ip": "2404:7c00:4a:5e2e:fb81:f74d:c4f:f3d7",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-06T13:23:53.488Z"
+      "user_updated_at": "2026-01-06T13:24:05.019Z"
     },
     "trail_amount": null,
     "state": "open",
@@ -129,7 +129,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": 979.01,
+    "limit_price": "979.01",
     "created_at": "2026-01-06T09:04:53.753997Z",
     "product_id": 114371
   },
@@ -139,12 +139,12 @@
     "product_symbol": "C-ETH-2200-270226",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-01-06T13:23:23.620283Z",
+    "updated_at": "2026-01-06T13:24:03.747235Z",
     "meta_data": {
       "ip": "2404:7c00:4a:5e2e:fb81:f74d:c4f:f3d7",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-06T13:23:23.619Z"
+      "user_updated_at": "2026-01-06T13:24:03.738Z"
     },
     "trail_amount": null,
     "state": "open",
@@ -196,7 +196,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": 1070.51,
+    "limit_price": "1070.51",
     "created_at": "2026-01-06T08:57:03.515648Z",
     "product_id": 114372
   },
@@ -206,12 +206,12 @@
     "product_symbol": "C-ETH-2300-270326",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-01-06T13:21:51.822070Z",
+    "updated_at": "2026-01-06T13:23:54.690454Z",
     "meta_data": {
       "ip": "2404:7c00:4a:5e2e:fb81:f74d:c4f:f3d7",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-06T13:21:51.821Z"
+      "user_updated_at": "2026-01-06T13:23:54.689Z"
     },
     "trail_amount": null,
     "state": "open",
@@ -263,7 +263,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": "1013.71",
+    "limit_price": 1016.11,
     "created_at": "2026-01-06T08:46:05.648311Z",
     "product_id": 114850
   }
