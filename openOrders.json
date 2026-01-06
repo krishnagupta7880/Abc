@@ -62,7 +62,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": "926.81",
+    "limit_price": 925.51,
     "created_at": "2026-01-02T14:57:03.965735Z",
     "product_id": 114843
   },
@@ -131,7 +131,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": "974.21",
+    "limit_price": 972.91,
     "created_at": "2025-12-30T08:23:30.131470Z",
     "product_id": 114371
   },
@@ -141,14 +141,14 @@
     "product_symbol": "C-ETH-2200-270226",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-01-06T04:17:18.188447Z",
+    "updated_at": "2026-01-06T04:17:52.080279Z",
     "meta_data": {
       "cashflow": "-16.7482",
       "ip": "43.231.208.70",
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-06T04:17:18.187Z"
+      "user_updated_at": "2026-01-06T04:17:52.079Z"
     },
     "trail_amount": null,
     "state": "open",
@@ -200,7 +200,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": "1066.41",
+    "limit_price": "1065.21",
     "created_at": "2025-12-29T15:20:06.029472Z",
     "product_id": 114372
   }
