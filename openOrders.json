@@ -139,14 +139,14 @@
     "trail_amount": null,
     "product_symbol": "C-ETH-2200-270226",
     "commission": "0",
-    "updated_at": "2026-01-06T10:29:45.915304Z",
+    "updated_at": "2026-01-06T10:30:41.689227Z",
     "side": "buy",
     "order_type": "limit_order",
     "meta_data": {
       "ip": "2404:7c00:4a:5e2e:fb81:f74d:c4f:f3d7",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-06T10:29:45.909Z"
+      "user_updated_at": "2026-01-06T10:30:41.688Z"
     },
     "state": "open",
     "created_at": "2026-01-06T08:57:03.515648Z",
@@ -154,7 +154,7 @@
     "id": 1112531066,
     "margin_mode": "portfolio",
     "client_order_id": null,
-    "unfilled_size": 60,
+    "unfilled_size": 55,
     "bracket_take_profit_limit_price": null,
     "time_in_force": "gtc",
     "bracket_order": null,
@@ -166,7 +166,7 @@
     "reduce_only": false,
     "paid_commission": "0",
     "mmp": "disabled",
-    "size": 60,
+    "size": 55,
     "bracket_take_profit_price": null,
     "bracket_trail_amount": null,
     "product": {
@@ -206,14 +206,14 @@
     "trail_amount": null,
     "product_symbol": "C-ETH-2300-270326",
     "commission": "0",
-    "updated_at": "2026-01-06T10:27:01.376392Z",
+    "updated_at": "2026-01-06T10:30:51.707884Z",
     "side": "buy",
     "order_type": "limit_order",
     "meta_data": {
       "ip": "2404:7c00:4a:5e2e:fb81:f74d:c4f:f3d7",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-06T10:27:01.375Z"
+      "user_updated_at": "2026-01-06T10:30:51.707Z"
     },
     "state": "open",
     "created_at": "2026-01-06T08:46:05.648311Z",
@@ -221,7 +221,7 @@
     "id": 1112521722,
     "margin_mode": "portfolio",
     "client_order_id": null,
-    "unfilled_size": 65,
+    "unfilled_size": 60,
     "bracket_take_profit_limit_price": null,
     "time_in_force": "gtc",
     "bracket_order": null,
@@ -233,7 +233,7 @@
     "reduce_only": false,
     "paid_commission": "0",
     "mmp": "disabled",
-    "size": 65,
+    "size": 60,
     "bracket_take_profit_price": null,
     "bracket_trail_amount": null,
     "product": {
