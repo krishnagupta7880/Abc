@@ -83,7 +83,7 @@
     "side": "buy",
     "stop_order_type": null,
     "stop_trigger_method": null,
-    "limit_price": "1028.91",
+    "limit_price": 1030.11,
     "bracket_take_profit_limit_price": null,
     "paid_commission": "0.00389508",
     "bracket_trail_amount": null,
