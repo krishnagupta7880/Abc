@@ -105,7 +105,7 @@
     "id": 1112521722,
     "cancellation_reason": null,
     "stop_price": null,
-    "limit_price": "1020.21",
+    "limit_price": 1021.41,
     "quote_size": null,
     "stop_order_type": null,
     "unfilled_size": 59,
