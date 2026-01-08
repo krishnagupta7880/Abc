@@ -73,7 +73,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1114805352,
-    "limit_price": "803.31",
+    "limit_price": 804.51,
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
