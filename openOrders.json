@@ -5,7 +5,7 @@
     "trail_amount": null,
     "product_symbol": "C-ETH-2200-270226",
     "commission": "0",
-    "updated_at": "2026-01-08T21:00:24.024888Z",
+    "updated_at": "2026-01-08T21:01:19.850782Z",
     "side": "buy",
     "order_type": "limit_order",
     "meta_data": {
@@ -14,7 +14,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-08T21:00:24.024Z"
+      "user_updated_at": "2026-01-08T21:01:19.850Z"
     },
     "state": "open",
     "created_at": "2026-01-07T15:53:46.525705Z",
@@ -28,7 +28,7 @@
     "bracket_order": null,
     "stop_trigger_method": null,
     "stop_price": null,
-    "limit_price": 947.61,
+    "limit_price": 946.41,
     "average_fill_price": "958.61",
     "bracket_stop_loss_price": null,
     "reduce_only": false,
@@ -74,7 +74,7 @@
     "trail_amount": null,
     "product_symbol": "C-ETH-2400-270326",
     "commission": "0",
-    "updated_at": "2026-01-08T21:00:02.898155Z",
+    "updated_at": "2026-01-08T21:01:18.053845Z",
     "side": "buy",
     "order_type": "limit_order",
     "meta_data": {
@@ -83,7 +83,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-08T21:00:02.897Z"
+      "user_updated_at": "2026-01-08T21:01:18.053Z"
     },
     "state": "open",
     "created_at": "2026-01-07T15:50:11.489815Z",
@@ -97,7 +97,7 @@
     "bracket_order": null,
     "stop_trigger_method": null,
     "stop_price": null,
-    "limit_price": 815.21,
+    "limit_price": "815.21",
     "average_fill_price": "802.11",
     "bracket_stop_loss_price": null,
     "reduce_only": false,
@@ -143,7 +143,7 @@
     "trail_amount": null,
     "product_symbol": "C-ETH-2300-270326",
     "commission": "0",
-    "updated_at": "2026-01-08T21:00:03.096788Z",
+    "updated_at": "2026-01-08T21:01:20.697315Z",
     "side": "buy",
     "order_type": "limit_order",
     "meta_data": {
@@ -152,7 +152,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-08T21:00:03.096Z"
+      "user_updated_at": "2026-01-08T21:01:20.696Z"
     },
     "state": "open",
     "created_at": "2026-01-06T08:46:05.648311Z",
@@ -166,7 +166,7 @@
     "bracket_order": null,
     "stop_trigger_method": null,
     "stop_price": null,
-    "limit_price": 897.61,
+    "limit_price": 896.41,
     "average_fill_price": "1074.31",
     "bracket_stop_loss_price": null,
     "reduce_only": false,
