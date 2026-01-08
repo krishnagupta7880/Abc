@@ -22,7 +22,7 @@
     "stop_price": null,
     "paid_commission": "0",
     "created_at": "2026-01-07T15:53:46.525705Z",
-    "updated_at": "2026-01-08T13:40:48.187264Z",
+    "updated_at": "2026-01-08T13:41:34.761819Z",
     "bracket_trail_amount": null,
     "order_type": "limit_order",
     "size": 30,
@@ -56,14 +56,14 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": "935.31",
+    "limit_price": "936.51",
     "user_id": 37780748,
     "product_id": 114372,
     "meta_data": {
       "ip": "2404:7c00:4a:ac7b:4fce:8539:48a5:c16c",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-08T13:40:48.183Z"
+      "user_updated_at": "2026-01-08T13:41:34.761Z"
     }
   },
   {
@@ -89,7 +89,7 @@
     "stop_price": null,
     "paid_commission": "0",
     "created_at": "2026-01-07T15:50:11.489815Z",
-    "updated_at": "2026-01-08T13:40:06.250006Z",
+    "updated_at": "2026-01-08T13:41:35.099421Z",
     "bracket_trail_amount": null,
     "order_type": "limit_order",
     "size": 60,
@@ -123,14 +123,14 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": "805.91",
+    "limit_price": "807.11",
     "user_id": 37780748,
     "product_id": 114843,
     "meta_data": {
       "ip": "2404:7c00:4a:ac7b:4fce:8539:48a5:c16c",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-08T13:40:06.249Z"
+      "user_updated_at": "2026-01-08T13:41:35.098Z"
     }
   },
   {
@@ -156,7 +156,7 @@
     "stop_price": null,
     "paid_commission": "0.00389508",
     "created_at": "2026-01-06T08:46:05.648311Z",
-    "updated_at": "2026-01-08T13:40:06.102664Z",
+    "updated_at": "2026-01-08T13:41:35.505102Z",
     "bracket_trail_amount": null,
     "order_type": "limit_order",
     "size": 82,
@@ -190,7 +190,7 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": "887.01",
+    "limit_price": "888.31",
     "user_id": 37780748,
     "product_id": 114850,
     "meta_data": {
@@ -199,7 +199,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-08T13:40:06.099Z"
+      "user_updated_at": "2026-01-08T13:41:35.504Z"
     }
   }
 ]
