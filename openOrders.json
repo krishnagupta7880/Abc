@@ -38,7 +38,7 @@
     "id": 1114812618,
     "cancellation_reason": null,
     "stop_price": null,
-    "limit_price": "927.81",
+    "limit_price": "926.61",
     "quote_size": null,
     "stop_order_type": null,
     "unfilled_size": 51,
@@ -48,7 +48,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-09T18:24:16.111Z"
+      "user_updated_at": "2026-01-09T18:25:10.167Z"
     },
     "trail_amount": null,
     "bracket_order": null,
@@ -62,7 +62,7 @@
     "bracket_take_profit_price": null,
     "reduce_only": false,
     "size": 64,
-    "updated_at": "2026-01-09T18:24:16.112485Z",
+    "updated_at": "2026-01-09T18:25:10.168337Z",
     "mmp": "disabled",
     "paid_commission": "0.04773014",
     "commission": "0",
