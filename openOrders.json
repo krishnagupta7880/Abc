@@ -6,7 +6,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1114812618,
-    "limit_price": 933.71,
+    "limit_price": 930.81,
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
@@ -20,7 +20,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-09T13:42:35.154Z"
+      "user_updated_at": "2026-01-09T13:43:11.757Z"
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": "958.61",
@@ -36,7 +36,7 @@
     "size": 55,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2026-01-09T13:42:35.154943Z",
+    "updated_at": "2026-01-09T13:43:11.758253Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -75,7 +75,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1114805352,
-    "limit_price": "801.51",
+    "limit_price": 798.91,
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
@@ -89,7 +89,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-09T13:42:03.493Z"
+      "user_updated_at": "2026-01-09T13:43:12.281Z"
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": "802.11",
@@ -105,7 +105,7 @@
     "size": 62,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2026-01-09T13:42:03.493952Z",
+    "updated_at": "2026-01-09T13:43:12.281880Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -144,7 +144,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1112521722,
-    "limit_price": "883.31",
+    "limit_price": 880.71,
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
@@ -158,7 +158,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-09T13:42:21.851Z"
+      "user_updated_at": "2026-01-09T13:43:12.044Z"
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": "904.75032258064516129",
@@ -174,7 +174,7 @@
     "size": 163,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2026-01-09T13:42:21.852045Z",
+    "updated_at": "2026-01-09T13:43:12.044940Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
