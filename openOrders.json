@@ -20,7 +20,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-09T16:34:27.943Z"
+      "user_updated_at": "2026-01-09T16:34:46.790Z"
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": "958.61",
@@ -36,7 +36,7 @@
     "size": 55,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2026-01-09T16:34:27.943879Z",
+    "updated_at": "2026-01-09T16:34:46.791396Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -75,7 +75,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1114805352,
-    "limit_price": 822.91,
+    "limit_price": 824.11,
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
@@ -89,7 +89,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-09T16:34:24.952Z"
+      "user_updated_at": "2026-01-09T16:34:47.463Z"
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": "802.11",
@@ -105,7 +105,7 @@
     "size": 62,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2026-01-09T16:34:24.953450Z",
+    "updated_at": "2026-01-09T16:34:47.463799Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -144,7 +144,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1112521722,
-    "limit_price": 905.51,
+    "limit_price": 906.71,
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
@@ -158,7 +158,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-09T16:34:22.832Z"
+      "user_updated_at": "2026-01-09T16:34:47.078Z"
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": "904.75032258064516129",
@@ -174,7 +174,7 @@
     "size": 163,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2026-01-09T16:34:22.833335Z",
+    "updated_at": "2026-01-09T16:34:47.078627Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
