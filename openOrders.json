@@ -5,7 +5,7 @@
     "trail_amount": null,
     "product_symbol": "C-ETH-2200-270226",
     "commission": "0",
-    "updated_at": "2026-01-10T23:13:57.696716Z",
+    "updated_at": "2026-01-10T23:16:55.857992Z",
     "side": "buy",
     "order_type": "limit_order",
     "meta_data": {
@@ -14,7 +14,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-10T23:13:57.696Z"
+      "user_updated_at": "2026-01-10T23:16:55.857Z"
     },
     "state": "open",
     "created_at": "2026-01-07T15:53:46.525705Z",
@@ -28,7 +28,7 @@
     "bracket_order": null,
     "stop_trigger_method": null,
     "stop_price": null,
-    "limit_price": "917.11",
+    "limit_price": "918.41",
     "average_fill_price": "945.002857142857142857",
     "bracket_stop_loss_price": null,
     "reduce_only": false,
