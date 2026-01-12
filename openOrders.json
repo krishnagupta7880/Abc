@@ -22,7 +22,7 @@
     "stop_price": null,
     "paid_commission": "0.05135879",
     "created_at": "2026-01-07T15:53:46.525705Z",
-    "updated_at": "2026-01-12T22:36:32.969930Z",
+    "updated_at": "2026-01-12T22:37:42.603740Z",
     "bracket_trail_amount": null,
     "order_type": "limit_order",
     "size": 50,
@@ -56,7 +56,7 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": "929.61",
+    "limit_price": "930.81",
     "user_id": 37780748,
     "product_id": 114372,
     "meta_data": {
@@ -65,7 +65,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-12T22:36:32.969Z"
+      "user_updated_at": "2026-01-12T22:37:42.603Z"
     }
   },
   {
@@ -91,7 +91,7 @@
     "stop_price": null,
     "paid_commission": "0.00364993",
     "created_at": "2026-01-07T15:50:11.489815Z",
-    "updated_at": "2026-01-12T22:36:26.859861Z",
+    "updated_at": "2026-01-12T22:37:48.895415Z",
     "bracket_trail_amount": null,
     "order_type": "limit_order",
     "size": 52,
@@ -125,7 +125,7 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": "795.71",
+    "limit_price": "797.01",
     "user_id": 37780748,
     "product_id": 114843,
     "meta_data": {
@@ -134,7 +134,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-12T22:36:26.859Z"
+      "user_updated_at": "2026-01-12T22:37:48.894Z"
     }
   },
   {
@@ -160,7 +160,7 @@
     "stop_price": null,
     "paid_commission": "0.283056",
     "created_at": "2026-01-06T08:46:05.648311Z",
-    "updated_at": "2026-01-12T22:36:33.277266Z",
+    "updated_at": "2026-01-12T22:37:43.160493Z",
     "bracket_trail_amount": null,
     "order_type": "limit_order",
     "size": 178,
@@ -194,7 +194,7 @@
       }
     },
     "bracket_take_profit_price": null,
-    "limit_price": "878.11",
+    "limit_price": "879.41",
     "user_id": 37780748,
     "product_id": 114850,
     "meta_data": {
@@ -203,7 +203,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-12T22:36:33.276Z"
+      "user_updated_at": "2026-01-12T22:37:43.159Z"
     }
   }
 ]
