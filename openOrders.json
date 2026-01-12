@@ -31,7 +31,7 @@
     "product_symbol": "C-ETH-2200-270226",
     "bracket_trail_amount": null,
     "state": "open",
-    "updated_at": "2026-01-12T09:43:16.983455Z",
+    "updated_at": "2026-01-12T09:43:39.686887Z",
     "id": 1114812618,
     "mmp": "disabled",
     "stop_order_type": null,
@@ -45,7 +45,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-12T09:43:16.982Z"
+      "user_updated_at": "2026-01-12T09:43:39.686Z"
     },
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
@@ -64,7 +64,7 @@
     "stop_trigger_method": null,
     "bracket_take_profit_price": null,
     "client_order_id": null,
-    "limit_price": 952.11,
+    "limit_price": "952.11",
     "time_in_force": "gtc",
     "product_id": 114372
   },
