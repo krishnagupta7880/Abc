@@ -5,14 +5,14 @@
     "product_symbol": "C-ETH-2200-270226",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-01-13T23:49:36.550365Z",
+    "updated_at": "2026-01-13T23:50:19.598173Z",
     "meta_data": {
       "cashflow": "-442.3534",
       "ip": "2404:7c00:4a:ac7b:4fce:8539:48a5:c16c",
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-13T23:49:36.549Z"
+      "user_updated_at": "2026-01-13T23:50:19.597Z"
     },
     "trail_amount": null,
     "state": "open",
@@ -64,7 +64,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": "1140.31",
+    "limit_price": "1139.01",
     "created_at": "2026-01-07T15:53:46.525705Z",
     "product_id": 114372
   },
@@ -74,14 +74,14 @@
     "product_symbol": "C-ETH-2400-270326",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-01-13T23:49:47.711215Z",
+    "updated_at": "2026-01-13T23:50:03.232129Z",
     "meta_data": {
       "cashflow": "-88.2259",
       "ip": "2404:7c00:4a:ac7b:4fce:8539:48a5:c16c",
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-13T23:49:47.710Z"
+      "user_updated_at": "2026-01-13T23:50:03.231Z"
     },
     "trail_amount": null,
     "state": "open",
@@ -133,7 +133,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": 991.81,
+    "limit_price": "991.81",
     "created_at": "2026-01-07T15:50:11.489815Z",
     "product_id": 114843
   },
@@ -143,14 +143,14 @@
     "product_symbol": "C-ETH-2300-270326",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-01-13T23:49:47.860410Z",
+    "updated_at": "2026-01-13T23:50:03.404419Z",
     "meta_data": {
       "cashflow": "-1081.6386",
       "ip": "2404:7c00:4a:5e2e:fb81:f74d:c4f:f3d7",
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-13T23:49:47.859Z"
+      "user_updated_at": "2026-01-13T23:50:03.403Z"
     },
     "trail_amount": null,
     "state": "open",
@@ -202,7 +202,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": 1078.81,
+    "limit_price": "1078.81",
     "created_at": "2026-01-06T08:46:05.648311Z",
     "product_id": 114850
   }
