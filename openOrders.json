@@ -64,7 +64,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": "951.11",
+    "limit_price": 949.71,
     "created_at": "2026-01-07T15:53:46.525705Z",
     "product_id": 114372
   },
@@ -133,7 +133,7 @@
     "commission": "0",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": "813.81",
+    "limit_price": 812.51,
     "created_at": "2026-01-07T15:50:11.489815Z",
     "product_id": 114843
   },
