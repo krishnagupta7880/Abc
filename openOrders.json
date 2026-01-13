@@ -64,7 +64,7 @@
     "stop_trigger_method": null,
     "bracket_take_profit_price": null,
     "client_order_id": null,
-    "limit_price": "959.51",
+    "limit_price": 960.81,
     "time_in_force": "gtc",
     "product_id": 114372
   },
@@ -133,7 +133,7 @@
     "stop_trigger_method": null,
     "bracket_take_profit_price": null,
     "client_order_id": null,
-    "limit_price": "821.61",
+    "limit_price": 823.11,
     "time_in_force": "gtc",
     "product_id": 114843
   },
@@ -202,7 +202,7 @@
     "stop_trigger_method": null,
     "bracket_take_profit_price": null,
     "client_order_id": null,
-    "limit_price": "905.41",
+    "limit_price": 906.71,
     "time_in_force": "gtc",
     "product_id": 114850
   }
