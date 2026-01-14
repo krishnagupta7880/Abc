@@ -38,7 +38,7 @@
     "id": 1114812618,
     "cancellation_reason": null,
     "stop_price": null,
-    "limit_price": "1142.31",
+    "limit_price": "1143.51",
     "quote_size": null,
     "stop_order_type": null,
     "unfilled_size": 36,
@@ -48,7 +48,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-14T02:52:51.130Z"
+      "user_updated_at": "2026-01-14T02:53:31.985Z"
     },
     "trail_amount": null,
     "bracket_order": null,
@@ -62,7 +62,7 @@
     "bracket_take_profit_price": null,
     "reduce_only": false,
     "size": 80,
-    "updated_at": "2026-01-14T02:52:51.131323Z",
+    "updated_at": "2026-01-14T02:53:31.986386Z",
     "mmp": "disabled",
     "paid_commission": "0.16496377",
     "commission": "0",
@@ -107,7 +107,7 @@
     "id": 1114805352,
     "cancellation_reason": null,
     "stop_price": null,
-    "limit_price": "992.71",
+    "limit_price": "993.91",
     "quote_size": null,
     "stop_order_type": null,
     "unfilled_size": 31,
@@ -117,7 +117,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-14T02:52:53.658Z"
+      "user_updated_at": "2026-01-14T02:53:21.093Z"
     },
     "trail_amount": null,
     "bracket_order": null,
@@ -131,7 +131,7 @@
     "bracket_take_profit_price": null,
     "reduce_only": false,
     "size": 40,
-    "updated_at": "2026-01-14T02:52:53.660305Z",
+    "updated_at": "2026-01-14T02:53:21.106763Z",
     "mmp": "disabled",
     "paid_commission": "0.03509689",
     "commission": "0",
