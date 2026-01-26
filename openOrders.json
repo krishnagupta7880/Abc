@@ -4,7 +4,7 @@
     "time_in_force": "gtc",
     "bracket_take_profit_limit_price": null,
     "trail_amount": null,
-    "limit_price": "699.89",
+    "limit_price": 699.49,
     "margin_mode": "portfolio",
     "updated_at": "2026-01-26T07:28:05.055585Z",
     "bracket_order": null,
