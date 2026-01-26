@@ -56,7 +56,7 @@
     },
     "size": 124,
     "bracket_trail_amount": null,
-    "limit_price": "704.89",
+    "limit_price": 705.29,
     "margin_mode": "portfolio",
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
