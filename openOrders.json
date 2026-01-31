@@ -1,30 +1,13 @@
 [
   {
-    "reduce_only": false,
-    "time_in_force": "gtc",
-    "bracket_take_profit_limit_price": null,
-    "trail_amount": null,
-    "limit_price": "800",
-    "margin_mode": "portfolio",
-    "updated_at": "2026-01-30T20:24:29.317963Z",
-    "bracket_order": null,
     "stop_order_type": null,
+    "stop_trigger_method": null,
+    "average_fill_price": null,
+    "mmp": "disabled",
     "state": "open",
-    "created_at": "2026-01-30T20:09:25.832487Z",
-    "user_id": 37780748,
+    "bracket_order": null,
     "product_symbol": "P-BTC-83000-310126",
     "id": 1146831964,
-    "bracket_stop_loss_price": null,
-    "commission": "0",
-    "cancellation_reason": null,
-    "meta_data": {
-      "ip": "2404:7c00:4a:1e8f:28df:d494:be60:6e29",
-      "otc": false,
-      "source": "mobile_app_android",
-      "user_updated_at": "2026-01-30T20:24:29.317Z"
-    },
-    "side": "sell",
-    "mmp": "disabled",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "BTC",
@@ -52,18 +35,35 @@
         "symbol": "BTC"
       }
     },
+    "time_in_force": "gtc",
+    "side": "sell",
+    "user_id": 37780748,
+    "order_type": "limit_order",
+    "client_order_id": null,
+    "bracket_take_profit_price": null,
     "product_id": 119093,
     "quote_size": null,
-    "bracket_stop_loss_limit_price": null,
-    "stop_trigger_method": null,
+    "commission": "0",
     "unfilled_size": 2,
-    "bracket_trail_amount": null,
-    "size": 2,
     "stop_price": null,
-    "bracket_take_profit_price": null,
+    "bracket_stop_loss_price": null,
     "paid_commission": "0",
-    "average_fill_price": null,
-    "order_type": "limit_order",
-    "client_order_id": null
+    "meta_data": {
+      "ip": "2404:7c00:4a:1e8f:28df:d494:be60:6e29",
+      "otc": false,
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-01-30T20:24:29.317Z"
+    },
+    "size": 2,
+    "bracket_trail_amount": null,
+    "limit_price": "800",
+    "margin_mode": "portfolio",
+    "reduce_only": false,
+    "bracket_stop_loss_limit_price": null,
+    "created_at": "2026-01-30T20:09:25.832487Z",
+    "updated_at": "2026-01-30T20:24:29.317963Z",
+    "bracket_take_profit_limit_price": null,
+    "trail_amount": null,
+    "cancellation_reason": null
   }
 ]
