@@ -7,7 +7,7 @@
     "id": 1221257612,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 698.81,
+    "limit_price": "698.81",
     "cancellation_reason": null,
     "mmp": "disabled",
     "product": {
@@ -49,7 +49,7 @@
     "paid_commission": "0",
     "commission": "0",
     "product_symbol": "C-ETH-1400-290526",
-    "updated_at": "2026-03-12T08:08:53.316698Z",
+    "updated_at": "2026-03-12T08:10:18.046100Z",
     "size": 50,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -62,7 +62,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-12T08:08:53.316Z"
+      "user_updated_at": "2026-03-12T08:10:18.045Z"
     },
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": null
