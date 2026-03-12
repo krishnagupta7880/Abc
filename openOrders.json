@@ -4,7 +4,7 @@
     "side": "buy",
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": 703.51,
+    "limit_price": "704.31",
     "state": "open",
     "product_id": 124412,
     "id": 1221257612,
@@ -13,7 +13,8 @@
       "ip": "2404:7c00:4a:e657:3fee:ee8c:4f9d:f087",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-12T08:04:24.857Z"
     },
     "bracket_take_profit_limit_price": null,
     "stop_trigger_method": null,
@@ -56,7 +57,7 @@
     "product_symbol": "C-ETH-1400-290526",
     "size": 50,
     "quote_size": null,
-    "updated_at": "2026-03-12T07:48:17.634212Z",
+    "updated_at": "2026-03-12T08:04:24.857898Z",
     "client_order_id": null,
     "bracket_take_profit_price": null,
     "bracket_order": null,
