@@ -144,7 +144,7 @@
     "id": 1221257612,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "724.81",
+    "limit_price": 725.71,
     "created_at": "2026-03-12T07:48:17.634212Z",
     "client_order_id": null,
     "user_id": 37780748,
