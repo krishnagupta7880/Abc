@@ -49,7 +49,7 @@
     "order_type": "limit_order",
     "margin_mode": "portfolio",
     "reduce_only": false,
-    "limit_price": "698.81",
+    "limit_price": 699.61,
     "stop_order_type": null,
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
