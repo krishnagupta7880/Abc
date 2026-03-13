@@ -8,7 +8,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-13T09:59:59.445Z"
+      "user_updated_at": "2026-03-13T10:00:18.492Z"
     },
     "product": {
       "contract_type": "call_options",
@@ -44,7 +44,7 @@
     "client_order_id": null,
     "stop_trigger_method": null,
     "bracket_order": null,
-    "updated_at": "2026-03-13T09:59:59.447893Z",
+    "updated_at": "2026-03-13T10:00:18.493166Z",
     "reduce_only": false,
     "trail_amount": null,
     "state": "open",
