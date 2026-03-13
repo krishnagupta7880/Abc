@@ -3,7 +3,7 @@
     "order_type": "limit_order",
     "product_id": 124412,
     "user_id": 37780748,
-    "updated_at": "2026-03-13T01:27:01.259408Z",
+    "updated_at": "2026-03-13T01:27:15.293899Z",
     "bracket_take_profit_limit_price": null,
     "quote_size": null,
     "bracket_trail_amount": null,
@@ -61,7 +61,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-13T01:27:01.258Z"
+      "user_updated_at": "2026-03-13T01:27:15.293Z"
     },
     "time_in_force": "gtc",
     "paid_commission": "0.00746221",
