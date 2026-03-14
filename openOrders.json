@@ -1,7 +1,7 @@
 [
   {
-    "average_fill_price": "733.595185185185185185",
-    "bracket_stop_loss_limit_price": null,
+    "bracket_take_profit_limit_price": null,
+    "bracket_trail_amount": null,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -29,32 +29,15 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2026-03-14T13:47:06.939543Z",
+    "bracket_stop_loss_limit_price": null,
     "state": "open",
     "product_id": 124412,
-    "bracket_take_profit_price": null,
     "stop_order_type": null,
-    "bracket_take_profit_limit_price": null,
     "id": 1221257612,
     "reduce_only": false,
     "order_type": "limit_order",
     "limit_price": "732.21",
-    "trail_amount": null,
-    "margin_mode": "portfolio",
-    "commission": "0",
-    "client_order_id": null,
-    "stop_price": null,
-    "unfilled_size": 24,
-    "cancellation_reason": null,
-    "bracket_order": null,
-    "bracket_trail_amount": null,
-    "user_id": 37780748,
-    "product_symbol": "C-ETH-1400-290526",
-    "size": 51,
-    "quote_size": null,
-    "created_at": "2026-03-12T07:48:17.634212Z",
-    "paid_commission": "0.06623274",
-    "stop_trigger_method": null,
+    "average_fill_price": "733.595185185185185185",
     "bracket_stop_loss_price": null,
     "meta_data": {
       "cashflow": "-198.0707",
@@ -65,8 +48,25 @@
       "source": "mobile_app_android",
       "user_updated_at": "2026-03-14T13:47:06.939Z"
     },
-    "mmp": "disabled",
     "side": "buy",
-    "time_in_force": "gtc"
+    "user_id": 37780748,
+    "time_in_force": "gtc",
+    "stop_price": null,
+    "commission": "0",
+    "unfilled_size": 24,
+    "client_order_id": null,
+    "updated_at": "2026-03-14T13:47:06.939543Z",
+    "bracket_take_profit_price": null,
+    "trail_amount": null,
+    "product_symbol": "C-ETH-1400-290526",
+    "size": 51,
+    "margin_mode": "portfolio",
+    "quote_size": null,
+    "stop_trigger_method": null,
+    "mmp": "disabled",
+    "paid_commission": "0.06623274",
+    "bracket_order": null,
+    "cancellation_reason": null,
+    "created_at": "2026-03-12T07:48:17.634212Z"
   }
 ]
