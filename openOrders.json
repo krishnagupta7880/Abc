@@ -21,7 +21,7 @@
     },
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "730.61",
+    "limit_price": 731.41,
     "average_fill_price": "733.595185185185185185",
     "time_in_force": "gtc",
     "client_order_id": null,
