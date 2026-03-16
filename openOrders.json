@@ -238,7 +238,7 @@
     "id": 1221257612,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "978.71",
+    "limit_price": 978.61,
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
