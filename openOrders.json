@@ -29,7 +29,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2026-03-16T14:28:21.862407Z",
+    "updated_at": "2026-03-16T14:28:45.621308Z",
     "state": "open",
     "product_id": 124361,
     "bracket_take_profit_price": null,
@@ -38,7 +38,7 @@
     "id": 1227594049,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 840.51,
+    "limit_price": 840.81,
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
@@ -61,7 +61,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-16T14:28:21.861Z"
+      "user_updated_at": "2026-03-16T14:28:45.620Z"
     },
     "mmp": "disabled",
     "side": "buy",
@@ -97,7 +97,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2026-03-16T14:28:21.512899Z",
+    "updated_at": "2026-03-16T14:28:46.047027Z",
     "state": "open",
     "product_id": 124412,
     "bracket_take_profit_price": null,
@@ -106,7 +106,7 @@
     "id": 1221257612,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 928.51,
+    "limit_price": 929.21,
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
@@ -131,7 +131,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-16T14:28:21.512Z"
+      "user_updated_at": "2026-03-16T14:28:46.045Z"
     },
     "mmp": "disabled",
     "side": "buy",
