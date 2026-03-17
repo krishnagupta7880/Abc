@@ -66,7 +66,7 @@
     "paid_commission": "0"
   },
   {
-    "updated_at": "2026-03-17T13:35:37.139410Z",
+    "updated_at": "2026-03-17T13:36:05.163225Z",
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
     "time_in_force": "gtc",
@@ -78,7 +78,7 @@
     "id": 1227594049,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 884.21,
+    "limit_price": 883.61,
     "created_at": "2026-03-16T07:41:09.766780Z",
     "client_order_id": null,
     "user_id": 37780748,
@@ -123,7 +123,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-17T13:35:37.138Z"
+      "user_updated_at": "2026-03-17T13:36:05.136Z"
     },
     "size": 1,
     "quote_size": null,
@@ -134,7 +134,7 @@
     "paid_commission": "0"
   },
   {
-    "updated_at": "2026-03-17T13:35:36.999318Z",
+    "updated_at": "2026-03-17T13:36:05.435660Z",
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
     "time_in_force": "gtc",
@@ -193,7 +193,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-17T13:35:36.982Z"
+      "user_updated_at": "2026-03-17T13:36:05.412Z"
     },
     "size": 100,
     "quote_size": null,
