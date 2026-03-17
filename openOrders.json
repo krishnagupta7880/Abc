@@ -73,9 +73,9 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-17T15:17:43.392Z"
+      "user_updated_at": "2026-03-17T15:17:54.476Z"
     },
-    "updated_at": "2026-03-17T15:17:43.392857Z",
+    "updated_at": "2026-03-17T15:17:54.477128Z",
     "margin_mode": "portfolio",
     "cancellation_reason": null,
     "client_order_id": null,
@@ -143,16 +143,16 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-17T15:17:43.263Z"
+      "user_updated_at": "2026-03-17T15:18:02.232Z"
     },
-    "updated_at": "2026-03-17T15:17:43.263628Z",
+    "updated_at": "2026-03-17T15:18:02.239491Z",
     "margin_mode": "portfolio",
     "cancellation_reason": null,
     "client_order_id": null,
     "state": "open",
     "product_id": 124412,
     "commission": "0",
-    "limit_price": 970.91,
+    "limit_price": "970.81",
     "id": 1221257612,
     "unfilled_size": 58,
     "stop_order_type": null,
