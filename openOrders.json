@@ -46,7 +46,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-18T23:02:31.173Z"
+      "user_updated_at": "2026-03-18T23:02:52.213Z"
     },
     "side": "buy",
     "user_id": 37780748,
@@ -55,7 +55,7 @@
     "commission": "0",
     "unfilled_size": 55,
     "client_order_id": null,
-    "updated_at": "2026-03-18T23:02:31.174440Z",
+    "updated_at": "2026-03-18T23:02:52.214472Z",
     "bracket_take_profit_price": null,
     "trail_amount": null,
     "product_symbol": "C-ETH-1400-290526",
