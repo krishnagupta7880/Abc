@@ -141,7 +141,7 @@
     "margin_mode": "portfolio",
     "product_id": 124412,
     "stop_trigger_method": null,
-    "limit_price": 870.01,
+    "limit_price": "870.81",
     "bracket_take_profit_limit_price": null,
     "state": "open",
     "product_symbol": "C-ETH-1400-290526",
@@ -188,7 +188,7 @@
     "quote_size": null,
     "cancellation_reason": null,
     "bracket_order": null,
-    "updated_at": "2026-03-18T14:11:08.793593Z",
+    "updated_at": "2026-03-18T14:11:30.359518Z",
     "user_id": 37780748,
     "size": 102,
     "stop_order_type": null,
@@ -200,7 +200,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-18T14:11:08.793Z"
+      "user_updated_at": "2026-03-18T14:11:30.358Z"
     }
   }
 ]
