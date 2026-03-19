@@ -6,9 +6,9 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-19T19:43:00.004Z"
+      "user_updated_at": "2026-03-19T19:43:19.807Z"
     },
-    "updated_at": "2026-03-19T19:43:00.004697Z",
+    "updated_at": "2026-03-19T19:43:19.808335Z",
     "margin_mode": "portfolio",
     "cancellation_reason": null,
     "client_order_id": null,
