@@ -102,7 +102,7 @@
     "id": 1234010874,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 794.41,
+    "limit_price": "795.21",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "meta_data": {
@@ -110,7 +110,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-20T21:25:01.720Z"
+      "user_updated_at": "2026-03-20T21:26:33.930Z"
     },
     "side": "buy",
     "user_id": 37780748,
@@ -119,7 +119,7 @@
     "commission": "0",
     "unfilled_size": 100,
     "client_order_id": null,
-    "updated_at": "2026-03-20T21:25:01.722137Z",
+    "updated_at": "2026-03-20T21:26:33.931053Z",
     "bracket_take_profit_price": null,
     "trail_amount": null,
     "product_symbol": "C-ETH-1400-290526",
