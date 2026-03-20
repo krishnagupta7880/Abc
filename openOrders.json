@@ -3,73 +3,6 @@
     "bracket_take_profit_limit_price": null,
     "bracket_trail_amount": null,
     "product": {
-      "contract_type": "perpetual_futures",
-      "contract_unit_currency": "BTC",
-      "contract_value": "0.001",
-      "id": 27,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "symbol": "BTCUSD",
-      "tick_size": "0.5",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 8,
-        "symbol": "BTC"
-      }
-    },
-    "bracket_stop_loss_limit_price": null,
-    "state": "open",
-    "product_id": 27,
-    "stop_order_type": null,
-    "id": 1235758139,
-    "reduce_only": false,
-    "order_type": "limit_order",
-    "limit_price": "69900",
-    "average_fill_price": null,
-    "bracket_stop_loss_price": null,
-    "meta_data": {
-      "ip": "2404:7c00:4a:e0b5:b489:5c1e:6647:d4ec",
-      "order_source": "place_order",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "side": "sell",
-    "user_id": 37780748,
-    "time_in_force": "gtc",
-    "stop_price": null,
-    "commission": "0",
-    "unfilled_size": 6,
-    "client_order_id": null,
-    "updated_at": "2026-03-20T17:25:26.005903Z",
-    "bracket_take_profit_price": null,
-    "trail_amount": null,
-    "product_symbol": "BTCUSD",
-    "size": 6,
-    "margin_mode": "portfolio",
-    "quote_size": null,
-    "stop_trigger_method": null,
-    "mmp": "disabled",
-    "paid_commission": "0",
-    "bracket_order": null,
-    "cancellation_reason": null,
-    "created_at": "2026-03-20T17:25:26.005903Z"
-  },
-  {
-    "bracket_take_profit_limit_price": null,
-    "bracket_trail_amount": null,
-    "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
       "contract_value": "0.01",
@@ -103,7 +36,7 @@
     "id": 1234010874,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 782.01,
+    "limit_price": "783.71",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "meta_data": {
@@ -111,7 +44,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-20T17:56:42.666Z"
+      "user_updated_at": "2026-03-20T17:57:20.980Z"
     },
     "side": "buy",
     "user_id": 37780748,
@@ -120,7 +53,7 @@
     "commission": "0",
     "unfilled_size": 100,
     "client_order_id": null,
-    "updated_at": "2026-03-20T17:56:42.666836Z",
+    "updated_at": "2026-03-20T17:57:20.980904Z",
     "bracket_take_profit_price": null,
     "trail_amount": null,
     "product_symbol": "C-ETH-1400-290526",
