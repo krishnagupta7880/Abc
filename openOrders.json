@@ -54,7 +54,7 @@
     "quote_size": null,
     "cancellation_reason": null,
     "bracket_order": null,
-    "updated_at": "2026-03-20T05:04:25.255019Z",
+    "updated_at": "2026-03-20T05:04:45.279936Z",
     "user_id": 37780748,
     "size": 30,
     "stop_order_type": null,
@@ -64,7 +64,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-20T05:04:25.254Z"
+      "user_updated_at": "2026-03-20T05:04:45.279Z"
     }
   }
 ]
