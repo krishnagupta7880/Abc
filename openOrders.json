@@ -19,7 +19,7 @@
     },
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "802.21",
+    "limit_price": 803.11,
     "average_fill_price": null,
     "time_in_force": "gtc",
     "client_order_id": null,
