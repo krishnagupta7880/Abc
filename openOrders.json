@@ -6,7 +6,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-20T23:47:05.504Z"
+      "user_updated_at": "2026-03-20T23:49:31.816Z"
     },
     "product": {
       "contract_type": "call_options",
@@ -42,7 +42,7 @@
     "client_order_id": null,
     "stop_trigger_method": null,
     "bracket_order": null,
-    "updated_at": "2026-03-20T23:47:05.505669Z",
+    "updated_at": "2026-03-20T23:49:31.817196Z",
     "reduce_only": false,
     "trail_amount": null,
     "state": "open",
@@ -57,7 +57,7 @@
     "commission": "0",
     "bracket_take_profit_limit_price": null,
     "paid_commission": "0",
-    "limit_price": "792.81",
+    "limit_price": "793.61",
     "stop_order_type": null,
     "average_fill_price": null,
     "margin_mode": "portfolio",
