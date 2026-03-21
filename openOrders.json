@@ -36,7 +36,7 @@
     "id": 1234010874,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "795.51",
+    "limit_price": 796.31,
     "average_fill_price": "804",
     "bracket_stop_loss_price": null,
     "meta_data": {
