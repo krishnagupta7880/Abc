@@ -15,7 +15,7 @@
     "id": 1234010874,
     "average_fill_price": "804",
     "trail_amount": null,
-    "limit_price": "747.11",
+    "limit_price": 745.81,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "margin_mode": "portfolio",
