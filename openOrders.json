@@ -59,7 +59,7 @@
     "commission": "0",
     "bracket_take_profit_limit_price": null,
     "paid_commission": "0.00254857",
-    "limit_price": "749.31",
+    "limit_price": 750.11,
     "stop_order_type": null,
     "average_fill_price": "804",
     "margin_mode": "portfolio",
