@@ -1,6 +1,72 @@
 [
   {
-    "updated_at": "2026-03-23T17:45:30.590272Z",
+    "updated_at": "2026-03-23T17:46:21.067449Z",
+    "average_fill_price": null,
+    "time_in_force": "gtc",
+    "product": {
+      "contract_type": "perpetual_futures",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 27,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "BTCUSD",
+      "tick_size": "0.5",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "bracket_trail_amount": null,
+    "commission": "0",
+    "state": "open",
+    "product_id": 27,
+    "stop_order_type": null,
+    "id": 1240268767,
+    "reduce_only": true,
+    "bracket_stop_loss_price": null,
+    "order_type": "limit_order",
+    "limit_price": "71100",
+    "user_id": 37780748,
+    "bracket_take_profit_limit_price": null,
+    "bracket_take_profit_price": null,
+    "cancellation_reason": null,
+    "stop_price": null,
+    "paid_commission": "0",
+    "meta_data": {
+      "ip": "2404:7c00:4a:8d2d:f0f4:db24:a8ae:aefc",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "trail_amount": null,
+    "unfilled_size": 6,
+    "mmp": "disabled",
+    "bracket_stop_loss_limit_price": null,
+    "client_order_id": null,
+    "margin_mode": "portfolio",
+    "product_symbol": "BTCUSD",
+    "size": 6,
+    "quote_size": null,
+    "stop_trigger_method": null,
+    "created_at": "2026-03-23T17:46:21.067449Z",
+    "side": "sell",
+    "bracket_order": null
+  },
+  {
+    "updated_at": "2026-03-23T17:46:23.413824Z",
     "average_fill_price": null,
     "time_in_force": "gtc",
     "product": {
@@ -39,7 +105,7 @@
     "reduce_only": false,
     "bracket_stop_loss_price": null,
     "order_type": "limit_order",
-    "limit_price": 791.11,
+    "limit_price": 792.91,
     "user_id": 37780748,
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
@@ -51,7 +117,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-23T17:45:30.589Z"
+      "user_updated_at": "2026-03-23T17:46:23.413Z"
     },
     "trail_amount": null,
     "unfilled_size": 55,
