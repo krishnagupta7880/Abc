@@ -29,7 +29,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2026-03-23T19:33:10.990013Z",
+    "updated_at": "2026-03-23T19:33:24.280452Z",
     "state": "open",
     "product_id": 124412,
     "bracket_take_profit_price": null,
@@ -38,7 +38,7 @@
     "id": 1239483821,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "808.21",
+    "limit_price": "807.41",
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
@@ -61,7 +61,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-23T19:33:10.989Z"
+      "user_updated_at": "2026-03-23T19:33:24.279Z"
     },
     "mmp": "disabled",
     "side": "buy",
