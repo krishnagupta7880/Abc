@@ -17,7 +17,7 @@
     "state": "open",
     "product_id": 124412,
     "commission": "0",
-    "limit_price": "713.11",
+    "limit_price": 713.91,
     "id": 1234010874,
     "unfilled_size": 54,
     "stop_order_type": null,
