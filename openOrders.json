@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2026-03-24T14:14:17.742850Z",
+    "updated_at": "2026-03-24T14:14:37.454246Z",
     "average_fill_price": null,
     "time_in_force": "gtc",
     "product": {
@@ -39,7 +39,7 @@
     "reduce_only": false,
     "bracket_stop_loss_price": null,
     "order_type": "limit_order",
-    "limit_price": 773.51,
+    "limit_price": "773.51",
     "user_id": 37780748,
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
@@ -51,7 +51,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-24T14:14:17.742Z"
+      "user_updated_at": "2026-03-24T14:14:37.453Z"
     },
     "trail_amount": null,
     "unfilled_size": 1,
