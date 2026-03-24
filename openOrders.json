@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2026-03-24T08:19:18.363602Z",
+    "updated_at": "2026-03-24T08:19:43.473105Z",
     "average_fill_price": null,
     "time_in_force": "gtc",
     "product": {
@@ -51,7 +51,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-24T08:19:18.363Z"
+      "user_updated_at": "2026-03-24T08:19:43.472Z"
     },
     "trail_amount": null,
     "unfilled_size": 55,
