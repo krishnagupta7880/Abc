@@ -7,7 +7,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-25T13:00:57.906Z"
+      "user_updated_at": "2026-03-25T13:01:09.692Z"
     },
     "state": "open",
     "product_symbol": "C-ETH-1400-290526",
@@ -29,7 +29,7 @@
     "bracket_trail_amount": null,
     "trail_amount": null,
     "cancellation_reason": null,
-    "updated_at": "2026-03-25T13:00:57.907414Z",
+    "updated_at": "2026-03-25T13:01:09.693842Z",
     "user_id": 37780748,
     "client_order_id": null,
     "size": 50,
