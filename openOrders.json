@@ -18,7 +18,7 @@
     "reduce_only": false,
     "order_type": "limit_order",
     "margin_mode": "portfolio",
-    "limit_price": "799.41",
+    "limit_price": 800.21,
     "commission": "0",
     "bracket_order": null,
     "product_id": 124412,
