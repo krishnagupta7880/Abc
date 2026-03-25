@@ -5,7 +5,7 @@
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2026-03-25T19:29:06.321929Z",
+    "updated_at": "2026-03-25T19:29:36.868553Z",
     "state": "open",
     "product_id": 124412,
     "id": 1239483821,
@@ -65,7 +65,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-25T19:29:06.321Z"
+      "user_updated_at": "2026-03-25T19:29:36.868Z"
     },
     "bracket_take_profit_price": null
   }
