@@ -1,35 +1,35 @@
 [
   {
-    "average_fill_price": null,
-    "time_in_force": "gtc",
-    "product_symbol": "BTCUSD",
-    "bracket_trail_amount": null,
-    "state": "pending",
-    "bracket_stop_loss_limit_price": null,
-    "stop_order_type": "take_profit_order",
-    "id": 1249662526,
-    "reduce_only": true,
-    "order_type": "market_order",
-    "client_order_id": null,
-    "limit_price": null,
-    "margin_mode": "portfolio",
-    "trail_amount": null,
     "user_id": 37780748,
+    "bracket_trail_amount": null,
     "created_at": "2026-03-30T02:48:15.869073Z",
-    "stop_price": "70000",
-    "product_id": 27,
-    "cancellation_reason": null,
-    "side": "sell",
-    "updated_at": "2026-03-30T02:48:15.869073Z",
-    "unfilled_size": 5,
-    "mmp": "disabled",
-    "bracket_stop_loss_price": null,
-    "size": 5,
+    "stop_order_type": "take_profit_order",
+    "bracket_take_profit_limit_price": null,
+    "product_symbol": "BTCUSD",
+    "meta_data": {
+      "ip": "2404:7c00:4a:11bc:b12b:9364:50f3:252b",
+      "source": "mobile_app"
+    },
+    "bracket_stop_loss_limit_price": null,
+    "state": "pending",
+    "id": 1249662526,
+    "time_in_force": "gtc",
+    "order_type": "market_order",
+    "bracket_take_profit_price": null,
+    "margin_mode": "portfolio",
     "quote_size": null,
+    "unfilled_size": 5,
+    "limit_price": null,
     "stop_trigger_method": "mark_price",
-    "commission": "0",
-    "bracket_order": true,
     "paid_commission": "0",
+    "side": "sell",
+    "commission": "0",
+    "bracket_stop_loss_price": null,
+    "product_id": 27,
+    "trail_amount": null,
+    "cancellation_reason": null,
+    "client_order_id": null,
+    "bracket_order": true,
     "product": {
       "contract_type": "perpetual_futures",
       "contract_unit_currency": "BTC",
@@ -57,11 +57,11 @@
         "symbol": "BTC"
       }
     },
-    "bracket_take_profit_price": null,
-    "meta_data": {
-      "ip": "2404:7c00:4a:11bc:b12b:9364:50f3:252b",
-      "source": "mobile_app"
-    },
-    "bracket_take_profit_limit_price": null
+    "reduce_only": true,
+    "mmp": "disabled",
+    "average_fill_price": null,
+    "stop_price": "70000",
+    "size": 5,
+    "updated_at": "2026-03-30T02:48:15.869073Z"
   }
 ]
