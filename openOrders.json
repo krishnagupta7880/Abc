@@ -135,7 +135,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-30T18:23:50.426Z"
+      "user_updated_at": "2026-03-30T18:24:07.064Z"
     },
     "mmp": "disabled",
     "quote_size": null,
@@ -145,7 +145,7 @@
     "state": "open",
     "product_id": 128723,
     "client_order_id": null,
-    "updated_at": "2026-03-30T18:23:50.427331Z",
+    "updated_at": "2026-03-30T18:24:07.065101Z",
     "id": 1250033959,
     "product": {
       "contract_type": "call_options",
@@ -205,7 +205,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-30T18:23:50.194Z"
+      "user_updated_at": "2026-03-30T18:24:06.458Z"
     },
     "mmp": "disabled",
     "quote_size": null,
@@ -215,7 +215,7 @@
     "state": "open",
     "product_id": 124412,
     "client_order_id": null,
-    "updated_at": "2026-03-30T18:23:50.197238Z",
+    "updated_at": "2026-03-30T18:24:06.458912Z",
     "id": 1250031061,
     "product": {
       "contract_type": "call_options",
