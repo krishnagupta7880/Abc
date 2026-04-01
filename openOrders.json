@@ -13,7 +13,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-01T08:17:29.048Z"
+      "user_updated_at": "2026-04-01T08:17:49.099Z"
     },
     "bracket_stop_loss_limit_price": null,
     "state": "open",
@@ -24,7 +24,7 @@
     "margin_mode": "portfolio",
     "quote_size": null,
     "unfilled_size": 60,
-    "limit_price": "784.51",
+    "limit_price": "785.31",
     "stop_trigger_method": null,
     "paid_commission": "0.02512563",
     "side": "buy",
@@ -67,7 +67,7 @@
     "average_fill_price": "785.21",
     "stop_price": null,
     "size": 70,
-    "updated_at": "2026-04-01T08:17:29.048639Z"
+    "updated_at": "2026-04-01T08:17:49.100257Z"
   },
   {
     "user_id": 37780748,
@@ -83,7 +83,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-01T08:17:31.223Z"
+      "user_updated_at": "2026-04-01T08:17:50.763Z"
     },
     "bracket_stop_loss_limit_price": null,
     "state": "open",
@@ -94,7 +94,7 @@
     "margin_mode": "portfolio",
     "quote_size": null,
     "unfilled_size": 24,
-    "limit_price": "761.81",
+    "limit_price": "762.81",
     "stop_trigger_method": null,
     "paid_commission": "0.07628051",
     "side": "buy",
@@ -137,6 +137,6 @@
     "average_fill_price": "723.103225806451612903",
     "stop_price": null,
     "size": 55,
-    "updated_at": "2026-04-01T08:17:31.223837Z"
+    "updated_at": "2026-04-01T08:17:50.764358Z"
   }
 ]
