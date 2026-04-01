@@ -1,17 +1,19 @@
 [
   {
     "meta_data": {
+      "cashflow": "-78.521",
       "ip": "2404:7c00:4a:11bc:b12b:9364:50f3:252b",
       "order_source": "place_order",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-01T05:34:32.620Z"
+      "user_updated_at": "2026-04-01T05:34:57.663Z"
     },
     "mmp": "disabled",
     "created_at": "2026-03-30T08:27:37.073458Z",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-04-01T05:34:32.621394Z",
+    "updated_at": "2026-04-01T05:34:57.663887Z",
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
     "state": "open",
@@ -20,7 +22,7 @@
     "id": 1250033959,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "785.21",
+    "limit_price": 785.11,
     "commission": "0",
     "cancellation_reason": null,
     "user_id": 37780748,
@@ -54,7 +56,7 @@
     "stop_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_order": null,
-    "unfilled_size": 70,
+    "unfilled_size": 60,
     "bracket_trail_amount": null,
     "side": "buy",
     "product_symbol": "C-ETH-1400-260626",
@@ -62,9 +64,9 @@
     "size": 70,
     "quote_size": null,
     "trail_amount": null,
-    "paid_commission": "0",
+    "paid_commission": "0.02512563",
     "stop_trigger_method": null,
-    "average_fill_price": null,
+    "average_fill_price": "785.21",
     "time_in_force": "gtc"
   },
   {
@@ -75,13 +77,13 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-01T05:34:32.785Z"
+      "user_updated_at": "2026-04-01T05:34:57.795Z"
     },
     "mmp": "disabled",
     "created_at": "2026-03-30T08:24:45.611914Z",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-04-01T05:34:32.785564Z",
+    "updated_at": "2026-04-01T05:34:57.796353Z",
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
     "state": "open",
@@ -90,7 +92,7 @@
     "id": 1250031061,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "762.51",
+    "limit_price": 762.41,
     "commission": "0",
     "cancellation_reason": null,
     "user_id": 37780748,
