@@ -5,7 +5,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-01T04:23:55.857Z"
+      "user_updated_at": "2026-04-01T04:24:35.938Z"
     },
     "mmp": "disabled",
     "quote_size": null,
@@ -15,7 +15,7 @@
     "state": "open",
     "product_id": 128723,
     "client_order_id": null,
-    "updated_at": "2026-04-01T04:23:55.858024Z",
+    "updated_at": "2026-04-01T04:24:35.938841Z",
     "id": 1250033959,
     "product": {
       "contract_type": "call_options",
