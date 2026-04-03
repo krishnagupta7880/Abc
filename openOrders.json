@@ -9,7 +9,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-03T00:16:12.045Z"
+      "user_updated_at": "2026-04-03T00:16:25.582Z"
     },
     "state": "open",
     "product_symbol": "C-ETH-1400-260626",
@@ -18,7 +18,7 @@
     "reduce_only": false,
     "order_type": "limit_order",
     "margin_mode": "portfolio",
-    "limit_price": 713.31,
+    "limit_price": "713.31",
     "commission": "0",
     "bracket_order": null,
     "product_id": 128723,
@@ -31,7 +31,7 @@
     "bracket_trail_amount": null,
     "trail_amount": null,
     "cancellation_reason": null,
-    "updated_at": "2026-04-03T00:16:12.045707Z",
+    "updated_at": "2026-04-03T00:16:25.583348Z",
     "user_id": 37780748,
     "client_order_id": null,
     "size": 70,
@@ -79,7 +79,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-03T00:15:31.806Z"
+      "user_updated_at": "2026-04-03T00:16:26.433Z"
     },
     "state": "open",
     "product_symbol": "C-ETH-1400-290526",
@@ -88,7 +88,7 @@
     "reduce_only": false,
     "order_type": "limit_order",
     "margin_mode": "portfolio",
-    "limit_price": 689.71,
+    "limit_price": "689.71",
     "commission": "0",
     "bracket_order": null,
     "product_id": 124412,
@@ -101,7 +101,7 @@
     "bracket_trail_amount": null,
     "trail_amount": null,
     "cancellation_reason": null,
-    "updated_at": "2026-04-03T00:15:31.806792Z",
+    "updated_at": "2026-04-03T00:16:26.434292Z",
     "user_id": 37780748,
     "client_order_id": null,
     "size": 65,
