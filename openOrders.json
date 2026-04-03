@@ -3,7 +3,7 @@
     "client_order_id": null,
     "cancellation_reason": null,
     "commission": "0",
-    "limit_price": "707.71",
+    "limit_price": 708.81,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -73,7 +73,7 @@
     "client_order_id": null,
     "cancellation_reason": null,
     "commission": "0",
-    "limit_price": "683.51",
+    "limit_price": 684.41,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
