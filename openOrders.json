@@ -93,7 +93,7 @@
     "reduce_only": false,
     "order_type": "limit_order",
     "margin_mode": "portfolio",
-    "limit_price": "699.21",
+    "limit_price": 698.41,
     "user_id": 37780748,
     "side": "buy",
     "bracket_take_profit_price": null,
