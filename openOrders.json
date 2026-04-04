@@ -79,7 +79,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-04T17:24:02.622Z"
+      "user_updated_at": "2026-04-04T17:28:22.739Z"
     },
     "state": "open",
     "product_symbol": "C-ETH-1400-290526",
@@ -88,7 +88,7 @@
     "reduce_only": false,
     "order_type": "limit_order",
     "margin_mode": "portfolio",
-    "limit_price": 688.11,
+    "limit_price": "688.11",
     "commission": "0",
     "bracket_order": null,
     "product_id": 124412,
@@ -101,7 +101,7 @@
     "bracket_trail_amount": null,
     "trail_amount": null,
     "cancellation_reason": null,
-    "updated_at": "2026-04-04T17:24:02.623330Z",
+    "updated_at": "2026-04-04T17:28:22.739581Z",
     "user_id": 37780748,
     "client_order_id": null,
     "size": 65,
