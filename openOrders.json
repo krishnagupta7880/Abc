@@ -7,7 +7,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-05T06:32:25.751Z"
+      "user_updated_at": "2026-04-05T06:32:42.260Z"
     },
     "mmp": "disabled",
     "quote_size": null,
@@ -17,7 +17,7 @@
     "state": "open",
     "product_id": 128723,
     "client_order_id": null,
-    "updated_at": "2026-04-05T06:32:25.752511Z",
+    "updated_at": "2026-04-05T06:32:42.260939Z",
     "id": 1250033959,
     "product": {
       "contract_type": "call_options",
@@ -53,7 +53,7 @@
     "bracket_stop_loss_limit_price": null,
     "unfilled_size": 58,
     "created_at": "2026-03-30T08:27:37.073458Z",
-    "limit_price": 692.81,
+    "limit_price": 693.81,
     "bracket_stop_loss_price": null,
     "stop_order_type": null,
     "stop_price": null,
