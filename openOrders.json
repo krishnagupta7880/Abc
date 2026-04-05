@@ -1,5 +1,70 @@
 [
   {
+    "average_fill_price": null,
+    "mmp": "disabled",
+    "meta_data": {
+      "ip": "2404:7c00:4a:9367:6e2a:6c54:fd9f:7ca0",
+      "source": "mobile_app"
+    },
+    "state": "pending",
+    "product_symbol": "BTCUSD",
+    "stop_order_type": "stop_loss_order",
+    "id": 1259934304,
+    "reduce_only": true,
+    "order_type": "market_order",
+    "margin_mode": "portfolio",
+    "limit_price": null,
+    "commission": "0",
+    "bracket_order": true,
+    "product_id": 27,
+    "side": "sell",
+    "bracket_take_profit_price": null,
+    "stop_price": "67000",
+    "bracket_stop_loss_price": null,
+    "created_at": "2026-04-05T18:36:23.135794Z",
+    "unfilled_size": 5,
+    "bracket_trail_amount": null,
+    "trail_amount": null,
+    "cancellation_reason": null,
+    "updated_at": "2026-04-05T18:36:23.135794Z",
+    "user_id": 37780748,
+    "client_order_id": null,
+    "size": 5,
+    "quote_size": null,
+    "stop_trigger_method": "mark_price",
+    "product": {
+      "contract_type": "perpetual_futures",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 27,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "BTCUSD",
+      "tick_size": "0.5",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "bracket_stop_loss_limit_price": null,
+    "time_in_force": "gtc",
+    "bracket_take_profit_limit_price": null,
+    "paid_commission": "0"
+  },
+  {
     "average_fill_price": "738.831875",
     "mmp": "disabled",
     "meta_data": {
@@ -18,7 +83,7 @@
     "reduce_only": false,
     "order_type": "limit_order",
     "margin_mode": "portfolio",
-    "limit_price": "716.21",
+    "limit_price": 715.41,
     "commission": "0",
     "bracket_order": null,
     "product_id": 128723,
