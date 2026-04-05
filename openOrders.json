@@ -142,7 +142,7 @@
     "reduce_only": false,
     "order_type": "limit_order",
     "client_order_id": null,
-    "limit_price": "740.91",
+    "limit_price": 742.61,
     "margin_mode": "portfolio",
     "trail_amount": null,
     "user_id": 37780748,
@@ -151,7 +151,7 @@
     "product_id": 128723,
     "cancellation_reason": null,
     "side": "buy",
-    "updated_at": "2026-04-05T23:13:02.652949Z",
+    "updated_at": "2026-04-05T23:13:46.266200Z",
     "unfilled_size": 58,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
@@ -196,7 +196,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-05T23:13:02.652Z"
+      "user_updated_at": "2026-04-05T23:13:46.265Z"
     },
     "bracket_take_profit_limit_price": null
   }
