@@ -142,7 +142,7 @@
     "reduce_only": false,
     "order_type": "limit_order",
     "client_order_id": null,
-    "limit_price": "729.11",
+    "limit_price": 731.41,
     "margin_mode": "portfolio",
     "trail_amount": null,
     "user_id": 37780748,
