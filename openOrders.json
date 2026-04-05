@@ -123,7 +123,7 @@
     "bracket_stop_loss_limit_price": null,
     "unfilled_size": 22,
     "created_at": "2026-03-30T08:24:45.611914Z",
-    "limit_price": "694.91",
+    "limit_price": 694.11,
     "bracket_stop_loss_price": null,
     "stop_order_type": null,
     "stop_price": null,
