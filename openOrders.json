@@ -22,7 +22,7 @@
     "id": 1250033959,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "777.01",
+    "limit_price": 776.21,
     "commission": "0",
     "cancellation_reason": null,
     "user_id": 37780748,
