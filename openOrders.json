@@ -1,7 +1,7 @@
 [
   {
     "meta_data": {
-      "cashflow": "0.6557",
+      "cashflow": "0.6614",
       "ip": "2404:7c00:4a:bdbd:a9e8:b8ed:cf9c:4368",
       "order_source": "place_order",
       "otc": false,
@@ -11,12 +11,12 @@
     "mmp": "disabled",
     "quote_size": null,
     "trail_amount": null,
-    "paid_commission": "0.02708041",
+    "paid_commission": "0.02731582",
     "bracket_trail_amount": null,
     "state": "open",
     "product_id": 129516,
     "client_order_id": null,
-    "updated_at": "2026-04-06T11:54:49.016664Z",
+    "updated_at": "2026-04-06T11:54:50.112398Z",
     "id": 1260892159,
     "product": {
       "contract_type": "put_options",
@@ -50,7 +50,7 @@
     "commission": "0",
     "side": "sell",
     "bracket_stop_loss_limit_price": null,
-    "unfilled_size": 6518,
+    "unfilled_size": 6461,
     "created_at": "2026-04-06T11:54:27.470527Z",
     "limit_price": "0.01",
     "bracket_stop_loss_price": null,
