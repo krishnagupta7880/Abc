@@ -20,7 +20,7 @@
     "product_id": 128723,
     "cancellation_reason": null,
     "side": "buy",
-    "updated_at": "2026-04-07T00:44:57.296196Z",
+    "updated_at": "2026-04-07T00:45:45.826048Z",
     "unfilled_size": 63,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
@@ -65,7 +65,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-07T00:44:57.295Z"
+      "user_updated_at": "2026-04-07T00:45:45.825Z"
     },
     "bracket_take_profit_limit_price": null
   }
