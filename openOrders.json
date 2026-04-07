@@ -7,7 +7,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-07T10:50:56.893Z"
+      "user_updated_at": "2026-04-07T10:51:24.986Z"
     },
     "mmp": "disabled",
     "quote_size": null,
@@ -17,7 +17,7 @@
     "state": "open",
     "product_id": 128723,
     "client_order_id": null,
-    "updated_at": "2026-04-07T10:50:56.894301Z",
+    "updated_at": "2026-04-07T10:51:24.987279Z",
     "id": 1250033959,
     "product": {
       "contract_type": "call_options",
