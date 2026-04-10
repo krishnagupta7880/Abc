@@ -24,7 +24,7 @@
     "margin_mode": "portfolio",
     "quote_size": null,
     "unfilled_size": 46,
-    "limit_price": "828.81",
+    "limit_price": 828.01,
     "stop_trigger_method": null,
     "paid_commission": "0.06302265",
     "side": "buy",
