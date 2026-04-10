@@ -13,7 +13,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-10T08:58:16.780Z"
+      "user_updated_at": "2026-04-10T08:58:47.849Z"
     },
     "bracket_stop_loss_limit_price": null,
     "state": "open",
@@ -24,7 +24,7 @@
     "margin_mode": "portfolio",
     "quote_size": null,
     "unfilled_size": 36,
-    "limit_price": "821.91",
+    "limit_price": "821.11",
     "stop_trigger_method": null,
     "paid_commission": "0.05010837",
     "side": "buy",
@@ -67,6 +67,6 @@
     "average_fill_price": "870.878421052631578947",
     "stop_price": null,
     "size": 55,
-    "updated_at": "2026-04-10T08:58:16.781085Z"
+    "updated_at": "2026-04-10T08:58:47.850121Z"
   }
 ]
