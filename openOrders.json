@@ -1,5 +1,7 @@
 [
   {
+    "average_fill_price": "863.362941176470588235",
+    "mmp": "disabled",
     "meta_data": {
       "cashflow": "-293.5434",
       "ip": "2404:7c00:4a:bdbd:a9a2:594e:f9b0:d11c",
@@ -9,23 +11,32 @@
       "source": "mobile_app_android",
       "user_updated_at": "2026-04-11T12:48:26.718Z"
     },
-    "mmp": "disabled",
-    "created_at": "2026-04-07T14:35:10.921490Z",
-    "margin_mode": "portfolio",
-    "bracket_stop_loss_price": null,
-    "updated_at": "2026-04-11T12:48:26.719652Z",
-    "bracket_stop_loss_limit_price": null,
-    "bracket_take_profit_price": null,
     "state": "open",
-    "product_id": 128723,
+    "product_symbol": "C-ETH-1400-260626",
     "stop_order_type": null,
     "id": 1262802211,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "877.61",
+    "margin_mode": "portfolio",
+    "limit_price": 876.81,
     "commission": "0",
+    "bracket_order": null,
+    "product_id": 128723,
+    "side": "buy",
+    "bracket_take_profit_price": null,
+    "stop_price": null,
+    "bracket_stop_loss_price": null,
+    "created_at": "2026-04-07T14:35:10.921490Z",
+    "unfilled_size": 36,
+    "bracket_trail_amount": null,
+    "trail_amount": null,
     "cancellation_reason": null,
+    "updated_at": "2026-04-11T12:48:26.719652Z",
     "user_id": 37780748,
+    "client_order_id": null,
+    "size": 70,
+    "quote_size": null,
+    "stop_trigger_method": null,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -53,20 +64,9 @@
         "symbol": "ETH"
       }
     },
-    "stop_price": null,
+    "bracket_stop_loss_limit_price": null,
+    "time_in_force": "gtc",
     "bracket_take_profit_limit_price": null,
-    "bracket_order": null,
-    "unfilled_size": 36,
-    "bracket_trail_amount": null,
-    "side": "buy",
-    "product_symbol": "C-ETH-1400-260626",
-    "client_order_id": null,
-    "size": 70,
-    "quote_size": null,
-    "trail_amount": null,
-    "paid_commission": "0.08940705",
-    "stop_trigger_method": null,
-    "average_fill_price": "863.362941176470588235",
-    "time_in_force": "gtc"
+    "paid_commission": "0.08940705"
   }
 ]
