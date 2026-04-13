@@ -118,7 +118,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-13T14:13:45.383Z"
+      "user_updated_at": "2026-04-13T14:14:14.446Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -133,6 +133,6 @@
     "product_symbol": "C-ETH-1400-260626",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-13T14:13:45.383802Z"
+    "updated_at": "2026-04-13T14:14:14.447258Z"
   }
 ]
