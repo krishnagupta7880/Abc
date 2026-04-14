@@ -2,7 +2,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": 914.21,
+    "limit_price": "914.21",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -23,7 +23,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 128722,
-    "updated_at": "2026-04-14T07:18:49.675174Z",
+    "updated_at": "2026-04-14T07:19:16.230765Z",
     "time_in_force": "gtc",
     "size": 50,
     "stop_order_type": null,
@@ -61,7 +61,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-14T07:18:49.674Z"
+      "user_updated_at": "2026-04-14T07:19:16.230Z"
     },
     "created_at": "2026-04-14T04:56:41.863691Z",
     "product_symbol": "C-ETH-1500-260626",
@@ -70,7 +70,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "992.21",
+    "limit_price": 991.41,
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
