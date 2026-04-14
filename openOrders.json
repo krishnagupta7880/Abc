@@ -1,9 +1,20 @@
 [
   {
     "trail_amount": null,
-    "created_at": "2026-04-13T06:46:07.981919Z",
+    "margin_mode": "portfolio",
+    "limit_price": 993.61,
+    "cancellation_reason": null,
+    "updated_at": "2026-04-14T00:08:59.404460Z",
+    "commission": "0",
+    "stop_trigger_method": null,
+    "reduce_only": false,
+    "client_order_id": null,
+    "state": "open",
+    "id": 1270866637,
+    "unfilled_size": 50,
     "user_id": 37780748,
-    "quote_size": null,
+    "product_id": 128723,
+    "bracket_stop_loss_price": null,
     "meta_data": {
       "cashflow": "-44.2705",
       "ip": "2404:7c00:4a:101e:e76a:b2fc:27f3:32d7",
@@ -11,23 +22,18 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-14T00:08:32.356Z"
+      "user_updated_at": "2026-04-14T00:08:59.404Z"
     },
-    "state": "open",
-    "reduce_only": false,
+    "mmp": "disabled",
     "time_in_force": "gtc",
-    "id": 1270866637,
-    "margin_mode": "portfolio",
-    "commission": "0",
-    "bracket_take_profit_limit_price": null,
-    "client_order_id": null,
-    "cancellation_reason": null,
-    "order_type": "limit_order",
-    "average_fill_price": "885.41",
     "bracket_order": null,
-    "paid_commission": "0.0133035",
-    "unfilled_size": 50,
     "bracket_stop_loss_limit_price": null,
+    "bracket_take_profit_limit_price": null,
+    "quote_size": null,
+    "bracket_trail_amount": null,
+    "created_at": "2026-04-13T06:46:07.981919Z",
+    "order_type": "limit_order",
+    "stop_price": null,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -55,18 +61,12 @@
         "symbol": "ETH"
       }
     },
-    "bracket_trail_amount": null,
-    "stop_order_type": null,
-    "product_id": 128723,
-    "bracket_take_profit_price": null,
-    "size": 55,
-    "stop_trigger_method": null,
-    "limit_price": "994.51",
-    "bracket_stop_loss_price": null,
-    "stop_price": null,
-    "mmp": "disabled",
+    "average_fill_price": "885.41",
     "product_symbol": "C-ETH-1400-260626",
+    "size": 55,
+    "paid_commission": "0.0133035",
+    "stop_order_type": null,
     "side": "buy",
-    "updated_at": "2026-04-14T00:08:32.357189Z"
+    "bracket_take_profit_price": null
   }
 ]
