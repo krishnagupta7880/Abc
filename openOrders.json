@@ -46,7 +46,7 @@
     "client_order_id": null,
     "unfilled_size": 50,
     "cancellation_reason": null,
-    "limit_price": "919.71",
+    "limit_price": 920.51,
     "updated_at": "2026-04-14T09:05:34.310906Z",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
