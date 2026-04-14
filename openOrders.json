@@ -9,7 +9,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-14T10:19:43.583Z"
+      "user_updated_at": "2026-04-14T10:22:28.063Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -59,13 +59,13 @@
     "bracket_take_profit_price": null,
     "size": 50,
     "stop_trigger_method": null,
-    "limit_price": "916.41",
+    "limit_price": "917.21",
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "C-ETH-1500-260626",
     "side": "buy",
-    "updated_at": "2026-04-14T10:19:43.584133Z"
+    "updated_at": "2026-04-14T10:22:28.064348Z"
   },
   {
     "trail_amount": null,
@@ -77,7 +77,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-14T10:19:43.486Z"
+      "user_updated_at": "2026-04-14T10:22:27.870Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -127,13 +127,13 @@
     "bracket_take_profit_price": null,
     "size": 50,
     "stop_trigger_method": null,
-    "limit_price": "993.81",
+    "limit_price": "994.61",
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "C-ETH-1400-290526",
     "side": "buy",
-    "updated_at": "2026-04-14T10:19:43.486711Z"
+    "updated_at": "2026-04-14T10:22:27.871413Z"
   },
   {
     "trail_amount": null,
@@ -147,7 +147,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-14T10:18:53.574Z"
+      "user_updated_at": "2026-04-14T10:22:17.449Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -197,12 +197,12 @@
     "bracket_take_profit_price": null,
     "size": 70,
     "stop_trigger_method": null,
-    "limit_price": "1008.11",
+    "limit_price": 1009.71,
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "C-ETH-1400-260626",
     "side": "buy",
-    "updated_at": "2026-04-14T10:18:53.575149Z"
+    "updated_at": "2026-04-14T10:22:17.450003Z"
   }
 ]
