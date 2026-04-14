@@ -61,7 +61,7 @@
     "bracket_take_profit_price": null,
     "size": 55,
     "stop_trigger_method": null,
-    "limit_price": "990.01",
+    "limit_price": 989.21,
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
