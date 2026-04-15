@@ -92,7 +92,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 128722,
-    "updated_at": "2026-04-15T17:04:56.853909Z",
+    "updated_at": "2026-04-15T17:05:37.430788Z",
     "time_in_force": "gtc",
     "size": 50,
     "stop_order_type": null,
@@ -130,7 +130,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-15T17:04:56.853Z"
+      "user_updated_at": "2026-04-15T17:05:37.430Z"
     },
     "created_at": "2026-04-14T04:56:41.863691Z",
     "product_symbol": "C-ETH-1500-260626",
