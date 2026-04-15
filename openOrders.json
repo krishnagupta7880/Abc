@@ -133,7 +133,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": 884.81,
+    "limit_price": "884.81",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -154,7 +154,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 128722,
-    "updated_at": "2026-04-15T18:11:23.656767Z",
+    "updated_at": "2026-04-15T18:11:46.196343Z",
     "time_in_force": "gtc",
     "size": 50,
     "stop_order_type": null,
@@ -192,7 +192,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-15T18:11:23.656Z"
+      "user_updated_at": "2026-04-15T18:11:46.195Z"
     },
     "created_at": "2026-04-14T04:56:41.863691Z",
     "product_symbol": "C-ETH-1500-260626",
@@ -201,7 +201,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": 962.11,
+    "limit_price": "962.11",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -222,7 +222,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 124412,
-    "updated_at": "2026-04-15T18:11:27.911333Z",
+    "updated_at": "2026-04-15T18:11:47.451535Z",
     "time_in_force": "gtc",
     "size": 50,
     "stop_order_type": null,
@@ -260,7 +260,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-15T18:11:27.910Z"
+      "user_updated_at": "2026-04-15T18:11:47.451Z"
     },
     "created_at": "2026-04-14T04:49:59.571907Z",
     "product_symbol": "C-ETH-1400-290526",
@@ -269,7 +269,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": 976.91,
+    "limit_price": "976.91",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -290,7 +290,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 128723,
-    "updated_at": "2026-04-15T18:11:28.265981Z",
+    "updated_at": "2026-04-15T18:11:48.320949Z",
     "time_in_force": "gtc",
     "size": 70,
     "stop_order_type": null,
@@ -330,7 +330,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-15T18:11:28.265Z"
+      "user_updated_at": "2026-04-15T18:11:48.320Z"
     },
     "created_at": "2026-04-13T06:46:07.981919Z",
     "product_symbol": "C-ETH-1400-260626",
