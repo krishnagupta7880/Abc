@@ -132,7 +132,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": 850.61,
+    "limit_price": "850.61",
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -181,7 +181,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-15T10:32:13.690Z"
+      "user_updated_at": "2026-04-15T10:32:30.711Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -196,11 +196,11 @@
     "product_symbol": "C-ETH-1500-260626",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-15T10:32:13.691222Z"
+    "updated_at": "2026-04-15T10:32:30.711651Z"
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": 927.01,
+    "limit_price": "927.01",
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -249,7 +249,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-15T10:32:15.452Z"
+      "user_updated_at": "2026-04-15T10:32:28.423Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -264,11 +264,11 @@
     "product_symbol": "C-ETH-1400-290526",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-15T10:32:15.452838Z"
+    "updated_at": "2026-04-15T10:32:28.424069Z"
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": 942.11,
+    "limit_price": "942.11",
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -319,7 +319,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-15T10:32:14.042Z"
+      "user_updated_at": "2026-04-15T10:32:29.075Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -334,6 +334,6 @@
     "product_symbol": "C-ETH-1400-260626",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-15T10:32:14.043747Z"
+    "updated_at": "2026-04-15T10:32:29.075786Z"
   }
 ]
