@@ -133,7 +133,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "866.61",
+    "limit_price": 867.41,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -201,7 +201,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "942.91",
+    "limit_price": 943.81,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -269,7 +269,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "958.51",
+    "limit_price": 959.41,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
