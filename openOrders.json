@@ -1,6 +1,6 @@
 [
   {
-    "limit_price": "887.81",
+    "limit_price": 887.01,
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": null,
@@ -68,7 +68,7 @@
     "bracket_order": null
   },
   {
-    "limit_price": "964.81",
+    "limit_price": 963.71,
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": null,
@@ -136,7 +136,7 @@
     "bracket_order": null
   },
   {
-    "limit_price": "979.81",
+    "limit_price": 978.91,
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": "978.117407407407407407",
