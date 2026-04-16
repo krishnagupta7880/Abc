@@ -147,7 +147,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-16T23:49:56.086Z"
+      "user_updated_at": "2026-04-16T23:51:03.730Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -203,6 +203,6 @@
     "mmp": "disabled",
     "product_symbol": "C-ETH-1400-260626",
     "side": "buy",
-    "updated_at": "2026-04-16T23:49:56.087229Z"
+    "updated_at": "2026-04-16T23:51:03.730849Z"
   }
 ]
