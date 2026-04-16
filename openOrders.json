@@ -1,6 +1,6 @@
 [
   {
-    "limit_price": 888.01,
+    "limit_price": 887.91,
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": null,
@@ -14,14 +14,14 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-16T20:03:10.530Z"
+      "user_updated_at": "2026-04-16T20:03:27.082Z"
     },
     "trail_amount": null,
     "cancellation_reason": null,
     "margin_mode": "portfolio",
     "mmp": "disabled",
     "quote_size": null,
-    "updated_at": "2026-04-16T20:03:10.531483Z",
+    "updated_at": "2026-04-16T20:03:27.083061Z",
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "product_id": 128722,
@@ -68,7 +68,7 @@
     "bracket_order": null
   },
   {
-    "limit_price": 965.91,
+    "limit_price": "965.91",
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": null,
@@ -82,14 +82,14 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-16T20:03:04.360Z"
+      "user_updated_at": "2026-04-16T20:03:25.724Z"
     },
     "trail_amount": null,
     "cancellation_reason": null,
     "margin_mode": "portfolio",
     "mmp": "disabled",
     "quote_size": null,
-    "updated_at": "2026-04-16T20:03:04.360873Z",
+    "updated_at": "2026-04-16T20:03:25.724864Z",
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "product_id": 124412,
@@ -136,7 +136,7 @@
     "bracket_order": null
   },
   {
-    "limit_price": 981.41,
+    "limit_price": 980.61,
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": "978.117407407407407407",
@@ -152,14 +152,14 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-16T20:03:11.350Z"
+      "user_updated_at": "2026-04-16T20:03:24.660Z"
     },
     "trail_amount": null,
     "cancellation_reason": null,
     "margin_mode": "portfolio",
     "mmp": "disabled",
     "quote_size": null,
-    "updated_at": "2026-04-16T20:03:11.350987Z",
+    "updated_at": "2026-04-16T20:03:24.660699Z",
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "product_id": 128723,
