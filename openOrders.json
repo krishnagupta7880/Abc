@@ -68,7 +68,7 @@
     "bracket_order": null
   },
   {
-    "limit_price": "922.11",
+    "limit_price": 920.91,
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": null,
@@ -136,7 +136,7 @@
     "bracket_order": null
   },
   {
-    "limit_price": "937.91",
+    "limit_price": 936.71,
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": "978.117407407407407407",
