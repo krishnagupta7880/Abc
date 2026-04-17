@@ -203,7 +203,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "1003.35",
+    "limit_price": "1002.41",
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -224,7 +224,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 124412,
-    "updated_at": "2026-04-17T13:28:26.197022Z",
+    "updated_at": "2026-04-17T13:28:37.912310Z",
     "time_in_force": "gtc",
     "size": 30,
     "stop_order_type": null,
@@ -262,7 +262,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-17T13:28:26.196Z"
+      "user_updated_at": "2026-04-17T13:28:37.911Z"
     },
     "created_at": "2026-04-14T04:49:59.571907Z",
     "product_symbol": "C-ETH-1400-290526",
