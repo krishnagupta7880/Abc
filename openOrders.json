@@ -76,7 +76,7 @@
     "bracket_take_profit_limit_price": null,
     "trail_amount": null,
     "stop_order_type": null,
-    "updated_at": "2026-04-17T02:47:33.020786Z",
+    "updated_at": "2026-04-17T02:48:10.298465Z",
     "average_fill_price": null,
     "state": "open",
     "user_id": 37780748,
@@ -88,11 +88,11 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-17T02:47:33.020Z"
+      "user_updated_at": "2026-04-17T02:48:10.297Z"
     },
     "cancellation_reason": null,
     "order_type": "limit_order",
-    "limit_price": 940.81,
+    "limit_price": "940.81",
     "time_in_force": "gtc",
     "stop_price": null,
     "product_id": 124412,
