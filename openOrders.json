@@ -1,7 +1,7 @@
 [
   {
     "margin_mode": "portfolio",
-    "limit_price": 978.41,
+    "limit_price": "978.41",
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -50,7 +50,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-17T12:07:28.993Z"
+      "user_updated_at": "2026-04-17T12:08:46.688Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -65,7 +65,7 @@
     "product_symbol": "C-ETH-1400-260626",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-17T12:07:28.994324Z"
+    "updated_at": "2026-04-17T12:08:46.689061Z"
   },
   {
     "margin_mode": "portfolio",
@@ -137,7 +137,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": 964.51,
+    "limit_price": "964.51",
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -186,7 +186,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-17T12:08:08.298Z"
+      "user_updated_at": "2026-04-17T12:09:05.904Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -201,6 +201,6 @@
     "product_symbol": "C-ETH-1400-290526",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-17T12:08:08.298948Z"
+    "updated_at": "2026-04-17T12:09:05.905731Z"
   }
 ]
