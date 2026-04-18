@@ -96,7 +96,7 @@
     "client_order_id": null,
     "margin_mode": "portfolio",
     "trail_amount": null,
-    "updated_at": "2026-04-18T07:19:05.530995Z",
+    "updated_at": "2026-04-18T07:22:36.974436Z",
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "1073.41",
     "unfilled_size": 89,
@@ -113,7 +113,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-18T07:19:05.530Z"
+      "user_updated_at": "2026-04-18T07:22:36.973Z"
     },
     "stop_price": null,
     "user_id": 37780748,
@@ -128,7 +128,7 @@
     "side": "buy",
     "reduce_only": false,
     "created_at": "2026-04-17T04:38:51.775820Z",
-    "limit_price": "1031.01",
+    "limit_price": "1031.81",
     "product_symbol": "C-ETH-1400-260626",
     "cancellation_reason": null,
     "mmp": "disabled",
