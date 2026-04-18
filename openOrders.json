@@ -1,6 +1,6 @@
 [
   {
-    "limit_price": 988.81,
+    "limit_price": "989.61",
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": "1073.41",
@@ -16,14 +16,14 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-18T15:13:01.816Z"
+      "user_updated_at": "2026-04-18T15:14:39.746Z"
     },
     "trail_amount": null,
     "cancellation_reason": null,
     "margin_mode": "portfolio",
     "mmp": "disabled",
     "quote_size": null,
-    "updated_at": "2026-04-18T15:13:01.816902Z",
+    "updated_at": "2026-04-18T15:14:39.746650Z",
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "product_id": 128723,
@@ -70,7 +70,7 @@
     "bracket_order": null
   },
   {
-    "limit_price": "895.41",
+    "limit_price": 897.11,
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": "889.26",
@@ -86,14 +86,14 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-18T15:13:53.085Z"
+      "user_updated_at": "2026-04-18T15:14:37.797Z"
     },
     "trail_amount": null,
     "cancellation_reason": null,
     "margin_mode": "portfolio",
     "mmp": "disabled",
     "quote_size": null,
-    "updated_at": "2026-04-18T15:13:53.086159Z",
+    "updated_at": "2026-04-18T15:14:37.797931Z",
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "product_id": 128722,
@@ -140,7 +140,7 @@
     "bracket_order": null
   },
   {
-    "limit_price": "973.01",
+    "limit_price": "974.71",
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": null,
@@ -154,14 +154,14 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-18T15:13:52.170Z"
+      "user_updated_at": "2026-04-18T15:14:42.461Z"
     },
     "trail_amount": null,
     "cancellation_reason": null,
     "margin_mode": "portfolio",
     "mmp": "disabled",
     "quote_size": null,
-    "updated_at": "2026-04-18T15:13:52.171589Z",
+    "updated_at": "2026-04-18T15:14:42.462486Z",
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "product_id": 124412,
