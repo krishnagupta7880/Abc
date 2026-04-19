@@ -26,7 +26,7 @@
     },
     "cancellation_reason": null,
     "order_type": "limit_order",
-    "limit_price": "938.51",
+    "limit_price": 937.71,
     "time_in_force": "gtc",
     "stop_price": null,
     "product_id": 128723,
