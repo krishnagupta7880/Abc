@@ -67,7 +67,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "901.31",
+    "limit_price": 902.11,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -137,7 +137,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "885.31",
+    "limit_price": 886.11,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
