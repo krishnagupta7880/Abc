@@ -68,7 +68,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "937.71",
+    "limit_price": 936.91,
     "cancellation_reason": null,
     "updated_at": "2026-04-20T23:43:08.483902Z",
     "commission": "0",
@@ -138,9 +138,9 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "922.71",
+    "limit_price": 922.31,
     "cancellation_reason": null,
-    "updated_at": "2026-04-20T23:43:35.952956Z",
+    "updated_at": "2026-04-20T23:45:03.132055Z",
     "commission": "0",
     "stop_trigger_method": null,
     "reduce_only": false,
@@ -156,7 +156,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-20T23:43:35.952Z"
+      "user_updated_at": "2026-04-20T23:45:03.131Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
