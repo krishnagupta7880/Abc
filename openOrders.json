@@ -71,7 +71,7 @@
     "user_id": 37780748,
     "quote_size": null,
     "meta_data": {
-      "cashflow": "-258.7576",
+      "cashflow": "-306.3031",
       "ip": "2404:7c00:4a:5aa5:dbab:4f02:62f9:7305",
       "order_source": "place_order",
       "otc": false,
@@ -89,10 +89,10 @@
     "client_order_id": null,
     "cancellation_reason": null,
     "order_type": "limit_order",
-    "average_fill_price": "995.221538461538461538",
+    "average_fill_price": "988.074516129032258065",
     "bracket_order": null,
-    "paid_commission": "0.07272057",
-    "unfilled_size": 94,
+    "paid_commission": "0.08644504",
+    "unfilled_size": 89,
     "bracket_stop_loss_limit_price": null,
     "product": {
       "contract_type": "call_options",
@@ -133,7 +133,7 @@
     "mmp": "disabled",
     "product_symbol": "C-ETH-1400-260626",
     "side": "buy",
-    "updated_at": "2026-04-20T18:30:55.339613Z"
+    "updated_at": "2026-04-20T18:31:37.646477Z"
   },
   {
     "trail_amount": null,
