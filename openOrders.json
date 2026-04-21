@@ -1,14 +1,20 @@
 [
   {
+    "trail_amount": null,
+    "margin_mode": "portfolio",
     "limit_price": "40",
-    "user_id": 37780748,
+    "cancellation_reason": null,
+    "updated_at": "2026-04-21T14:45:35.630465Z",
+    "commission": "0",
     "stop_trigger_method": null,
-    "average_fill_price": null,
-    "created_at": "2026-04-21T11:19:01.213123Z",
     "reduce_only": false,
+    "client_order_id": null,
     "state": "open",
     "id": 1284624407,
     "unfilled_size": 30,
+    "user_id": 37780748,
+    "product_id": 131821,
+    "bracket_stop_loss_price": null,
     "meta_data": {
       "ip": "2404:7c00:4a:2a09:6f9f:3b8f:2d61:4474",
       "order_source": "place_order",
@@ -16,28 +22,16 @@
       "source": "mobile_app_android",
       "user_updated_at": "2026-04-21T14:45:35.629Z"
     },
-    "trail_amount": null,
-    "cancellation_reason": null,
-    "margin_mode": "portfolio",
     "mmp": "disabled",
-    "quote_size": null,
-    "updated_at": "2026-04-21T14:45:35.630465Z",
     "time_in_force": "gtc",
-    "bracket_stop_loss_price": null,
-    "product_id": 131821,
+    "bracket_order": null,
+    "bracket_stop_loss_limit_price": null,
+    "bracket_take_profit_limit_price": null,
+    "quote_size": null,
+    "bracket_trail_amount": null,
+    "created_at": "2026-04-21T11:19:01.213123Z",
     "order_type": "limit_order",
     "stop_price": null,
-    "bracket_stop_loss_limit_price": null,
-    "size": 30,
-    "stop_order_type": null,
-    "bracket_take_profit_price": null,
-    "commission": "0",
-    "side": "sell",
-    "product_symbol": "C-ETH-2360-230426",
-    "bracket_trail_amount": null,
-    "client_order_id": null,
-    "paid_commission": "0",
-    "bracket_take_profit_limit_price": null,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -65,6 +59,12 @@
         "symbol": "ETH"
       }
     },
-    "bracket_order": null
+    "average_fill_price": null,
+    "product_symbol": "C-ETH-2360-230426",
+    "size": 30,
+    "paid_commission": "0",
+    "stop_order_type": null,
+    "side": "sell",
+    "bracket_take_profit_price": null
   }
 ]
