@@ -112,8 +112,8 @@
     "client_order_id": null,
     "unfilled_size": 89,
     "cancellation_reason": null,
-    "limit_price": 944.91,
-    "updated_at": "2026-04-21T01:45:15.207148Z",
+    "limit_price": "944.91",
+    "updated_at": "2026-04-21T01:46:47.386976Z",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -129,7 +129,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-21T01:45:15.206Z"
+      "user_updated_at": "2026-04-21T01:46:47.386Z"
     },
     "product_symbol": "C-ETH-1400-260626",
     "reduce_only": false,
@@ -182,8 +182,8 @@
     "client_order_id": null,
     "unfilled_size": 10,
     "cancellation_reason": null,
-    "limit_price": 929.91,
-    "updated_at": "2026-04-21T01:46:03.213363Z",
+    "limit_price": "929.91",
+    "updated_at": "2026-04-21T01:46:47.815515Z",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -197,7 +197,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-21T01:46:03.212Z"
+      "user_updated_at": "2026-04-21T01:46:47.814Z"
     },
     "product_symbol": "C-ETH-1400-290526",
     "reduce_only": false,
