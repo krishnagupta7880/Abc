@@ -1,6 +1,6 @@
 [
   {
-    "limit_price": "917.71",
+    "limit_price": 918.61,
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": null,
@@ -14,14 +14,14 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-22T10:26:17.672Z"
+      "user_updated_at": "2026-04-22T10:27:09.273Z"
     },
     "trail_amount": null,
     "cancellation_reason": null,
     "margin_mode": "portfolio",
     "mmp": "disabled",
     "quote_size": null,
-    "updated_at": "2026-04-22T10:26:17.672894Z",
+    "updated_at": "2026-04-22T10:27:09.273919Z",
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "product_id": 128722,
