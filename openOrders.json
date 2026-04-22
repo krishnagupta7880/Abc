@@ -76,7 +76,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-22T13:56:38.970Z"
+      "user_updated_at": "2026-04-22T13:57:04.529Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -132,7 +132,7 @@
     "mmp": "disabled",
     "product_symbol": "C-ETH-1500-260626",
     "side": "buy",
-    "updated_at": "2026-04-22T13:56:38.971505Z"
+    "updated_at": "2026-04-22T13:57:04.530458Z"
   },
   {
     "trail_amount": null,
