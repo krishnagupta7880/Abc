@@ -65,7 +65,7 @@
     "bracket_order": true
   },
   {
-    "limit_price": 902.01,
+    "limit_price": "902.01",
     "user_id": 37780748,
     "stop_trigger_method": null,
     "average_fill_price": null,
@@ -79,14 +79,14 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-22T23:59:06.880Z"
+      "user_updated_at": "2026-04-22T23:59:12.873Z"
     },
     "trail_amount": null,
     "cancellation_reason": null,
     "margin_mode": "portfolio",
     "mmp": "disabled",
     "quote_size": null,
-    "updated_at": "2026-04-22T23:59:06.881335Z",
+    "updated_at": "2026-04-22T23:59:12.873756Z",
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "product_id": 128722,
