@@ -1,5 +1,5 @@
 {
-  "ProgramStartStop" : true,
+  "ProgramStartStop" : false,
   "strategy":{
     "C-ETH-1800-310726":{
       "SELL1":["P-ETH-1800-310726",12345],
