@@ -1,6 +1,73 @@
 [
   {
     "trail_amount": null,
+    "created_at": "2026-04-30T13:35:07.377945Z",
+    "user_id": 37780748,
+    "quote_size": null,
+    "meta_data": {
+      "ip": "2404:7c00:4b:9314:9168:500a:c1a8:f690",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "state": "open",
+    "reduce_only": false,
+    "time_in_force": "gtc",
+    "id": 1296714566,
+    "margin_mode": "portfolio",
+    "commission": "0",
+    "bracket_take_profit_limit_price": null,
+    "client_order_id": null,
+    "cancellation_reason": null,
+    "order_type": "limit_order",
+    "average_fill_price": null,
+    "bracket_order": null,
+    "paid_commission": "0",
+    "unfilled_size": 5,
+    "bracket_stop_loss_limit_price": null,
+    "product": {
+      "contract_type": "perpetual_futures",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 27,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "BTCUSD",
+      "tick_size": "0.5",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "bracket_trail_amount": null,
+    "stop_order_type": null,
+    "product_id": 27,
+    "bracket_take_profit_price": null,
+    "size": 5,
+    "stop_trigger_method": null,
+    "limit_price": "76000",
+    "bracket_stop_loss_price": null,
+    "stop_price": null,
+    "mmp": "disabled",
+    "product_symbol": "BTCUSD",
+    "side": "buy",
+    "updated_at": "2026-04-30T13:35:07.377945Z"
+  },
+  {
+    "trail_amount": null,
     "created_at": "2026-04-28T18:12:16.244532Z",
     "user_id": 37780748,
     "quote_size": null,
@@ -9,7 +76,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-30T13:34:29.678Z"
+      "user_updated_at": "2026-04-30T13:35:01.713Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -59,13 +126,13 @@
     "bracket_take_profit_price": null,
     "size": 85,
     "stop_trigger_method": null,
-    "limit_price": "558.81",
+    "limit_price": "558.01",
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "C-ETH-1800-310726",
     "side": "buy",
-    "updated_at": "2026-04-30T13:34:29.679218Z"
+    "updated_at": "2026-04-30T13:35:01.714376Z"
   },
   {
     "trail_amount": null,
@@ -79,7 +146,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-30T13:34:44.745Z"
+      "user_updated_at": "2026-04-30T13:35:08.535Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -129,13 +196,13 @@
     "bracket_take_profit_price": null,
     "size": 30,
     "stop_trigger_method": null,
-    "limit_price": "877.81",
+    "limit_price": 877.11,
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "C-ETH-1400-260626",
     "side": "buy",
-    "updated_at": "2026-04-30T13:34:44.745868Z"
+    "updated_at": "2026-04-30T13:35:08.535740Z"
   },
   {
     "trail_amount": null,
@@ -147,7 +214,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-30T13:34:32.911Z"
+      "user_updated_at": "2026-04-30T13:35:03.468Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -197,12 +264,12 @@
     "bracket_take_profit_price": null,
     "size": 48,
     "stop_trigger_method": null,
-    "limit_price": "485.91",
+    "limit_price": "485.11",
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "C-ETH-1900-310726",
     "side": "buy",
-    "updated_at": "2026-04-30T13:34:32.911608Z"
+    "updated_at": "2026-04-30T13:35:03.469435Z"
   }
 ]
