@@ -46,15 +46,16 @@
     },
     "paid_commission": "0",
     "meta_data": {
+      "edit_timestamp": "2026-04-30 04:14:17.621877Z",
       "ip": "2400:1a00:2b20:52d1:4d07:9763:8804:fe46",
-      "order_source": "charts_SL_order",
+      "order_source": "charts_SL_edit_order",
       "source": "mobile_app_android"
     },
     "client_order_id": null,
     "trail_amount": null,
     "product_id": 27,
     "order_type": "market_order",
-    "stop_price": "75250.5",
+    "stop_price": "75381.5",
     "size": 5,
     "stop_order_type": "stop_loss_order",
     "average_fill_price": null,
@@ -63,11 +64,11 @@
     "product_symbol": "BTCUSD",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-30T02:48:16.919755Z"
+    "updated_at": "2026-04-30T04:14:17.621942Z"
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "549.61",
+    "limit_price": 550.71,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -135,7 +136,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "865.81",
+    "limit_price": 867.41,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -186,7 +187,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-30T04:13:49.725Z"
+      "user_updated_at": "2026-04-30T04:14:11.769Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -201,11 +202,11 @@
     "product_symbol": "C-ETH-1400-260626",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-30T04:13:49.725533Z"
+    "updated_at": "2026-04-30T04:14:11.770631Z"
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "477.11",
+    "limit_price": 478.11,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
