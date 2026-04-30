@@ -9,7 +9,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-30T00:00:27.904Z"
+      "user_updated_at": "2026-04-30T00:00:42.681Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -59,13 +59,13 @@
     "bracket_take_profit_price": null,
     "size": 85,
     "stop_trigger_method": null,
-    "limit_price": "556.31",
+    "limit_price": "555.21",
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "C-ETH-1800-310726",
     "side": "buy",
-    "updated_at": "2026-04-30T00:00:27.904839Z"
+    "updated_at": "2026-04-30T00:00:42.681656Z"
   },
   {
     "trail_amount": null,
@@ -79,7 +79,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-30T00:00:29.342Z"
+      "user_updated_at": "2026-04-30T00:00:33.340Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -129,13 +129,13 @@
     "bracket_take_profit_price": null,
     "size": 30,
     "stop_trigger_method": null,
-    "limit_price": 873.41,
+    "limit_price": 872.41,
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "C-ETH-1400-260626",
     "side": "buy",
-    "updated_at": "2026-04-30T00:00:29.342913Z"
+    "updated_at": "2026-04-30T00:00:33.340993Z"
   },
   {
     "trail_amount": null,
@@ -147,7 +147,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-30T00:00:28.003Z"
+      "user_updated_at": "2026-04-30T00:00:33.482Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -197,12 +197,12 @@
     "bracket_take_profit_price": null,
     "size": 48,
     "stop_trigger_method": null,
-    "limit_price": 482.81,
+    "limit_price": 481.71,
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "C-ETH-1900-310726",
     "side": "buy",
-    "updated_at": "2026-04-30T00:00:28.003715Z"
+    "updated_at": "2026-04-30T00:00:33.483454Z"
   }
 ]
