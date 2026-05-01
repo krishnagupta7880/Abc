@@ -2,9 +2,9 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": 576.41,
+    "limit_price": 578.31,
     "cancellation_reason": null,
-    "updated_at": "2026-05-01T03:29:28.411414Z",
+    "updated_at": "2026-05-01T03:30:02.670514Z",
     "commission": "0",
     "stop_trigger_method": null,
     "reduce_only": false,
@@ -22,7 +22,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-01T03:29:28.410Z"
+      "user_updated_at": "2026-05-01T03:30:02.670Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
@@ -72,9 +72,9 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "898.11",
+    "limit_price": "897.04",
     "cancellation_reason": null,
-    "updated_at": "2026-05-01T03:29:36.876473Z",
+    "updated_at": "2026-05-01T03:29:52.634424Z",
     "commission": "0",
     "stop_trigger_method": null,
     "reduce_only": false,
@@ -92,7 +92,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-01T03:29:36.875Z"
+      "user_updated_at": "2026-05-01T03:29:52.633Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
@@ -142,9 +142,9 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": 501.41,
+    "limit_price": 503.41,
     "cancellation_reason": null,
-    "updated_at": "2026-05-01T03:29:36.420440Z",
+    "updated_at": "2026-05-01T03:30:02.534139Z",
     "commission": "0",
     "stop_trigger_method": null,
     "reduce_only": false,
@@ -160,7 +160,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-01T03:29:36.419Z"
+      "user_updated_at": "2026-05-01T03:30:02.533Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
