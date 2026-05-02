@@ -196,7 +196,7 @@
     "side": "buy",
     "reduce_only": false,
     "created_at": "2026-04-28T18:02:12.808791Z",
-    "limit_price": "918.41",
+    "limit_price": 917.61,
     "product_symbol": "C-ETH-1400-260626",
     "cancellation_reason": null,
     "mmp": "disabled",
