@@ -137,7 +137,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "916.91",
+    "limit_price": 915.71,
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -207,7 +207,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "513.51",
+    "limit_price": 511.78,
     "user_id": 37780748,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
