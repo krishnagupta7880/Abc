@@ -4,7 +4,7 @@
     "margin_mode": "portfolio",
     "limit_price": null,
     "cancellation_reason": null,
-    "updated_at": "2026-05-02T16:33:03.473846Z",
+    "updated_at": "2026-05-03T06:31:19.734322Z",
     "commission": "0",
     "stop_trigger_method": "mark_price",
     "reduce_only": true,
@@ -16,7 +16,7 @@
     "product_id": 27,
     "bracket_stop_loss_price": null,
     "meta_data": {
-      "edit_timestamp": "2026-05-02 16:33:03.473796Z",
+      "edit_timestamp": "2026-05-03 06:31:19.734270Z",
       "ip": "2400:1a00:2b20:52d1:c9f6:6b4c:6248:1771",
       "order_source": "charts_SL_edit_order",
       "source": "mobile_app_android"
