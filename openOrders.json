@@ -8,7 +8,7 @@
     "bracket_take_profit_limit_price": null,
     "trail_amount": null,
     "stop_order_type": "take_profit_order",
-    "updated_at": "2026-05-04T12:27:18.712051Z",
+    "updated_at": "2026-05-04T12:27:30.467023Z",
     "average_fill_price": null,
     "state": "pending",
     "user_id": 37780748,
@@ -16,7 +16,7 @@
     "bracket_trail_amount": null,
     "unfilled_size": 10,
     "meta_data": {
-      "edit_timestamp": "2026-05-04 12:27:18.712004Z",
+      "edit_timestamp": "2026-05-04 12:27:30.466944Z",
       "ip": "2400:1a00:2b2c:3d37:81d0:a3e1:6ee8:f259",
       "order_source": "charts_TP_edit_order",
       "source": "desktop"
@@ -25,7 +25,7 @@
     "order_type": "market_order",
     "limit_price": null,
     "time_in_force": "gtc",
-    "stop_price": "77051",
+    "stop_price": "76811.5",
     "product_id": 27,
     "commission": "0",
     "size": 10,
