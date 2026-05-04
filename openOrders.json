@@ -143,7 +143,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-04T14:08:55.435Z"
+      "user_updated_at": "2026-05-04T14:09:21.478Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -193,13 +193,13 @@
     "bracket_take_profit_price": null,
     "size": 55,
     "stop_trigger_method": null,
-    "limit_price": "613.21",
+    "limit_price": 610.51,
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "C-ETH-1800-310726",
     "side": "buy",
-    "updated_at": "2026-05-04T14:08:55.435605Z"
+    "updated_at": "2026-05-04T14:09:21.478779Z"
   },
   {
     "trail_amount": null,
@@ -211,7 +211,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-04T14:08:54.327Z"
+      "user_updated_at": "2026-05-04T14:09:17.600Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -261,12 +261,12 @@
     "bracket_take_profit_price": null,
     "size": 20,
     "stop_trigger_method": null,
-    "limit_price": "535.51",
+    "limit_price": 533.01,
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "C-ETH-1900-310726",
     "side": "buy",
-    "updated_at": "2026-05-04T14:08:54.328080Z"
+    "updated_at": "2026-05-04T14:09:17.600980Z"
   }
 ]
