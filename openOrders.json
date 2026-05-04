@@ -270,7 +270,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "558.61",
+    "limit_price": "559.41",
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -319,7 +319,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-04T21:31:32.290Z"
+      "user_updated_at": "2026-05-04T21:34:20.818Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -334,6 +334,6 @@
     "product_symbol": "C-ETH-1900-310726",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-04T21:31:32.290502Z"
+    "updated_at": "2026-05-04T21:34:20.819384Z"
   }
 ]
