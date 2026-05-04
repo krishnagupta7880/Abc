@@ -71,7 +71,7 @@
     "margin_mode": "portfolio",
     "limit_price": null,
     "cancellation_reason": null,
-    "updated_at": "2026-05-04T15:42:26.648439Z",
+    "updated_at": "2026-05-04T15:42:49.939503Z",
     "commission": "0",
     "stop_trigger_method": "mark_price",
     "reduce_only": true,
@@ -83,7 +83,7 @@
     "product_id": 27,
     "bracket_stop_loss_price": null,
     "meta_data": {
-      "edit_timestamp": "2026-05-04 15:42:26.648396Z",
+      "edit_timestamp": "2026-05-04 15:42:49.939457Z",
       "ip": "2400:1a00:2b2c:3d37:81d0:a3e1:6ee8:f259",
       "order_source": "charts_TP_edit_order",
       "source": "desktop"
@@ -97,7 +97,7 @@
     "bracket_trail_amount": null,
     "created_at": "2026-05-04T12:27:13.901066Z",
     "order_type": "market_order",
-    "stop_price": "74851.5",
+    "stop_price": "76073",
     "product": {
       "contract_type": "perpetual_futures",
       "contract_unit_currency": "BTC",
@@ -136,9 +136,9 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": 628.11,
+    "limit_price": "628.11",
     "cancellation_reason": null,
-    "updated_at": "2026-05-04T15:42:43.127431Z",
+    "updated_at": "2026-05-04T15:42:52.650363Z",
     "commission": "0",
     "stop_trigger_method": null,
     "reduce_only": false,
@@ -154,7 +154,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-04T15:42:43.126Z"
+      "user_updated_at": "2026-05-04T15:42:52.649Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
@@ -204,7 +204,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "550.01",
+    "limit_price": 549.21,
     "cancellation_reason": null,
     "updated_at": "2026-05-04T15:42:20.479468Z",
     "commission": "0",
