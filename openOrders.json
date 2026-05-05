@@ -203,7 +203,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "568.21",
+    "limit_price": 569.21,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
