@@ -203,7 +203,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "654.11",
+    "limit_price": 653.21,
     "cancellation_reason": null,
     "updated_at": "2026-05-05T11:44:41.194954Z",
     "commission": "0",
