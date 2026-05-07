@@ -46,15 +46,16 @@
     },
     "paid_commission": "0",
     "meta_data": {
+      "edit_timestamp": "2026-05-07 04:54:42.568893Z",
       "ip": "2400:1a00:2b25:6809:783c:f35:87a8:84f",
-      "order_source": "charts_TP_order",
+      "order_source": "charts_TP_edit_order",
       "source": "desktop"
     },
     "client_order_id": null,
     "trail_amount": null,
     "product_id": 27,
     "order_type": "market_order",
-    "stop_price": "80155",
+    "stop_price": "79751.5",
     "size": 17,
     "stop_order_type": "take_profit_order",
     "average_fill_price": null,
@@ -63,7 +64,7 @@
     "product_symbol": "BTCUSD",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-07T04:16:31.317054Z"
+    "updated_at": "2026-05-07T04:54:42.568938Z"
   },
   {
     "margin_mode": "portfolio",
