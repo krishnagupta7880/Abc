@@ -9,7 +9,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-11T05:52:08.913Z"
+      "user_updated_at": "2026-05-11T05:53:49.052Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -59,13 +59,13 @@
     "bracket_take_profit_price": null,
     "size": 55,
     "stop_trigger_method": null,
-    "limit_price": "604.51",
+    "limit_price": "603.71",
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "C-ETH-1800-310726",
     "side": "buy",
-    "updated_at": "2026-05-11T05:52:08.913983Z"
+    "updated_at": "2026-05-11T05:53:49.052968Z"
   },
   {
     "trail_amount": null,
