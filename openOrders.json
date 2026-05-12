@@ -4,7 +4,7 @@
     "margin_mode": "portfolio",
     "limit_price": null,
     "cancellation_reason": null,
-    "updated_at": "2026-05-12T10:34:10.719748Z",
+    "updated_at": "2026-05-12T16:31:34.860088Z",
     "commission": "0",
     "stop_trigger_method": "mark_price",
     "reduce_only": true,
@@ -16,7 +16,7 @@
     "product_id": 27,
     "bracket_stop_loss_price": null,
     "meta_data": {
-      "edit_timestamp": "2026-05-12 10:34:10.719704Z",
+      "edit_timestamp": "2026-05-12 16:31:34.860032Z",
       "ip": "27.34.70.228",
       "order_source": "charts_TP_edit_order",
       "source": "mobile_app_android"
@@ -30,7 +30,7 @@
     "bracket_trail_amount": null,
     "created_at": "2026-05-08T16:44:39.273872Z",
     "order_type": "market_order",
-    "stop_price": "78537.5",
+    "stop_price": "74923.5",
     "product": {
       "contract_type": "perpetual_futures",
       "contract_unit_currency": "BTC",
