@@ -1,33 +1,42 @@
 [
   {
-    "trail_amount": null,
-    "margin_mode": "portfolio",
     "limit_price": null,
     "user_id": 37780748,
-    "bracket_stop_loss_limit_price": null,
-    "bracket_take_profit_price": null,
     "stop_trigger_method": "mark_price",
-    "bracket_order": true,
-    "side": "buy",
+    "average_fill_price": null,
+    "created_at": "2026-05-08T16:44:39.273872Z",
     "reduce_only": true,
     "state": "pending",
     "id": 1308525434,
     "unfilled_size": 32,
-    "bracket_take_profit_limit_price": null,
-    "paid_commission": "0",
-    "quote_size": null,
-    "client_order_id": null,
-    "bracket_stop_loss_price": null,
+    "meta_data": {
+      "edit_timestamp": "2026-05-12 01:43:00.386133Z",
+      "ip": "27.34.70.228",
+      "order_source": "charts_TP_edit_order",
+      "source": "mobile_app_android"
+    },
+    "trail_amount": null,
+    "cancellation_reason": null,
+    "margin_mode": "portfolio",
     "mmp": "disabled",
-    "average_fill_price": null,
-    "order_type": "market_order",
-    "stop_price": "78855.5",
-    "product_id": 27,
+    "quote_size": null,
     "updated_at": "2026-05-12T01:43:00.386181Z",
     "time_in_force": "gtc",
+    "bracket_stop_loss_price": null,
+    "product_id": 27,
+    "order_type": "market_order",
+    "stop_price": "78855.5",
+    "bracket_stop_loss_limit_price": null,
     "size": 32,
     "stop_order_type": "take_profit_order",
+    "bracket_take_profit_price": null,
+    "commission": "0",
+    "side": "buy",
+    "product_symbol": "BTCUSD",
     "bracket_trail_amount": null,
+    "client_order_id": null,
+    "paid_commission": "0",
+    "bracket_take_profit_limit_price": null,
     "product": {
       "contract_type": "perpetual_futures",
       "contract_unit_currency": "BTC",
@@ -55,15 +64,6 @@
         "symbol": "BTC"
       }
     },
-    "commission": "0",
-    "meta_data": {
-      "edit_timestamp": "2026-05-12 01:43:00.386133Z",
-      "ip": "27.34.70.228",
-      "order_source": "charts_TP_edit_order",
-      "source": "mobile_app_android"
-    },
-    "created_at": "2026-05-08T16:44:39.273872Z",
-    "product_symbol": "BTCUSD",
-    "cancellation_reason": null
+    "bracket_order": true
   }
 ]
