@@ -1,22 +1,36 @@
 [
   {
+    "trail_amount": null,
     "margin_mode": "portfolio",
     "limit_price": null,
-    "bracket_stop_loss_price": null,
-    "stop_trigger_method": "mark_price",
     "cancellation_reason": null,
+    "updated_at": "2026-05-12T01:43:00.386181Z",
+    "commission": "0",
+    "stop_trigger_method": "mark_price",
     "reduce_only": true,
+    "client_order_id": null,
     "state": "pending",
     "id": 1308525434,
     "unfilled_size": 32,
+    "user_id": 37780748,
+    "product_id": 27,
+    "bracket_stop_loss_price": null,
+    "meta_data": {
+      "edit_timestamp": "2026-05-12 01:43:00.386133Z",
+      "ip": "27.34.70.228",
+      "order_source": "charts_TP_edit_order",
+      "source": "mobile_app_android"
+    },
+    "mmp": "disabled",
     "time_in_force": "gtc",
     "bracket_order": true,
-    "user_id": 37780748,
-    "side": "buy",
-    "bracket_take_profit_price": null,
-    "commission": "0",
-    "created_at": "2026-05-08T16:44:39.273872Z",
+    "bracket_stop_loss_limit_price": null,
+    "bracket_take_profit_limit_price": null,
     "quote_size": null,
+    "bracket_trail_amount": null,
+    "created_at": "2026-05-08T16:44:39.273872Z",
+    "order_type": "market_order",
+    "stop_price": "78855.5",
     "product": {
       "contract_type": "perpetual_futures",
       "contract_unit_currency": "BTC",
@@ -44,26 +58,12 @@
         "symbol": "BTC"
       }
     },
-    "paid_commission": "0",
-    "meta_data": {
-      "edit_timestamp": "2026-05-12 01:43:00.386133Z",
-      "ip": "27.34.70.228",
-      "order_source": "charts_TP_edit_order",
-      "source": "mobile_app_android"
-    },
-    "client_order_id": null,
-    "trail_amount": null,
-    "product_id": 27,
-    "order_type": "market_order",
-    "stop_price": "78855.5",
-    "size": 32,
-    "stop_order_type": "take_profit_order",
     "average_fill_price": null,
-    "mmp": "disabled",
-    "bracket_take_profit_limit_price": null,
     "product_symbol": "BTCUSD",
-    "bracket_stop_loss_limit_price": null,
-    "bracket_trail_amount": null,
-    "updated_at": "2026-05-12T01:43:00.386181Z"
+    "size": 32,
+    "paid_commission": "0",
+    "stop_order_type": "take_profit_order",
+    "side": "buy",
+    "bracket_take_profit_price": null
   }
 ]
