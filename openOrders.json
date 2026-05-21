@@ -30,7 +30,7 @@
     "client_order_id": null,
     "margin_mode": "portfolio",
     "trail_amount": null,
-    "updated_at": "2026-05-21T06:56:49.084007Z",
+    "updated_at": "2026-05-21T06:57:05.664756Z",
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": null,
     "unfilled_size": 10,
@@ -41,12 +41,12 @@
     "bracket_stop_loss_price": null,
     "order_type": "market_order",
     "meta_data": {
-      "edit_timestamp": "2026-05-21 06:56:49.083960Z",
+      "edit_timestamp": "2026-05-21 06:57:05.664667Z",
       "ip": "2400:1a00:2b29:4cb6:25e:bfc3:dd95:ce6f",
       "order_source": "charts_TP_edit_order",
       "source": "mobile_app_android"
     },
-    "stop_price": "77167",
+    "stop_price": "76838.5",
     "user_id": 37780748,
     "paid_commission": "0",
     "time_in_force": "gtc",
