@@ -1,29 +1,26 @@
 [
   {
-    "commission": "0",
-    "limit_price": null,
-    "time_in_force": "gtc",
-    "bracket_order": true,
-    "cancellation_reason": null,
-    "unfilled_size": 50,
     "bracket_trail_amount": null,
-    "created_at": "2026-05-26T18:05:35.995586Z",
-    "stop_trigger_method": "mark_price",
-    "meta_data": {
-      "ip": "2400:1a00:2b29:4cb6:29be:7004:8098:d245",
-      "order_source": "charts_TP_order",
-      "source": "desktop"
-    },
-    "product_symbol": "BTCUSD",
-    "product_id": 27,
-    "paid_commission": "0",
     "quote_size": null,
-    "trail_amount": null,
-    "side": "sell",
-    "size": 50,
-    "margin_mode": "portfolio",
+    "paid_commission": "0",
+    "reduce_only": true,
     "stop_order_type": "take_profit_order",
+    "bracket_take_profit_limit_price": null,
+    "cancellation_reason": null,
+    "trail_amount": null,
+    "margin_mode": "portfolio",
+    "bracket_take_profit_price": null,
+    "bracket_stop_loss_limit_price": null,
+    "time_in_force": "gtc",
     "client_order_id": null,
+    "stop_price": "78079.5",
+    "commission": "0",
+    "size": 50,
+    "stop_trigger_method": "mark_price",
+    "created_at": "2026-05-26T18:05:35.995586Z",
+    "order_type": "market_order",
+    "unfilled_size": 50,
+    "product_id": 27,
     "product": {
       "id": 27,
       "symbol": "BTCUSD",
@@ -39,30 +36,33 @@
         "precision": 8,
         "minimum_precision": 4
       },
-      "settling_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
       "spot_index": {
         "symbol": ".DEXBTUSD"
       },
       "contract_value": "0.001",
       "notional_type": "vanilla",
+      "settling_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
       "contract_unit_currency": "BTC"
     },
-    "bracket_take_profit_price": null,
-    "user_id": 37780748,
-    "stop_price": "78079.5",
-    "reduce_only": true,
-    "id": 1332579235,
-    "order_type": "market_order",
-    "mmp": "disabled",
-    "bracket_take_profit_limit_price": null,
-    "state": "pending",
+    "product_symbol": "BTCUSD",
     "updated_at": "2026-05-29T14:24:32.542427Z",
+    "side": "sell",
+    "meta_data": {
+      "ip": "2400:1a00:2b29:4cb6:29be:7004:8098:d245",
+      "order_source": "charts_TP_order",
+      "source": "desktop"
+    },
+    "mmp": "disabled",
+    "limit_price": null,
+    "id": 1332579235,
+    "bracket_order": true,
+    "state": "pending",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
-    "bracket_stop_loss_limit_price": null
+    "user_id": 37780748
   }
 ]
