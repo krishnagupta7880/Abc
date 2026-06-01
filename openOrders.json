@@ -1,29 +1,23 @@
 [
   {
-    "commission": "0",
+    "bracket_take_profit_limit_price": null,
     "limit_price": null,
-    "time_in_force": "gtc",
-    "bracket_order": true,
-    "cancellation_reason": null,
-    "unfilled_size": 50,
-    "bracket_trail_amount": null,
-    "created_at": "2026-05-26T18:05:35.995586Z",
-    "stop_trigger_method": "mark_price",
-    "meta_data": {
-      "ip": "2400:1a00:2b29:4cb6:29be:7004:8098:d245",
-      "order_source": "charts_TP_order",
-      "source": "desktop"
-    },
-    "product_symbol": "BTCUSD",
-    "product_id": 27,
-    "paid_commission": "0",
-    "quote_size": null,
-    "trail_amount": null,
-    "side": "sell",
-    "size": 50,
     "margin_mode": "portfolio",
+    "unfilled_size": 50,
+    "mmp": "disabled",
+    "time_in_force": "gtc",
+    "updated_at": "2026-05-29T14:24:32.542427Z",
+    "bracket_trail_amount": null,
+    "stop_trigger_method": "mark_price",
+    "product_id": 27,
+    "product_symbol": "BTCUSD",
+    "quote_size": null,
+    "size": 50,
+    "cancellation_reason": null,
     "stop_order_type": "take_profit_order",
-    "client_order_id": null,
+    "side": "sell",
+    "user_id": 37780748,
+    "stop_price": "78079.5",
     "product": {
       "id": 27,
       "symbol": "BTCUSD",
@@ -39,30 +33,36 @@
         "precision": 8,
         "minimum_precision": 4
       },
-      "settling_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
       "spot_index": {
         "symbol": ".DEXBTUSD"
       },
       "contract_value": "0.001",
       "notional_type": "vanilla",
+      "settling_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
       "contract_unit_currency": "BTC"
     },
-    "bracket_take_profit_price": null,
-    "user_id": 37780748,
-    "stop_price": "78079.5",
     "reduce_only": true,
+    "created_at": "2026-05-26T18:05:35.995586Z",
+    "commission": "0",
+    "bracket_stop_loss_price": null,
+    "meta_data": {
+      "ip": "2400:1a00:2b29:4cb6:29be:7004:8098:d245",
+      "order_source": "charts_TP_order",
+      "source": "desktop"
+    },
+    "bracket_stop_loss_limit_price": null,
     "id": 1332579235,
     "order_type": "market_order",
-    "mmp": "disabled",
-    "bracket_take_profit_limit_price": null,
+    "client_order_id": null,
     "state": "pending",
-    "updated_at": "2026-05-29T14:24:32.542427Z",
+    "trail_amount": null,
     "average_fill_price": null,
-    "bracket_stop_loss_price": null,
-    "bracket_stop_loss_limit_price": null
+    "paid_commission": "0",
+    "bracket_take_profit_price": null,
+    "bracket_order": true
   }
 ]
